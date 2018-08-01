@@ -9,6 +9,8 @@ breadcrumb: Who We Are
 
 ### **Historical Background**
 
+![Gardens by the Bay]({{“/images/hero-banner.png” | absolute_url }})
+
 Architectural professionalism had its beginnings in the nineteenth century. Before then, architects could concern themselves primarily with visual matters of form, space and style. They were responsible for broad profiles and could confidently leave much of the details in the capable hands of master craftsmen.
 
 As their services became more predominantly commercial in character, architects began to offer their skills in return for a fee. Firms of building contractors, headed by men whose aims were profit oriented and sometimes speculative overtook master craftsmen. Faced with such an environment, the architecture profession had to maintain its competence, honesty and integrity and architects wished not to be confused with builders or surveyors.
