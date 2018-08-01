@@ -9,6 +9,9 @@
   external: true
   sub-links:
   - title: Register of Architects
+    url: https://data.gov.sg/dataset/enrolment-moe-kindergartens
+    external: true
+  - title: Register of Architecture Firms
     url: https://data.gov.sg/
     external: true
   - title: ASEAN Architect Register
