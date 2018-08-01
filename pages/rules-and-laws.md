@@ -5,33 +5,28 @@ permalink: /rules-and-laws/
 breadcrumb: Rules and Laws
 ---
 
-### **Some information**
+### **The Architects Act**
 
-Some content here is quite interesting.
+The Architects Ordinance or the Architects Act as it is known today evolved over the years in light of transitions within Singapore. Listed below are some of the more pertinent changes which had occurred over the years.
 
-<table class="table-v">
-  <tr>
-    <td>Singapore population size</td>
-    <td>5.6 million (2016)</td>
-  </tr>
-  <tr>
-    <td>Land mass of Singapore</td>
-    <td>719.9 km²</td>
-  </tr>
-  <tr>
-    <td>Other information</td>
-    <td><b>Ethnic groups</b> <br>74.3% Chinese <br>13.3% Malay <br> 9.1% Indian <br><br> <b>3.2% Others</b></td>
-  </tr>
-</table>
+* 1927 - Architects Ordinance 1926 (Chapter 64)
+* 1941 - Architects Ordinance 1941 (No 23 of 1941) & Architects By-Laws 1941
+* 1953 - Architects Ordinance 1951 (No 48 of 1951)
+* 1955 - Architects Ordinance 1941 (No. 23 of 1941), Scales of Fees
+* 1957 - Architects Ordinance (Chapter 189) & Architects By-Laws 1941
+* 1957 - Architects (Amendment) Ordinance (No 16 of 1957)
+* 1957 - Architects (Amendment) Ordinance 1957 (No 22 of 1957)
+* 1970 - Architects Act (Chapter 213), 1970
+* 1976 - Architects Act 1976 (No. 14 of 1976)
+* 1980 - Architects (Amendment) Act, 1980
+* 1985 - Architects Act (Chapter 12), Revised Edition 1985 of No. 14 of 1976
+* 1991 - Architects Act 1991 (No. 22 of 1991)
+* 1992 - Architects Act (Chapter 12), Revised Edition 1992 of No. 22 of 1991
+* 1995 - Architects (Amendment) Act, No. 3 of 1995
+* 2000 - Architects Act (Chapter 12), Revised Edition 2000 of No.22 of 1991
 
-### **Static Pages Can Be Exciting**
+The Architects Act today lists down a host of ethics, codes and regulations which provides the framework to maintain professionalism in an increasingly competitive business climate. Registration is stringent and the Board requires registered architects to adhere to a high code of ethics and that they must fulfil with complete integrity their obligations to clients, the profession, and the public.
 
-Lorem ipsum dolor sit amet, usu te graeco viderer, eu duis convenire corrumpit has. Vel accumsan scaevola ei, qui munere eripuit in. Petentium accusamus gloriatur usu et, maiorum singulis vim et. Adhuc dicunt at quo. Eu illud recteque mediocrem pri, ius adhuc consulatu vituperatoribus an. Discere alienum disputationi id vis, eu eirmod sensibus per, vel justo tacimates id.
+### **Acts**
 
-Fastidii dissentias ex sit, mea id nemore expetenda persequeris. Pro te diam noster signiferumque, voluptua legendos scripserit an pro. Aeque adipisci per et, congue praesent vis ad, eos cu docendi percipitur. Ne sea sonet aeterno, cu ipsum dignissim dissentias mel.
-
-Accumsan quaerendum ius ei. Ius amet percipit patrioque at, sea utamur mnesarchum et. Mei te quis iuvaret detracto. Has nihil quando appellantur in, et eum wisi ridens atomorum. Id scripta voluptua voluptaria vix, cetero ponderum sea ut.
-
-Et postea disputando eos, nec ei veri gubergren, aperiam voluptua facilisi id quo. Est aeque saepe commodo te, ea vim modo falli interesset. Rebum velit fierent ex est, cu quis civibus epicuri sit, enim mutat has et. Case epicuri detraxit est ex. Sea et iuvaret admodum propriae.
-
-Probo novum tritani mel et. Wisi consulatu duo ea. Fabulas deleniti an per. Propriae explicari vituperata duo ea, pro ei vidisse fuisset constituam. At quem phaedrum cotidieque mea, an mei solet probatus, oratio sensibus nec cu. Ne prima feugait mea. Id sed vidit consectetuer, ea eos dicat putent honestatis.
+[Architects Act](https://sso.agc.gov.sg/Act/AA1991){:target="_blank"}
