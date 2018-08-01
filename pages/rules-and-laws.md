@@ -30,3 +30,5 @@ The Architects Act today lists down a host of ethics, codes and regulations whic
 ### **Acts**
 
 [Architects Act](https://sso.agc.gov.sg/Act/AA1991){:target="_blank"}
+
+[Architects Rules](https://sso.agc.gov.sg/SL/AA1991-R1){:target="_blank"}
