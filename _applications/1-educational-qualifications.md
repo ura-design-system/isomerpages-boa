@@ -51,3 +51,21 @@ The Board also adopts a list of programmes in architecture accredited and gazett
     	2. Bachelor of Architecture (Historical)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>AUSTRALIA</th>
+    <th>University of Adelaide</th>
+    <th>1. Master of Architecture<br>2. Bachelor of Architecture (Historic)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Curtin University of Technology (from 1987) (Formerly known as Western Australian Institute of Technology WAIT - up to 1986)</td>
+    <td>1. Master of Architecture<br>2. Bachelor of Architecture (Historic)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Deakin University (Gordon Institute of Technology, Geelong)</td>
+    <td>1. Master of Architecture<br>2. Bachelor of Architecture (Historic)</td>
+  </tr>
+</table>
