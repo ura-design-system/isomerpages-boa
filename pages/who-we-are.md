@@ -9,7 +9,6 @@ breadcrumb: Who We Are
 
 ### **Historical Background**
 
-![Gardens by the Bay]({{“/images/hero-banner.png” | absolute_url }})
 ![Alternate text for image]({{"/images/hero-banner.png" | absolute_url}})
 
 Architectural professionalism had its beginnings in the nineteenth century. Before then, architects could concern themselves primarily with visual matters of form, space and style. They were responsible for broad profiles and could confidently leave much of the details in the capable hands of master craftsmen.
