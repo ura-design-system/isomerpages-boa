@@ -29,5 +29,7 @@
     url: /applications/apec-architecture-project/
   - title: Forms
     url: /applications/forms/
+  - title: Test
+    url: /applications/test/
 - title: Rules and Laws
   url: /rules-and-laws/
