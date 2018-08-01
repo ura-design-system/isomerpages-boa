@@ -12,6 +12,11 @@ hero-title: Board of Architects
 hero-subtitle: A platform to search for registered architects and architecture firms in Singapore
 hero-banner: /images/hero-banner.png
 
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+    
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
@@ -24,11 +29,3 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
-  - title: Dropdown A Content C
-    description: Dropdown A Content C is v important
-    url: /dropdown-A/content-C/
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
