@@ -31,6 +31,8 @@
     url: /applications/forms/
   - title: Test
     url: /applications/test/
+  - title: New
+    url: /applications/new/
 - title: RULES AND LAWS
   url: /rules-and-laws/
 - title: CONTACT US
