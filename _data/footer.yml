@@ -31,5 +31,7 @@
     url: /applications/forms/
   - title: Test
     url: /applications/test/
+  - title: New
+    url: /applications/new/
 - title: Rules and Laws
   url: /rules-and-laws/
