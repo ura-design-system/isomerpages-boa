@@ -24,3 +24,5 @@ Closed on Weekends and Public Holidays <br>
 
 #### Fax
 +65 1234 5678
+
+![National Day Parade]({{"/images/singapore-ndp.jpg" | absolute_url }})
