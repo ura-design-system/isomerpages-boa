@@ -39,9 +39,9 @@ The Board also adopts a list of programmes in architecture accredited and gazett
 
 <table class="table-v">
   <tr>
-    <th>AUSTRALIA</th>
-    <th>University of Adelaide</th>
-    <th>1. Master of Architecture<br>2. Bachelor of Architecture (Historic)</th>
+    <td>AUSTRALIA</td>
+    <td>University of Adelaide</td>
+    <td>1. Master of Architecture<br>2. Bachelor of Architecture (Historic)</td>
   </tr>
   <tr>
     <td></td>
