@@ -32,3 +32,15 @@ The Architects Act today lists down a host of ethics, codes and regulations whic
 [Architects Act](https://sso.agc.gov.sg/Act/AA1991){:target="_blank"}
 
 [Architects Rules](https://sso.agc.gov.sg/SL/AA1991-R1){:target="_blank"}
+
+[Architects Professional Conduct and Ethics Rules](https://sso.agc.gov.sg/SL/AA1991-R2){:target="_blank"}
+
+[Architects Amendment Act 2017 Commencement Notification 2017](https://sso.agc.gov.sg/SL/S564-2017){:target="_blank"}
+
+[Architects Exemption from Experience Requirements Order 2017](https://sso.agc.gov.sg/SL/AA1991-S567-2017){:target="_blank"}
+
+[Architects Exemption from Practising Certificate Order 2017](https://sso.agc.gov.sg/SL/AA1991-S568-2017){:target="_blank"}
+
+[Architects Prescribed Amount of Paid-up Capital Notification](https://sso.agc.gov.sg/SL/AA1991-N2){:target="_blank"}
+
+[Architects Election of Board Members Rules](https://sso.agc.gov.sg/SL/AA1991-R4){:target="_blank"}

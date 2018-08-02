@@ -32,10 +32,8 @@
     url: /applications/apec-architecture-project/
   - title: Forms
     url: /applications/forms/
-  - title: Test
-    url: /applications/test/
-  - title: New
-    url: /applications/new/
+  - title: Complaints
+    url: /applications/complaints/
 - title: RULES AND LAWS
   url: /rules-and-laws/
 - title: CONTACT US
