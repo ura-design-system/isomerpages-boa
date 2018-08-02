@@ -246,16 +246,9 @@ The Board also adopts a list of programmes in architecture accredited and gazett
 	<td>1. Post-Graduate Diploma<br> 2. Master of Architecture in Advanced Architectural Studies</td>
 	</tr>
 	<tr><td>WALES</td>
-	<td>Cardiff University (Formerly known as</td>
-	<td>1. Master of Architecture<br> 2. Master of Architecture with Honours</td>
-	</tr>
-	<tr><td> </td>
-	<td>University of Wales College of Cardiff</td>
-	<td>1. Bachelor of Architecture (Historic)</td>
-	</tr>
-	<tr><td> </td>
-	<td>University of Wales Insitute of Science and Technology - UWIST)</td>
-	<td> </td>
+	<td>Cardiff University (Formerly known as<br>
+		University of Wales College of Cardiff<br> University of Wales Insitute of Science and Technology - UWIST)</td>
+	<td>1. Master of Architecture<br> 2. Master of Architecture with Honours<br> 3. Bachelor of Architecture (Historic)</td>
 	</tr>
 	<tr><td>IRELAND</td>
 	<td>University College, Dublin (The National University of Ireland)</td>
