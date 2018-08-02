@@ -9,8 +9,6 @@ breadcrumb: Who We Are
 
 ### **Historical Background**
 
-![Alternate text for image]({{"/images/hero-banner.png" | absolute_url}})
-
 Architectural professionalism had its beginnings in the nineteenth century. Before then, architects could concern themselves primarily with visual matters of form, space and style. They were responsible for broad profiles and could confidently leave much of the details in the capable hands of master craftsmen.
 
 As their services became more predominantly commercial in character, architects began to offer their skills in return for a fee. Firms of building contractors, headed by men whose aims were profit oriented and sometimes speculative overtook master craftsmen. Faced with such an environment, the architecture profession had to maintain its competence, honesty and integrity and architects wished not to be confused with builders or surveyors.
@@ -32,7 +30,42 @@ With effect from 1st October 2005, the Board will consist of the following membe
 
 #### **Our Board Members**
 
-The Chairman and members of the XYZ Board are appointed by ABC.
+##### **President**
+**Ar. Tan Shao Yen**, CPG Consultants Pte Ltd
+
+##### **Members**
+**Ar. Ashvinkumar s/o Kantilal**, ONG&ONG Pte Ltd
+
+**Ar. Chan Eng Chye, Theodore**, CIAP Architects Pte Ltd
+
+**Ar. Chan Kok Way**, SD Architects & Associates Pte. Ltd.
+
+**Ar. Chan Li Chen, Angelene**, DP Architects Pte Ltd
+
+**Ar. Cheah Kok Ming**, National University of Singapore, Department of Architecture, School of Design and Environment
+
+**Ar. Fun Siew Leng**, Urban Redevelopment Authority
+
+**Ar. Ho Kong Fatt, Richard**, RichardHO Architects
+
+**Ar. Liu Yaw Lin, Warren**, A D Lab Pte Ltd
+
+**Ar. Seah Chee Huang**, DP Architects Pte Ltd
+
+**Ar. Teh Joo Heng**, Teh Joo Heng Architects
+
+**Ar. Wo Mei Lan**, Liu & Wo Architects Pte Ltd
+
+**Ar. Woo Kok Chew, Raymond**, Raymond Woo & Associates Architects
+
+**Er. Chew Keat Chuan**, Building Construction Authority
+
+**Er. Neo Tee Boon Alfred**, Surbana Jurong Pte Ltd
+
+##### **Registrar, Board of Architects**
+
+**Ar. Ng Lye Hock, Larry**, Urban Redevelopment Authority
+
 
 ### **The main functions provided by the Board under the Architects Act 1991 are:**
 
