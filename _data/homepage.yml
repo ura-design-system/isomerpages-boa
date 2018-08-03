@@ -4,6 +4,9 @@
 #                                #
 ##################################
 
+# Favicon
+favicon: /images/favicon-BOA.ico
+
 # Agency logo
 agency-logo: /images/agency-logo.svg
 
