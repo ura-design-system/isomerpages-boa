@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Rules and Laws
-permalink: /rules-and-laws/
+permalink: /who-we-are/rule-and-laws/
 breadcrumb: Rules and Laws
+collection_name: who-we-are
 ---
 
 ### **The Architects Act**
