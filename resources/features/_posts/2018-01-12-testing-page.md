@@ -8,3 +8,5 @@ permalink: "/resources/features/testing-page"
 Edit this file
 
 ### test
+
+![This is an image of a test]({{"/images/singapore-ndp.jpg" | absolute_url }})
