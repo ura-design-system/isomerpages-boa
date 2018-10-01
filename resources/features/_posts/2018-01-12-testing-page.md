@@ -15,4 +15,4 @@ Edit this file
 
 [Test link to open in same tab]({{"/who-we-are/overview/" | absolute_url }})
 
-[Test link to open in new tab]("https://www.google.com"){:target="_blank"}
+[Test link to open in new tab]('https://www.google.com'){:target="_blank"}
