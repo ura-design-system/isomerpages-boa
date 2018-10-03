@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Overiew
-permalink: /applications/overview/
+permalink: /get-registered/overview/
 breadcrumb: Overview
-collection_name: applications
+collection_name: get-registered
 ---
 
 ### **General Registration Requirements For Architectural Practice in Singapore** 

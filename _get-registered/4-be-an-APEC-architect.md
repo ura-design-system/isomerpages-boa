@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Be an APEC architect
-permalink: /applications/be-an-APEC-architect/
+permalink: /get-registered/be-an-APEC-architect/
 breadcrumb: Be an APEC architect
-collection_name: applications
+collection_name: get-registered
 ---
 
 ### **APEC Architect**

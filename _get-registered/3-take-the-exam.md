@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Take the Exam
-permalink: /applications/take-the-exam/
+permalink: /get-registered/take-the-exam/
 breadcrumb: Take the Exam
-collection_name: applications
+collection_name: get-registered
 ---
 
 ### **Examination Information**

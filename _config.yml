@@ -43,7 +43,7 @@ breadcrumbs:
 
 
 collections:
-  applications:
+  get-registered:
     output: true
   who-we-are:
     output: true

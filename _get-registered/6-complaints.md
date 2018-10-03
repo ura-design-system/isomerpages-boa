@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Complaints
-permalink: /applications/complaints/
+permalink: /get-registered/complaints/
 breadcrumb: Complaints
-collection_name: applications
+collection_name: get-registered
 ---
 	
 ### **Complaints against a Registered Architect**

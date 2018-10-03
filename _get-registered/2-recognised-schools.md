@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Recognised schools
-permalink: /applications/recognised-schools/
+permalink: /get-registered/recognised-schools/
 breadcrumb: Recognised schools
-collection_name: applications
+collection_name: get-registered
 ---
 
 ### **Overview**
