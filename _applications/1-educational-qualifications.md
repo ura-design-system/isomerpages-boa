@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Educational Qualifications
-permalink: /applications/educational-qualifications/
+title: Recognised schools
+permalink: /applications/recognised-schools/
 breadcrumb: Educational Qualifications
 collection_name: applications
 ---
