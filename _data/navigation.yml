@@ -36,13 +36,13 @@
     url: https://data.gov.sg/
     external: true
 - title: Get registered
-  url: /get-registered
+  url: /get-registered/
   sub-links:
-- title: Overview
+  - title: Overview
   url: /get-registered/overview/
-- title: Recognised schools
+  - title: Recognised schools
   url: /get-registered/recognised-schools/
-- title: Take the Exam
+  - title: Take the Exam
     url: /get-registered/take-the-exam/
   - title: Be an APEC architect
     url: /get-registered/be-an-APEC-architect/
