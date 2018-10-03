@@ -39,9 +39,9 @@
   url: /get-registered/
   sub-links:
   - title: Overview
-  url: /get-registered/overview/
+    url: /get-registered/overview/
   - title: Recognised schools
-  url: /get-registered/recognised-schools/
+    url: /get-registered/recognised-schools/
   - title: Take the Exam
     url: /get-registered/take-the-exam/
   - title: Be an APEC architect
