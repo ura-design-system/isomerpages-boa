@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Get Registered
-permalink: /applications/get-registered/
-breadcrumb: Get Registered
+title: Overiew
+permalink: /applications/overview/
+breadcrumb: Overview
 collection_name: applications
 ---
 
