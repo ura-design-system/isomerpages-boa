@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Taking the Exam
-permalink: /applications/taking-the-exam/
-breadcrumb: Taking the Exam
+title: Take the Exam
+permalink: /applications/take-the-exam/
+breadcrumb: Take the Exam
 collection_name: applications
 ---
 
