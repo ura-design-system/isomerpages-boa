@@ -21,15 +21,14 @@ button:
     
 key-highlights:
   - title: Become an architect
-    description: Important highlight A is important
+    description: We show you why and how 
     url: https://google.com
     external: true
   - title: Get registered
-    description: Important highlight B is equally important
+    description: Key info and forms you need
     url: https://yahoo.com
     external: true
-  - title: Find an architect
-    description: Page A is important too
+  - title: Find an architect 
     url: /page-A/
 
 # Resources Section
