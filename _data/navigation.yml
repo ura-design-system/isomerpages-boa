@@ -36,7 +36,7 @@
     url: https://data.gov.sg/
     external: true
 - title: Get registered
-  url: /get-registered/
+  url: /get-registered/overview/
   sub-links:
   - title: Overview
     url: /get-registered/overview/
