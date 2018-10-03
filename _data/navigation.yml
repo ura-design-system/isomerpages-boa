@@ -35,21 +35,21 @@
   - title: ASEAN Architect Register
     url: https://data.gov.sg/
     external: true
-- title: Applications
-  url: /applications/educational-qualifications/
+- title: Get registered
+  url: /get-registered
   sub-links:
-  - title: Educational Qualifications
-    url: /applications/educational-qualifications/
-  - title: Taking the Exam
-    url: /applications/taking-the-exam/
-  - title: Get Registered
-    url: /applications/get-registered/
-  - title: APEC Architecture Project
-    url: /applications/apec-architecture-project/
+- title: Overview
+  url: /get-registered/overview/
+- title: Recognised schools
+  url: /get-registered/recognised-schools/
+- title: Take the Exam
+    url: /get-registered/take-the-exam/
+  - title: Be an APEC architect
+    url: /get-registered/be-an-APEC-architect/
   - title: Forms
-    url: /applications/forms/
+    url: /get-registered/forms/
   - title: Complaints
-    url: /applications/complaints/
+    url: /get-registered/complaints/
 - title: Resources
   url: /resources/
   sub-links:
