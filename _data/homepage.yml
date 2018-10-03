@@ -12,6 +12,7 @@ agency-logo: /images/agency-logo.svg
 
 # Hero Banner
 hero-title: Board of Architects
+description: We help regulate Singapore's architectural profession and celebrate good designs
 hero-banner: /images/Hero-banner.jpg
 
 #Call to Action Button
@@ -28,7 +29,8 @@ key-highlights:
     description: Key info and forms you need
     url: https://yahoo.com
     external: true
-  - title: Find an architect 
+  - title: Find an architect
+    description: Key info and forms you need
     url: /page-A/
 
 # Resources Section
