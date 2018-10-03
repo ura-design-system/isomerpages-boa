@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Recognised schools
 permalink: /applications/recognised-schools/
-breadcrumb: Educational Qualifications
+breadcrumb: Recognised schools
 collection_name: applications
 ---
 
