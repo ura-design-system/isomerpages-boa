@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: APEC Architecture Project
-permalink: /applications/apec-architecture-project/
-breadcrumb: APEC Architecture Project
+title: Be an APEC architect
+permalink: /applications/be-an-APEC-architect/
+breadcrumb: Be an APEC architect
 collection_name: applications
 ---
 
