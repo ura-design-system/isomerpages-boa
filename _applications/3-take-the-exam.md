@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Take the Exam
 permalink: /applications/take-the-exam/
-breadcrumb: Take the Exam
+breadcrumb: Take the exam
 collection_name: applications
 ---
 
