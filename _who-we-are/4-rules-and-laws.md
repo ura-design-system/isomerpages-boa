@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Rules and Laws
-permalink: /who-we-are/rule-and-laws/
+permalink: /who-we-are/rules-and-laws/
 breadcrumb: Rules and Laws
 collection_name: who-we-are
 ---
