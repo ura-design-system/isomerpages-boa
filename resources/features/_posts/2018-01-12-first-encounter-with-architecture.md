@@ -5,7 +5,7 @@ date:   2018-01-12
 permalink: "/resources/features/interviews"
 ---
 
-### **First encounters with architecture**
+### **Living the dream**
 
 ![Architects Wong Mun Summ and Phua Hong Wei in their office]({{"/images/features-WOHA.jpg" | absolute_url }})
 
