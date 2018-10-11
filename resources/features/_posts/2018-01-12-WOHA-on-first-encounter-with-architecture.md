@@ -29,6 +29,8 @@ Hong Wei: I always look back at Enabling Village because that is a project that 
 
 Mun Summ: Enabling Village is a good example of how architects shouldn’t over think design. We hit the right level of intervention and created a framework for things to happen. That’s what an architect’s role should be: facilitating rather than building. Enabling Village has a very strong sense of place because of ownership by the community. 
 
+![Mun Summ and Hong Wei at the interview]({{"/images/features-WOHA-the interview.jpg" | absolute_url }})
+
 **What is one thing you like to see more (or less) in Singapore architecture?**
 
 Mun Summ: I want to see more project managers coming back to the architecture side, because we need the strength and the manpower. 
