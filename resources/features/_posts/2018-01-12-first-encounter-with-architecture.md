@@ -21,6 +21,8 @@ Mun Summ: I used to live in Tanglin Halt, and once after coming back from a midn
 
 Hong Wei: I remember my first Lego set. That was something that I liked to play with: to put things together, pull them apart and put them together again into different things. It was exciting and empowering to be able to imagine and structure the space. 
 
+![Plants overhang in WOHA's office]({{"/images/features-WOHA-plants in office.jpg" | absolute_url }})
+
 **Tell us about one work of yours.**
 
 Hong Wei: I always look back at Enabling Village because that is a project that really touches the people on the street. It has been two years since its completion and I still get called back to do tours and presentations. I enjoy doing it: to share our thinking process and see how others react to what was done. 
