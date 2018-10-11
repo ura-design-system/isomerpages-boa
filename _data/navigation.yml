@@ -13,16 +13,16 @@
     url: /who-we-are/functions/
   - title: Board
     url: /who-we-are/board/
-  - title: Rules and Laws
+  - title: Rules and laws
     url: /who-we-are/rules-and-laws/
-- title: Become an Architect
+- title: Become an architect
   url: /become-an-architect/become-an-architect-1/
   sub-links:
   - title: Test 1
     url: /become-an-architect/become-an-architect-1/
   - title: Test 2
     url: /become-an-architect/become-an-architect-2/
-- title: Find Architect
+- title: Find architects
   url: https://data.gov.sg/
   external: true
   sub-links:
@@ -42,7 +42,7 @@
     url: /get-registered/overview/
   - title: Recognised schools
     url: /get-registered/recognised-schools/
-  - title: Take the Exam
+  - title: Take the exam
     url: /get-registered/take-the-exam/
   - title: Be an APEC architect
     url: /get-registered/be-an-APEC-architect/
@@ -55,7 +55,7 @@
   sub-links:
   - title: All
     url: /resources/
-  - title: Media
+  - title: News
     url: /resources/media/
   - title: Features
     url: /resources/features/
