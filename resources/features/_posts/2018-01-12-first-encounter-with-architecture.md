@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  First encounters with architecture
+title:  WOHA on first encounters with architecture
 date:   2018-01-12
 permalink: "/resources/features/interviews"
 ---
