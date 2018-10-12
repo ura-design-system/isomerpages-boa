@@ -2,6 +2,7 @@
 layout: post
 title:  "BOA Presentation Ceremony and Seminar 2018"
 date:   2018-04-01
+permalink: "/resources/news/boa-presentation-ceremony-and-seminar"
 ---
 To all Registered Architects 
 
