@@ -6,6 +6,13 @@ breadcrumb: Become an Architect 1
 collection_name: become-an-architect
 ---
 
-### **Test 1**
+### **The basics**
 
-[Dummy content]
+Education
+
+Experience
+
+Examination
+
+Getting registered
+
