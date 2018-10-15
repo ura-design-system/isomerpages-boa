@@ -49,6 +49,8 @@ collections:
     output: true
   become-an-architect:
     output: true
+  find-architects:
+    output: true
 
 # Site configuration
 ####################
