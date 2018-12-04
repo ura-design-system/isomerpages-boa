@@ -18,10 +18,12 @@
 - title: Become an Architect
   url: /become-an-architect/become-an-architect-1/
   sub-links:
-  - title: Test 1
-    url: /become-an-architect/become-an-architect-1/
-  - title: Test 2
-    url: /become-an-architect/become-an-architect-2/
+  - title: the basics
+    url: /become-an-architect/the-basics/
+  - title: why architecture
+    url: /become-an-architect/why-architecture/
+  - title: check CPD points
+    url: /become-an-architect/check-CPD-points/
 - title: Find Architects
   url: /find-architects/register-of-architects/
   sub-links:
