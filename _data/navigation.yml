@@ -35,6 +35,10 @@
     url: /find-architects/register-of-asean-architects/
   - title: Register of APEC Architects
     url: /find-architects/register-of-apec-architects/
+  - title: Register foreign architect collaborators 
+    url: /find-architects/register-of-foreign-architect-collaborators/
+  - title: Register of retired architects
+    url: /find-architects/register-of-retired-architects/
 - title: Get Registered
   url: /get-registered/overview/
   sub-links:
