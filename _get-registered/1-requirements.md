@@ -13,15 +13,17 @@ To register as an architect in Singapore, you will need to:
 
 In addition the Board must be satisfied that an applicant for registration is a fit and proper person.
 
-### **Academic Qualification in Architecture**
+### **Academic qualification in architecture**
 
-To meet the academic requirement for registration, applicants must possess qualification required under section 15(1) of the Architects Act. Subject to this section, the following persons shall, on payment of the prescribed fee, be entitled to registration under this Act:
+Applicants must possess academic qualification required under section 15(1) of the Architects Act:
 
-* any person holding the degree of Bachelor of Architecture from the National University of Singapore or the University of Singapore;
-* any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board, approve for the purpose of entitling the holder thereof to be registered under this Act;
-* any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such examinations as may be required by the Board.
+* Degree of Bachelor of Architecture from the National University of Singapore or the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
 
-### **Appropriate Practical Experience in Architectural Work**
+* other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in the Gazette, approve for the purpose of entitling the holder thereof to be registered under this Act; or
+
+* other proper and recognised training in architecture that satisfies the Board and the passing of oral or written examinations prescribed by the Board.
+
+### **Appropriate practical experience in architectural work**
 
 In addition to a registrable qualification, an applicant must also satisfy the Board that he has after qualifying obtained such practical experience in architectural work. Subject to section 15(2), no person shall be entitled to registration under section 15(1)(a), (b) or (c) unless he can satisfy the Board that he has after qualifying:
 
