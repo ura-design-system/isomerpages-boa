@@ -29,7 +29,7 @@ After obtaining the approved academic qualification, the applicant must also acq
 
 * At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)];
 
-(b) such practical experience in architectural work for not less than 5 years as may be recognised by the Board, which shall include such prescribed practical experience in architectural work in Singapore for not less than two years comprising a continuous period of at least 12 months gained within the 5 years immediately preceding the date of his application for registration under the Act; or
+* At least five years of practical experience in architectural work. This must include at least two years of prescribed practical experience in architectural work in Singapore, with a continuous period of at least 12 months gained within the five years immediately before the date of his application for registration and to pass the oral or written examination prescribed by the Board [under Section 15(2)(b)]; or
 
 (c) such practical experience in architectural work for not less than 10 years as may be recognised by the Board.
 
