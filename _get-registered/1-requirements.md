@@ -25,9 +25,9 @@ Applicants must possess academic qualification required under section 15(1) of t
 
 ### **Appropriate practical experience in architectural work**
 
-In addition to a registrable qualification, an applicant must also satisfy the Board that he has after qualifying obtained such practical experience in architectural work. Subject to section 15(2), no person shall be entitled to registration under section 15(1)(a), (b) or (c) unless he can satisfy the Board that he has after qualifying:
+After obtaining the approved academic qualification, the applicant must also acquire the following practical experience in architectural work under Section 15(2):
 
-(a) such practical experience in architectural work for not less than 24 months consisting of such practical experience in architectural working in Singapore for a continuous period of at least 12 months, and has passed such professional practice examination as may be prescribed or approved by the Board;
+* At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)];
 
 (b) such practical experience in architectural work for not less than 5 years as may be recognised by the Board, which shall include such prescribed practical experience in architectural work in Singapore for not less than two years comprising a continuous period of at least 12 months gained within the 5 years immediately preceding the date of his application for registration under the Act; or
 
