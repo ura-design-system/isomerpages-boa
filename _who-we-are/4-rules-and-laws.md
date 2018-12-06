@@ -28,7 +28,7 @@ The Architects Ordinance or the Architects Act as it is known today evolved over
 
 The Architects Act today lists down a host of ethics, codes and regulations which provides the framework to maintain professionalism in an increasingly competitive business climate. Registration is stringent and the Board requires registered architects to adhere to a high code of ethics and that they must fulfil with complete integrity their obligations to clients, the profession, and the public.
 
-### **Acts**
+### **Acts and rules**
 
 [Architects Act](https://sso.agc.gov.sg/Act/AA1991){:target="_blank"}
 
