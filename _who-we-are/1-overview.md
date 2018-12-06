@@ -8,7 +8,7 @@ collection_name: who-we-are
 
 > The Board of Architects is the statutory authority established to administer the Architects Act in Singapore. The Architects Act 1991 sets out provisions to provide for the registration of architects, the regulation of architectural qualifications, the practice of architecture by registered individuals and the supply of architectural services by corporations.
 
-### **Historical Background**
+### **Background on the architectural profession**
 
 Architectural professionalism had its beginnings in the nineteenth century. Before then, architects could concern themselves primarily with visual matters of form, space and style. They were responsible for broad profiles and could confidently leave much of the details in the capable hands of master craftsmen.
 
