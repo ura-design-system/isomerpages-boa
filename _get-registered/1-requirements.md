@@ -1,20 +1,15 @@
 ---
 layout: leftnav-page-content
 title: Overiew
-permalink: /get-registered/overview/
-breadcrumb: Overview
+permalink: /get-registered/requirements/
+breadcrumb: Requirements
 collection_name: get-registered
 ---
+To register as an architect in Singapore, you will need to:
 
-### **General Registration Requirements For Architectural Practice in Singapore** 
-
-The Board of Architects, Singapore (BOA) is the statutory authority established to administer the Architects Act 1991. The Architects Act 1991 sets out the general qualifications and requirements for registration and the BOA is responsible for evaluation of applications for admission to the Register of Architects.
-
-### **Requirements for Registration as an Architect**
-
-The requirements for registration as an architect in Singapore are:
-* an approved academic qualification in architecture; and
-* an appropriate practical experience in architectural work
+* have an approved academic qualification in architecture; 
+* have an appropriate practical experience in architectural work;
+* pass the professional practice examination, oral or written examination prescribed and approved by the Board
 
 In addition the Board must be satisfied that an applicant for registration is a fit and proper person.
 
