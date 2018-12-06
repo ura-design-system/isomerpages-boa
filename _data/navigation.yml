@@ -42,10 +42,12 @@
 - title: Get Registered
   url: /get-registered/overview/
   sub-links:
-  - title: Overview
-    url: /get-registered/overview/
+  - title: Requirements
+    url: /get-registered/requirements/
   - title: Recognised Schools
     url: /get-registered/recognised-schools/
+  - title: Polytechnics with waivers
+    url: /get-registered/polytechnics-with-waivers/
   - title: Take the Exam
     url: /get-registered/take-the-exam/
   - title: Be an APEC Architect
