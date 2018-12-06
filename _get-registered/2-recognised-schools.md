@@ -13,31 +13,9 @@ The following Singapore programmes and schools are recognised by the Board:
 * the Degree of Bachelor of Architecture and Degree of Master of Architecture from the National University of Singapore; or
 * the Degree of Master of Architecture from the Singapore University of Technology and Design.
 
-### **Overview**
+### **International schools**
 
-Architectural qualifications accredited by the Board are five (5) years full-time on campus courses.
-
-Currently only local polytechnic graduates from the following courses are granted waiver of the first two (2) years of study in the degree course overseas:
-
-<table class="table-v">
-  <tr>
-    <td>Singapore Polytechnic</td>
-    <td>Diploma in Architectural Technology/Architecture</td>
-  </tr>
-  <tr>
-    <td>Temasek Polytechnic</td>
-    <td>Diploma in Interior Architecture</td>
-  </tr>
-</table>
-
-Polytechnic graduates from the above courses must take note that it is the Board's policy that they are required to complete a minimum of three (3) years full-time on campus architectural programme, which includes the final year of the first degree of Bachelor of Arts (Architecture) or its equivalent in order for the final degree of Bachelor/Master of Architecture to be recognised by the Board for registration.
-
-
-### **Overseas Schools**
-
-The Board also adopts a list of programmes in architecture accredited and gazetted under section 15(1)(b) of the Architects Act. The list of the schools of architecture overseas with courses recognised for registration is detailed below.
-
-#### **List of Accredited Programmes in Architecture**
+The following international programmes and schools are recognised by the Board:
 
 <table class="table-h">
 	<tr>
