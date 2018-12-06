@@ -6,6 +6,13 @@ breadcrumb: Recognised schools
 collection_name: get-registered
 ---
 
+### **Singapore schools**
+
+The following Singapore programmes and schools are recognised by the Board:
+
+* the Degree of Bachelor of Architecture and Degree of Master of Architecture from the National University of Singapore; or
+* the Degree of Master of Architecture from the Singapore University of Technology and Design.
+
 ### **Overview**
 
 Architectural qualifications accredited by the Board are five (5) years full-time on campus courses.
@@ -25,11 +32,6 @@ Currently only local polytechnic graduates from the following courses are grante
 
 Polytechnic graduates from the above courses must take note that it is the Board's policy that they are required to complete a minimum of three (3) years full-time on campus architectural programme, which includes the final year of the first degree of Bachelor of Arts (Architecture) or its equivalent in order for the final degree of Bachelor/Master of Architecture to be recognised by the Board for registration.
 
-### **Local Schools**
-
-The programme of Bachelor of Architecture or professional Master of Architecture program from the National University of Singapore or the University of Singapore, is recognised by the Board for purpose of registration.
-
-The programme of Master of Architecture (Architecture and Sustainable Design) from Singapore University of Technology and Design is recognised by the Board for purpose of registration.
 
 ### **Overseas Schools**
 
