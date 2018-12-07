@@ -26,4 +26,4 @@ collection_name: who-we-are
 
 * generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
-Details of the legal constituents and roles are provided in the Rules & Laws section.
+Details of the legal constituents and roles are provided in the Rules & laws section.
