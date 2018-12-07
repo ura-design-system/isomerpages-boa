@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Rules and Laws
+title: Rules and laws
 permalink: /who-we-are/rules-and-laws/
-breadcrumb: Rules and Laws
+breadcrumb: Rules and laws
 collection_name: who-we-are
 ---
 
