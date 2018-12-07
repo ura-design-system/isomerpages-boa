@@ -444,55 +444,55 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Kyushu Kyoritsu University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kyushu Sangyo University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Meiji University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Meijo University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Muroran Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Musashi Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Musashino Art University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>The College of Naval Architecture of Nagasaki</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Nagoya University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Nagoya Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Nihon University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Nippon Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Oita Technological College</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Osaka University</td>
