@@ -747,267 +747,267 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Andrews University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Arizona</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Arkansas</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Auburn University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Ball State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Boston Architectural Center</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>California Polytechnic State University, San Luis Obispo</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>California State Polytechnic University, Pomona</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Carnegie Mellon University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Catholic University of America</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Cincinnati</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>City College of the City University of New York</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Cooper Union</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Cornell University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Detroit Mercy</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Drexel University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Drury College</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Florida A &amp; M University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Hampton University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Hawaii at Manoa</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Houston</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Howard University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Idaho</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Illinois at Chicago</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Illinois Institute of Technology</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Iowa State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Kansas</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Kansas State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Kent State University</td>
-		<td>1. Bachelor of ArchitectureMaster of Architecture</td>
+		<td>Bachelor of ArchitectureMaster of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Kentucky</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Lawrence Technological University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Louisiana State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Louisiana Tech University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Miami</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Minnesota</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Mississippi State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Montana State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>New Jersey Institute of Technology</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>New York Institute of Technology</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of North Carolina at Charlotte</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>North Carolina State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>North Dakota State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Notre Dame</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Oklahoma</td>
-		<td>1. Bachelor of ArchitectureMaster of Architecture</td>
+		<td>Bachelor of ArchitectureMaster of Architecture</td>
 	</tr>
 	<tr>
 		<td>Oklahoma State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Oregon</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Pennsylvania State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Pratt Institute</td>
-		<td>1. Bachelor of Architecture<br> 2. Master of Architecture with effect from 2010</td>
+		<td>Bachelor of Architecture<br> 2. Master of Architecture with effect from 2010</td>
 	</tr>
 	<tr>
 		<td>Rensselaer Polytechnic Institute</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Rhode Island School of Design</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Rice University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Roger Williams College</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Savannah College of Art and Design</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Southern California</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Southern California Institute of Architecture</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Southern University and A &amp; M College</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Southwestern Louisiana</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Syracuse University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Temple University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Tennessee</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Texas at Austin</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Texas Tech University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Tulane University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Tuskegee University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Virginia Polytechnic Institute and State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Washington State University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		
