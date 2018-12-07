@@ -3,7 +3,7 @@
 layout: leftnav-page-content
 title: Related links
 permalink: /who-we-are/related-links/
-breadcrumb: Related-links 
+breadcrumb: Related links 
 collection_name: who-we-are
 ---
 
@@ -13,12 +13,12 @@ collection_name: who-we-are
 •	Urban Redevelopment Authority (URA) (https://www.ura.gov.sg/){:target="_blank"}
 •	Ministry Of National Development (MND) (https://www.mnd.gov.sg/){:target="_blank"}
 •	Fire Safety Bureau (FSB) (https://www.scdf.gov.sg/){:target="_blank"} 
-•	National Environment Agency (NEA)
-•	National Parks Board (Nat Parks)
-•	Housing & Development Board (HDB)
-•	Singapore Land Authority (SLA)
-•	LAWNET
-•	CORENET
+•	National Environment Agency (NEA) (https://www.nea.gov.sg/){:target="_blank"}
+•	National Parks Board (Nat Parks) (https://www.nparks.gov.sg/){:target="_blank"}
+•	Housing & Development Board (HDB) (https://www.hdb.gov.sg/){:target="_blank"} 
+•	Singapore Land Authority (SLA) (https://www.sla.gov.sg/){:target="_blank"} 
+•	LAWNET (ttps://www.lawnet.sg/lawnet/web/lawnet/home){:target="_blank"}
+•	CORENET (https://www.corenet.gov.sg/){:target="_blank"}
  
 ## Professional architectural and related institutions ##
 •	Singapore Institute of Architects (SIA)
