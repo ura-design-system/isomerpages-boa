@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Overiew
+title: Requirements
 permalink: /get-registered/requirements/
 breadcrumb: Requirements
 collection_name: get-registered
