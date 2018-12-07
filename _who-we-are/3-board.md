@@ -10,7 +10,7 @@ collection_name: who-we-are
 
 #### **Composition**
 
-With effect from 1st October 2005, the Board will consist of the following members: -
+With effect from 1st October 2005, the Board will consist of the following members: 
 * The Commissioner of Building Control
 * The President of Singapore Institute of Architects, Singapore
 * Six registered architects who are elected by registered architects
