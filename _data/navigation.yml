@@ -39,21 +39,21 @@
     url: /find-architects/register-of-foreign-architect-collaborators/
   - title: Register of Retired Architects
     url: /find-architects/register-of-retired-architects/
-- title: Get Registered
-  url: /get-registered/overview/
+- title: Register
+  url: /Register/overview/
   sub-links:
   - title: Requirements
-    url: /get-registered/requirements/
+    url: /register/requirements/
   - title: Recognised Schools
-    url: /get-registered/recognised-schools/
+    url: /register/recognised-schools/
   - title: Polytechnics with waivers
-    url: /get-registered/polytechnics-with-waivers/
+    url: /register/polytechnics-with-waivers/
   - title: Take the Exam
-    url: /get-registered/take-the-exam/
+    url: /register/take-the-exam/
   - title: Be an APEC Architect
-    url: /get-registered/be-an-APEC-architect/
+    url: /register/be-an-APEC-architect/
   - title: Be an ASEAN Architect
-    url: /get-registered/be-an-ASEAN-architect/
+    url: /register/be-an-ASEAN-architect/
   - title: Forms
     url: /get-registered/forms/
 - title: Resources
