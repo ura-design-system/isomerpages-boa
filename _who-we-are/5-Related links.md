@@ -8,11 +8,11 @@ collection_name: who-we-are
 ---
 
 ## Government departments and statutory boards ##
-•	Singapore Government Web Site
-•	Building and Construction Authority (BCA)
-•	Urban Redevelopment Authority (URA)
-•	Ministry Of National Development (MND)
-•	Fire Safety Bureau (FSB)
+•	Singapore Government (https://www.gov.sg/){:target="_blank"}
+•	Building and Construction Authority (BCA) (https://www.bca.gov.sg/){:target="_blank"}
+•	Urban Redevelopment Authority (URA) (https://www.ura.gov.sg/){:target="_blank"}
+•	Ministry Of National Development (MND) (https://www.mnd.gov.sg/){:target="_blank"}
+•	Fire Safety Bureau (FSB) (https://www.scdf.gov.sg/){:target="_blank"} 
 •	National Environment Agency (NEA)
 •	National Parks Board (Nat Parks)
 •	Housing & Development Board (HDB)
