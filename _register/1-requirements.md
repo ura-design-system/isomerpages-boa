@@ -19,7 +19,7 @@ Applicants must possess the following academic qualification required under Sect
 
 * Degree of Bachelor of Architecture from the National University of Singapore or the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
 
-* other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in the Gazette, approve for the purpose of entitling the holder thereof to be registered under this Act; or
+* other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in the *Gazette*, approve for the purpose of entitling the holder thereof to be registered under this Act; or
 
 * other proper and recognised training in architecture that satisfies the Board and the passing of oral or written examinations prescribed by the Board.
 
