@@ -19,7 +19,7 @@ The Board of Architects is the statutory authority established in Singapore to a
 
 #### **What is the educational qualification legally required for the initial registration of indigenous and foreign architects?**
 
-An approved academic qualification in architecture from a recognized university. To meet the academic requirement for registration, applicants must possess qualification required under section 15(1) of the Architects Act. The following categories apply.
+An approved academic qualification in architecture from a recognised university. To meet the academic requirement for registration, applicants must possess the following qualification required under Section 15(1) of the Architects Act. The following categories apply.
 
 (a) any person holding the degree of Bachelor of Architecture or Master of Architecture from the National University of Singapore or the University of Singapore;
 
