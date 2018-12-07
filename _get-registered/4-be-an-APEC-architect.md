@@ -10,7 +10,7 @@ collection_name: get-registered
 
 An APEC Architect is a person who is registered, licensed or otherwise professionally recognised as an architect in a participating economy, and whose name is enrolled on a section of the APEC Architect Register maintained by that economy. APEC Architects are bound by host economy codes of professional conduct to protect public health, safety and welfare.
 
-### **Criteria for Admission to the APEC Architect Register**
+### **Criteria for admission**
 
 The criteria adopted by the Central Council for admission to the APEC Architect Register, and use of the description 'APEC Architect', are based on identification of a common sequence and elements in the education, training and assessment of architects as qualified to provide professional architectural services in the home economy.
 
