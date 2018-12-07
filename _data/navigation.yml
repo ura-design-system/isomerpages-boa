@@ -15,15 +15,15 @@
     url: /who-we-are/board/
   - title: Rules and laws
     url: /who-we-are/rules-and-laws/
-- title: Become an Architect
-  url: /become-an-architect/become-an-architect-1/
-  sub-links:
-  - title: The basics
-    url: /become-an-architect/the-basics/
-  - title: Why architecture
-    url: /become-an-architect/why-architecture/
-  - title: Check CPD points
-    url: /become-an-architect/check-CPD-points/
+# - title: Become an Architect
+#   url: /become-an-architect/become-an-architect-1/
+#   sub-links:
+#   - title: The basics
+#     url: /become-an-architect/the-basics/
+#   - title: Why architecture
+#     url: /become-an-architect/why-architecture/
+#   - title: Check CPD points
+#     url: /become-an-architect/check-CPD-points/
 - title: Find Architects
   url: /find-architects/register-of-architects/
   sub-links:

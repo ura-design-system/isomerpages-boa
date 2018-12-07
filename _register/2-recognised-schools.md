@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Recognised schools
-permalink: /get-registered/recognised-schools/
+permalink: /register/recognised-schools/
 breadcrumb: Recognised schools
-collection_name: get-registered
+collection_name: register
 ---
 
 ### **Singapore schools**

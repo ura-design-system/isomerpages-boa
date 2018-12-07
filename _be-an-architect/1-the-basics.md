@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: The basics
-permalink: /become-an-architect/the-basics/
+permalink: /be-an-architect/the-basics/
 breadcrumb: The basics
-collection_name: become-an-architect
+collection_name: be-an-architect
 ---
 
 ### **The basics**

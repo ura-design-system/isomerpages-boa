@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Forms
-permalink: /get-registered/forms/
+permalink: /register/forms/
 breadcrumb: Forms
-collection_name: get-registered
+collection_name: register
 ---
 
 ### **Application for approval of firm’s name**

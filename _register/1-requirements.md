@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Requirements
-permalink: /get-registered/requirements/
+permalink: /register/requirements/
 breadcrumb: Requirements
-collection_name: get-registered
+collection_name: register
 ---
 To register as an architect in Singapore, you will need to:
 

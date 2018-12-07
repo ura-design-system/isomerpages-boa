@@ -1,9 +1,9 @@
 
 layout: leftnav-page-content
 title: Polytechnics with waivers
-permalink: /get-registered/polytechnics-with-waivers/
+permalink: /register/polytechnics-with-waivers/
 breadcrumb: polytechnics with waivers
-collection_name: get-registered
+collection_name: register
 
 ### **Waivers and requirements for polytechnic graduates**
 
