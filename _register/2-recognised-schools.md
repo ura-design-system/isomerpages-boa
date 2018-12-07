@@ -18,7 +18,6 @@ The following Singapore programmes and schools are recognised by the Board:
 The following international programmes and schools are recognised by the Board:
 
 <table class="table-h">
-	<tr>
 		<th colspan="2">PART I</th>
 	</tr>
 	<tr>
@@ -157,7 +156,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>University of Kent</td>
-		<td>1. Master of Architecture</td>
+		<td>Master of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Nottingham</td>
