@@ -496,79 +496,79 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Osaka University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Osaka City University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Osaka University of Arts</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Osaka Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Shibaura Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tama University of Fine Arts</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tohoku University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tohoku Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokai University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo University of Arts</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo Electrical Engineering University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo University of Science</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tokyo Metropolitan University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Toyo University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Yokohama National University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Waseda University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>West Japan Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<th colspan="2">Note: Holders of the above Japanese qualifications must pass the First Class Licence Examination conducted by the Ministry of Construction in Japan, or a Special Examination to be conducted by the Board.</th>
@@ -578,51 +578,51 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Paris-Belleville</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-Conflans</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-La Defense</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-La Seine</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-Tolbiac</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Versailles</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-Villemin</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Paris-La Villette</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Bordeaux</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Bretagne</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Clermont-Ferrand</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Grenoble</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Languedoc-Roussillon</td>
@@ -630,43 +630,43 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Lille Et Regions Nord</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Lyon</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Marseille-Luminy</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Nancy</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Nantes</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Normandie</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Saint Etienne</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Strasbourg</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>Toulouse</td>
-		<td>1. Diplome par le Gouvernement</td>
+		<td>Diplome par le Gouvernement</td>
 	</tr>
 	<tr>
 		<td>L’Ecole Speciale d’ Architecture</td>
-		<td>1. Diplome Ecole Speciale D’ Architecture</td>
+		<td>Diplome Ecole Speciale D’ Architecture</td>
 	</tr>
 	<tr>
 		<th colspan="2">CANADA</th>
