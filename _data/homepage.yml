@@ -18,7 +18,7 @@ hero-banner: /images/Hero-banner-marina-bay2.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /who-we-are/overview
     
 key-highlights:
   - title: Become an architect
