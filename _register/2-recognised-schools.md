@@ -243,14 +243,14 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>University College, Dublin (The National University of Ireland)</td>
-		<td>1. Bachelor of Architecture (obtained in or after 1968)</td>
+		<td>Bachelor of Architecture (obtained in or after 1968)</td>
 	</tr>
 	<tr>
 		<th colspan="2">NORTHERN IRELAND</th>
 	</tr>
 	<tr>
 		<td>The Queen’s University of Belfast (from 1994)</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Queen’s College of Belfast (up to 1980)</td>
@@ -261,186 +261,186 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Alanus-Hochschule in Alfter</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Rheinish-Westfalische Technische Hochschule (Aachen)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Technische Universität (Berlin)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Hochschule der Künste Berlin</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Hochschule Bremen</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Hochschule fur Bildende Künste Hamburg</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Technische Universität Hamburg-Harburg</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Technische Universität (Braunschweig)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Technische Hochschule (Darmstadt)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Dortmund (Bauwesen)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Dortmund (Raumplanung)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Hannover</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Kaiserslautern</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Karisruhe</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Universität Stuttgart</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Staatliche Hochschule fur bildende Künste Frankfurt</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<td>Technische Universität (München)</td>
-		<td>1. Diplom Ingenieur</td>
+		<td>Diplom Ingenieur</td>
 	</tr>
 	<tr>
 		<th colspan="2">JAPAN</th>
 	</tr>
 	<tr>
 		<td>Aichi Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Ashikaga Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Chiba University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Chiba Engineering College</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Chubu Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Fukui University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Fukui Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Fukuoka University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hiroshima University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hiroshima Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hokkai Gakuen College</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hokkaido University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hokkaido Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Hosei University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kagoshima University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kanagawa University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kanazawa Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kansai University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kanto Gakuin University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kinki University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kobe University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kogakuin University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kokushikan University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kyoto University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kyoto University of Industry Art and Textile Fibers</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kumamoto University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kumamoto Institute of Technology</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kyushu University</td>
-		<td>1. Bachelor of Engineering (Architecture)</td>
+		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Kyushu Kyoritsu University</td>
@@ -677,42 +677,42 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>L’Universite Laval</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Manitoba</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>McGill University, Montreal</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>L’Universite de Montreal</td>
-		<td>q. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Nova Scotia Technical College (up to June 1980)</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Technical University of Nova Scotia</td>
-		<td>1. Master of Architecture (First Professional) Degree</td>
+		<td>Master of Architecture (First Professional) Degree</td>
 	</tr>
 	<tr>
 		<td>University of Toronto</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<td>Carleton University</td>
-		<td>1. Degree of Bachelor of Architecture</td>
+		<td>Degree of Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<th colspan="2">PEOPLE’S REPUBLIC OF CHINA</th>
 	</tr>
 	<tr>
 		<td>Tsinghua University</td>
-		<td>1. Bachelor of Architecture</td>
+		<td>Bachelor of Architecture</td>
 	</tr>
 	<tr>
 		<th colspan="2">HONG KONG SPECIAL ADMINISTRATIVE REGION, PEOPLE’S REPUBLIC OF CHINA</th>
@@ -734,7 +734,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>UNITEC Institute of Technology</td>
-		<td>1. Master of Architecture</td>
+		<td>Master of Architecture</td>
 	</tr>
 	<tr>
 		<th colspan="2">PART II</th>
