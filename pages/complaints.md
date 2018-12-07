@@ -23,8 +23,7 @@ Under Section 28 of the Architects Act, any complaint concerning the following s
 
 The letter of complaint and the Statutory Declaration should be officially submitted to: 
 
-The Registrar
-Board of Architects
+The Registrar <br/> (Board of Architects)
 5 Maxwell Road
 #01-03 Tower Block
 Singapore 069110
