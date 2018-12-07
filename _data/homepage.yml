@@ -21,13 +21,13 @@ button:
     url: /who-we-are/overview
     
 key-highlights:
-  - title: Become an architect
-    description: We show you why and how 
-    url: https://google.com
+  - title: Know the latest
+    description: News, features, projects
+    url: /resources
     external: true
   - title: Register as an architect
     description: Key info and forms you need
-    url: https://yahoo.com
+    url: /register/requirements
     external: true
   - title: Find an architect
     description: You can also search on data.gov.sg
