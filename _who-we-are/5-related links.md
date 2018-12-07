@@ -32,8 +32,8 @@ collection_name: who-we-are
 •	Professional Engineers Board, Singapore (https://www.peb.gov.sg/){:target="_blank"} 
  
 ## Educational institutions ##
-•	School of Design and Environment, NUS
-•	Architecture and Sustainable Design, SUTD
+•	School of Design and Environment, NUS (http://www.sde.nus.edu.sg/){:target="_blank"} 
+•	Architecture and Sustainable Design, SUTD (https://asd.sutd.edu.sg/){:target="_blank"}
  
 ## Regulatory bodies and regulations (International) ##
 •	National Council of Architectural Registration Boards (NCARB, USA)
