@@ -19,7 +19,7 @@ Under Section 28 of the Architects Act, any complaint concerning the following s
 
 * the ability of a registered architect to carry out the duties of an architect effectively in Singapore; or
 
-* any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board to revoke any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2).
+* any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner [other than as described in section 26A(1)(e)] which would warrant the Board to revoke any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2).
 
 The letter of complaint and the Statutory Declaration should be officially submitted to: 
 
