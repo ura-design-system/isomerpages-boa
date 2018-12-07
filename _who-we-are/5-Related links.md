@@ -31,7 +31,7 @@ collection_name: who-we-are
 •	Society of Project Managers
 •	Professional Engineers Board, Singapore 
  
-## Educational institution ##
+## Educational institutions ##
 •	School of Design and Environment, NUS
 •	Architecture and Sustainable Design, SUTD
  
@@ -41,7 +41,7 @@ collection_name: who-we-are
 •	Architectural Registration Board (ARB, UK)
 •	Architectural regulations in United Kingdom (Architects Act)
  
-## Professional architectural institution (International) ##
+## Professional architectural institutions (International) ##
 •	Royal Institute of British Architects (RIBA)
 •	American Institute of Architects (AIA)
 •	Royal Australian Institute of Architects (RAIA)
