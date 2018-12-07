@@ -1,7 +1,13 @@
 
+---
+layout: leftnav-page-content
+title: Related links
+permalink: /who-we-are/related-links/
+breadcrumb: Related links 
+collection_name: who-we-are
+---
 
-
-overnment departments and statutory boards
+## Government departments and statutory boards ##
 •	Singapore Government Web Site
 •	Building and Construction Authority (BCA)
 •	Urban Redevelopment Authority (URA)
@@ -14,7 +20,7 @@ overnment departments and statutory boards
 •	LAWNET
 •	CORENET
  
-Professional architectural and related institutions
+## Professional architectural and related institutions ##
 •	Singapore Institute of Architects (SIA)
 •	Association of Consulting Engineers Singapore 
 •	Association of Property and Facility Managers
@@ -25,17 +31,17 @@ Professional architectural and related institutions
 •	Society of Project Managers
 •	Professional Engineers Board, Singapore 
  
-Educational institution
+## Educational institution ##
 •	School of Design and Environment, NUS
 •	Architecture and Sustainable Design, SUTD
  
-Regulatory bodies and regulations (International)
+## Regulatory bodies and regulations (International) ##
 •	National Council of Architectural Registration Boards (NCARB, USA)
 •	Louisiana State Board of Architectural Examiners (USA)
 •	Architectural Registration Board (ARB, UK)
 •	Architectural regulations in United Kingdom (Architects Act)
  
-Professional architectural institution (International)
+## Professional architectural institution (International) ##
 •	Royal Institute of British Architects (RIBA)
 •	American Institute of Architects (AIA)
 •	Royal Australian Institute of Architects (RAIA)
