@@ -1010,17 +1010,6 @@ The following international programmes and schools are recognised by the Board:
 		<td>1. Bachelor of Architecture</td>
 	</tr>
 	<tr>
-		<th colspan="2">PART III</th>
-	</tr>
-	<tr>
-		<th colspan="2">REPUBLIC OF SINGAPORE</th>
-	</tr>
-	<tr>
-		<td>National University of Singapore</td>
-		<td>1. Master of Architecture<br> 2. Bachelor of Architecture</td>
-	</tr>
-	<tr>
-		<td>Singapore University of Technology and Design</td>
-		<td>1. Master of Architecture (Architecture and Sustainable Design)</td>
+		
 	</tr>
 </table>
