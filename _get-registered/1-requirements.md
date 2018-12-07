@@ -15,7 +15,7 @@ In addition, the Board must be satisfied that an applicant for registration is a
 
 ### **Academic qualification in architecture**
 
-Applicants must possess the following academic qualification required under section 15(1) of the Architects Act:
+Applicants must possess the following academic qualification required under Section 15(1) of the Architects Act:
 
 * Degree of Bachelor of Architecture from the National University of Singapore or the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
 
@@ -27,9 +27,9 @@ Applicants must possess the following academic qualification required under sect
 
 After obtaining the approved academic qualification, the applicant must also acquire the following practical experience in architectural work under Section 15(2):
 
-* At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)];
+* At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)]; or
 
-* At least five years of practical experience in architectural work. This must include at least two years of prescribed practical experience in architectural work in Singapore, with a continuous period of at least 12 months gained within the five years immediately before the date of his application for registration and to pass the oral or written examination prescribed by the Board [under Section 15(2)(b)]; or
+* At least five years of practical experience in architectural work. This must include at least two years of prescribed practical experience in architectural work in Singapore, with a continuous period of at least 12 months gained within the five years immediately before the date of his application for registration and to pass the oral or written examination prescribed by the Board [under Section 15(2)(b)].
 
 Applicants who have acquired or done the following may also apply for registration under Section 15(2)(c):
 
