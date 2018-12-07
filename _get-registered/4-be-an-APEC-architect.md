@@ -14,7 +14,7 @@ An APEC Architect is a person who is registered, licensed or otherwise professio
 
 The criteria adopted by the Central Council for admission to the APEC Architect Register, and use of the description 'APEC Architect', are based on identification of a common sequence and elements in the education, training and assessment of architects as qualified to provide professional architectural services in the home economy.
 
-Applicants to become APEC architects are required to fulfill the following criteria: -
+Applicants to become APEC architects are required to fulfil the following criteria: -
 * be registered in their home country
 * have completed a minimum period of professional practice of seven (7) years after initial registration in any participating economy
 * have gained experience in all of the following categories of architectural practice: -
