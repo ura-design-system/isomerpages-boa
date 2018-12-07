@@ -27,24 +27,21 @@ An approved academic qualification in architecture from a recognised university.
 
 * other proper and recognised training in architecture that satisfies the Board and the passing of oral or written examinations prescribed by the Board.
 
-#### **What is the practical training required prior to registration?**
+#### **What is the practical training required after obtaining the approved academic qualification?**
 
-In addition to a registrable qualification, an applicant must also satisfy the Board that he has after qualifying obtained such practical experience in architectural work. Subject to section 15(2) of the Act, no person shall be entitled to registration under section 15(1)(a), (b) or (c) unless he can satisfy the Board that he has after qualifying:
+After obtaining the approved academic qualification, the applicant must also acquire the following practical experience in architectural work under Section 15(2):
 
-(a) such practical experience in architectural work for not less than 24 months consisting of such practical experience in architectural working in Singapore for a continuous period of at least 12 months;
+* At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)]; or
 
-(b) such practical experience in architectural work for not less than 5 years as may be recognised by the Board, which shall include such prescribed practical experience in architectural work in Singapore for not less than two years comprising a continuous period of at least 12 months gained within the 5 years immediately preceding the date of his application for registration under the Act; or
+* At least five years of practical experience in architectural work. This must include at least two years of prescribed practical experience in architectural work in Singapore, with a continuous period of at least 12 months gained within the five years immediately before the date of his application for registration and to pass the oral or written examination prescribed by the Board [under Section 15(2)(b)].
 
-(c) such practical experience in architectural work for not less than 10 years as may be recognised by the Board.
+Applicants who have acquired or done the following may also apply for registration under Section 15(2)(c):
 
-The following three categories of applicants can apply to the Board for registration under section 15(2)(c) mentioned above.
+* Gained at least 10 years of practical experience in architectural work recognised by the Board;
 
-* Applicants who have won commendations/ awards/ honours from recognised professional bodies in their own countries whose architectural degrees qualifications are recognised by the Board.
+* Received commendation or award at any international architectural event or from any professional body whose architectural degree or qualification is recognised by the Board; and 
 
-* Applicants who have won commendations/ awards/ honours at international level.
-
-* Applicants who have personally executed architectural work of high design merit.
-
+* Passed oral or written examination prescribed by the Board.
 
 #### **What is the examination requirements required for the registration of indigenous and foreign architects?**
 
