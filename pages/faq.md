@@ -21,12 +21,11 @@ The Board of Architects is the statutory authority established in Singapore to a
 
 An approved academic qualification in architecture from a recognised university. To meet the academic requirement for registration, applicants must possess the following qualification required under Section 15(1) of the Architects Act. The following categories apply.
 
-(a) any person holding the degree of Bachelor of Architecture or Master of Architecture from the National University of Singapore or the University of Singapore;
+* Degree of Bachelor of Architecture from the National University of Singapore or the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
 
-(b) any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board, approve for the purpose of entitling the holder thereof to be registered under this Act;
+* other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in the Gazette, approve for the purpose of entitling the holder thereof to be registered under this Act; or
 
-(c) any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such examinations as may be required by the Board.
-
+* other proper and recognised training in architecture that satisfies the Board and the passing of oral or written examinations prescribed by the Board.
 
 #### **What is the practical training required prior to registration?**
 
