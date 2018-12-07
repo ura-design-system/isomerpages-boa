@@ -15,7 +15,7 @@ In addition, the Board must be satisfied that an applicant for registration is a
 
 ### **Academic qualification in architecture**
 
-Applicants must possess academic qualification required under section 15(1) of the Architects Act:
+Applicants must possess the following academic qualification required under section 15(1) of the Architects Act:
 
 * Degree of Bachelor of Architecture from the National University of Singapore or the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
 
