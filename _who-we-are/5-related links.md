@@ -22,14 +22,14 @@ collection_name: who-we-are
  
 ## Professional architectural and related institutions ##
 •	Singapore Institute of Architects (SIA) (https://sia.org.sg/){:target="_blank"}
-•	Association of Consulting Engineers Singapore 
-•	Association of Property and Facility Managers
-•	Real Estate Developers’ Association of Singapore 
-•	Singapore Institute of Building Ltd
-•	Singapore Institute of Planners
-•	The Institution of Engineers, Singapore
-•	Society of Project Managers
-•	Professional Engineers Board, Singapore 
+•	Association of Consulting Engineers Singapore (http://www.aces.org.sg/){:target="_blank"}
+•	Association of Property and Facility Managers (http://www.apfm.org.sg/){:target="_blank"}
+•	Real Estate Developers’ Association of Singapore (http://www.redas.com/){:target="_blank"}
+•	Singapore Institute of Building Ltd (http://www.sibl.com.sg/){:target="_blank"}
+•	Singapore Institute of Planners (https://www.planning.org.sg/){:target="_blank"}
+•	The Institution of Engineers, Singapore (https://www.ies.org.sg/){:target="_blank"}
+•	Society of Project Managers (http://www.sprojm.org.sg/){:target="_blank"}
+•	Professional Engineers Board, Singapore (https://www.peb.gov.sg/){:target="_blank"} 
  
 ## Educational institutions ##
 •	School of Design and Environment, NUS
