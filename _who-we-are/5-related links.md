@@ -36,10 +36,10 @@ collection_name: who-we-are
 •	Architecture and Sustainable Design, SUTD (https://asd.sutd.edu.sg/){:target="_blank"}
  
 ## Regulatory bodies and regulations (International) ##
-•	National Council of Architectural Registration Boards (NCARB, USA)
-•	Louisiana State Board of Architectural Examiners (USA)
-•	Architectural Registration Board (ARB, UK)
-•	Architectural regulations in United Kingdom (Architects Act)
+•	National Council of Architectural Registration Boards (NCARB, USA)(https://www.ncarb.org/){:target="_blank"}
+•	Louisiana State Board of Architectural Examiners (USA) (https://lsbae.com/){:target="_blank"}
+•	Architectural Registration Board (ARB, UK) (http://www.arb.org.uk/){:target="_blank"}
+•	Architectural regulations in United Kingdom (Architects Act) (http://www.legislation.gov.uk/ukpga/1997#aofs){:target="_blank"}
  
 ## Professional architectural institutions (International) ##
 •	Royal Institute of British Architects (RIBA)
