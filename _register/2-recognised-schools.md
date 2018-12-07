@@ -92,7 +92,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Architectural Association School of Architecture <br><br/>(Formerly known as the Architectural Association London)</td>
-		<td>1. A A Diploma</td>
+		<td>A A Diploma</td>
 	</tr>
 	<tr>
 		<td>University of Bath (from 1986)<br/>(Formerly known as Bath University of Technology - from July 1969 to 1980)</td>
