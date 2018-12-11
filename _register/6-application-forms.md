@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Forms
-permalink: /register/forms/
+title: Application forms
+permalink: /register/application-forms/
 breadcrumb: Forms
 collection_name: register
 ---
