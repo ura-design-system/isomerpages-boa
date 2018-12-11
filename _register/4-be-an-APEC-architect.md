@@ -35,10 +35,10 @@ On 10 October 2010, Singapore had signed with Australia and New Zealand an APEC 
 
 Singapore APEC Architects who wish to apply for registration in Australia and New Zealand should contact the respective Boards directly for more information:
 
-Architects Accreditation Council of Australia (AACA)
-New Zealand Registered Architects (NZBAB)
+Architects Accreditation Council of Australia (AACA)(https://www.aaca.org.au/){:target="_blank"}
+New Zealand Registered Architects (NZBAB) (https://www.nzrab.nz/Search/){:target="_blank"}
 
-Further information on the APEC Architect framework may be obtained from the APEC Architect website.
+Further information on the APEC Architect framework may be obtained from the [APEC Architect website].(http://www.apecarchitects.org/){:target="_blank"}archit
 
 For registation to be an APEC architect, please download the forms [here](/register/application-forms).
 
