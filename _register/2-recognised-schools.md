@@ -19,7 +19,6 @@ The following international programmes and schools are recognised by the Board:
 
 <table class="table-h">
 		<th colspan="2">PART I</th>
-	</tr>
 	<tr>
 		<th colspan="2">AUSTRALIA</th>
 	</tr>
@@ -37,7 +36,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Monash University</td>
-		<td>1. Master of Architecture</td>
+		<td>Master of Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Canberra (from 1990)<br/>(Formerly known as Canberra College of Advanced Education - up to 1989)</td>
