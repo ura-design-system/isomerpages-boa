@@ -21,3 +21,7 @@ To become an ASEAN architect, one must have:
 * obtained certification from the Professional Regulatory Authority of the Country of Origin with no record of serious violation on technical, professional or ethical standards, local and international, for the practice of architecture; and 
 
 * complied with any other requirements agreed upon by the ASEAN Architect Council.
+
+For more information on the ASEAN Agreement on Mutual Recognition Arrangement on Architectural Services, go to the ASEAN Architects Council website. (http://m.aseanarchitectcouncil.org/mobile/6011/index.asp?pageid=167529&t=home){:target="_blank"}archit
+
+For registation to be an ASEAN architect, please download the forms [here](/register/application-forms).
