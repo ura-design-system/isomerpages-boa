@@ -40,4 +40,5 @@ New Zealand Registered Architects (NZBAB)
 
 Further information on the APEC Architect framework may be obtained from the APEC Architect website.
 
-For registation to be an APEC architect, please download the forms here.
+For registation to be an APEC architect, please download the forms [here](/register/application-forms).
+
