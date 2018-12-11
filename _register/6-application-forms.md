@@ -12,19 +12,17 @@ Architectural graduates with a recognised qualification in architecture must app
 
 **Register to be a PPE candidate** 
 
-[General Information for PPE Candidates]({{site.baseurl}}/files/general-info.pdf)
+[Download guide for PPE Candidates]({{site.baseurl}}/files/general-info.pdf)
 
 [Registration Form for PPE candidate]({{site.baseurl}}/files/registration_ppe.pdf)
 
-[Appendix A - Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
+[Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
 
-[Appendix B - Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
+[Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
 
 [Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
 
-[Criteria for Appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
-
-[Use of digital readers and digitalized reference materials for PPE 2011]({{site.baseurl}}/files/use_of_digital_readers.pdf)
+[Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
 
 **Section 15(2)(b) of the Architects Act**
 
@@ -70,9 +68,9 @@ Apply for license
 
 [Form of application for licence - Word doc]({{site.baseurl}}/files/form_6_application_for_a_licence.doc)
 
-[Form for statutory declaration of compliance on application for a licence to supply architectural services]({{site.baseurl}}/files/statlic.pdf)
+[Form for statutory declaration of compliance for a licence to supply architectural services]({{site.baseurl}}/files/statlic.pdf)
 
-[Form for statutory declaration of compliance on application for a licence to supply architectural services - Word doc]({{site.baseurl}}/files/statlic.doc)
+[Form for statutory declaration of compliance for a licence to supply architectural services - Word doc]({{site.baseurl}}/files/statlic.doc)
 
 [Template of form of licence]({{site.baseurl}}/files/licence.pdf)
 
@@ -86,9 +84,9 @@ Apply for practising certificate
 
 Remove name from register
 
-[Form of application for removal of name from the register of architects by a registered architect]({{site.baseurl}}/files/remove.pdf)
+[Form of application for removal of name from the register of architects]({{site.baseurl}}/files/remove.pdf)
 
-[Form of application for removal of name from the register of architects by a registered architect - Word doc]({{site.baseurl}}/files/remove.doc)
+[Form of application for removal of name from the register of architects - Word doc]({{site.baseurl}}/files/remove.doc)
 
 ### **For practice overseas**
 
