@@ -28,3 +28,16 @@ Applicants to become APEC architects are required to fulfil the following criter
 	* in collaboration with other architects, as an architect in charge of and professionally responsible for a significant aspect of the design, documentation and/or contract administration of complex buildings.
 
 Architects deemed by the Monitoring Committee in a particular economy to have fulfilled these requirements are eligible for registration as an APEC Architect. To retain their registration, APEC Architects must comply with obligations imposed by their home economies for maintaining professional competence and observing codes of professional conduct. Host economies may choose to impose special requirements for the recognition of APEC Architects for practice in their economies, but any such requirements must be fully transparent.
+
+**Singapore Australia New Zealand APEC Architect Agreement**
+
+On 10 October 2010, Singapore had signed with Australia and New Zealand an APEC Architect Trilateral Agreement on Reciprocal Recognition of Registered Architects in Singapore, Australia and New Zealand. This means Singapore APEC Architects are entitled to registration in Australia and New Zealand subject only to a test that examines their knowledge of aspects of the architectural process that are exclusive to the two economies. The same applies to New Zealand and Australian APEC architects wishing to be registered in Singapore. 
+
+Singapore APEC Architects who wish to apply for registration in Australia and New Zealand should contact the respective Boards directly for more information:
+
+Architects Accreditation Council of Australia (AACA)
+New Zealand Registered Architects (NZBAB)
+
+Further information on the APEC Architect framework may be obtained from the APEC Architect website.
+
+For registation to be an APEC architect, please download the forms here.
