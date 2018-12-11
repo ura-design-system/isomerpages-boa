@@ -48,14 +48,12 @@
     url: /register/recognised-schools/
   - title: Polytechnics with waivers
     url: /register/polytechnics-with-waivers/
-  - title: Take the Exam
-    url: /register/take-the-exam/
   - title: Be an APEC Architect
     url: /register/be-an-APEC-architect/
   - title: Be an ASEAN Architect
     url: /register/be-an-ASEAN-architect/
-  - title: Forms
-    url: /get-registered/forms/
+  - title: Application forms
+    url: /get-registered/application-forms/
 - title: Resources
   url: /resources/
   sub-links:
