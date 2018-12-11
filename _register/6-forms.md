@@ -18,6 +18,7 @@ Register to be a PPE candidate
 [Appendix B - Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
 [Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
 [Criteria for Appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
+[Use of digital readers and digitalized reference materials for PPE 2011]({{site.baseurl}}/files/use_of_digital_readers.pdf)
 
 **Section 15(2)(b) of the Architects Act
 
