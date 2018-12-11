@@ -10,6 +10,15 @@ collection_name: register
 
 Architectural graduates with a recognised qualification in architecture must apply to be a PPE candidate in order to be registered with the Board of Architects.
 
+Register to be a PPE candidate 
+
+[General Information for PPE Candidates]({{site.baseurl}}/files/general-info.pdf)
+[Registration Form for PPE candidate]({{site.baseurl}}/files/registration_ppe.pdf)
+[Appendix A - Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
+[Appendix B - Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
+[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
+[Criteria for Appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
+
 **Section 15(2)(b) of the Architects Act
 
 The Professional Interview 
