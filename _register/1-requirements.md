@@ -8,8 +8,8 @@ collection_name: register
 To register as an architect in Singapore, you will need to:
 
 * have an approved academic qualification in architecture; 
-* have an appropriate practical experience in architectural work;
-* pass the professional practice examination, oral or written examination prescribed and approved by the Board
+* have an appropriate practical experience in architectural work; and 
+* pass the professional practice examination, oral or written examination prescribed and approved by the Board.
 
 In addition, the Board must be satisfied that an applicant for registration is a fit and proper person.
 
