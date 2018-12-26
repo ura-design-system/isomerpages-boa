@@ -23,8 +23,8 @@ Applicants to become APEC architects are required to fulfil the following criter
 	* Design
 	* Contract Documentation
 	* Administration
-* at least three (3) years of the seven (7) years period must be undertaken as an architect: -
-	* with sole professional responsibility for the design, documentation and contract administration of buildings of moderate complexity, OR
+* at least three years of the seven years period must be undertaken as an architect: -
+	* with sole professional responsibility for the design, documentation and contract administration of buildings of moderate complexity, or
 	* in collaboration with other architects, as an architect in charge of and professionally responsible for a significant aspect of the design, documentation and/or contract administration of complex buildings.
 
 Architects deemed by the Monitoring Committee in a particular economy to have fulfilled these requirements are eligible for registration as an APEC Architect. To retain their registration, APEC Architects must comply with obligations imposed by their home economies for maintaining professional competence and observing codes of professional conduct. Host economies may choose to impose special requirements for the recognition of APEC Architects for practice in their economies, but any such requirements must be fully transparent.
