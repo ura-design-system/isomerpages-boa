@@ -53,7 +53,9 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 
 **Jonathan**: I am going to counter that. Architecture should be about architecture—for at least the first five years. After that, then you can start thinking out of the box. 
 
+***The '20 under 45' series recognises Singapore-registered architects across generations. The third edition was unveiled in 2017 recognising a new group of 20 architects under the age of 45. The architects for the series were selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.***
 
+***For more information about the series and to purchase the third edition book, go to [URA's website (https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/2017-12_20-Under-45-the-third-edition){:target="_blank"}***
 
 
 
