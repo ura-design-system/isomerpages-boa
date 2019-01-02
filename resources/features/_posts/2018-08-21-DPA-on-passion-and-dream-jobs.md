@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  WOHA on first encounters with architecture
+title:  DPA on passion and dream jobs
 date:   2018-08-27
 permalink: "/resources/features/interviews"
 ---
 ### **What it means to be an architect**
 
-![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/features-DP-front-shot.jpg" | absolute_url }})
+![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/DP-front-shot.jpg" | absolute_url }})
 
 Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’ series unveiled in 2017, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) share their experience practicing in Singapore and what architecture means to them. 
 
@@ -22,14 +22,14 @@ Chee Huang: My first and most vivid encounter with architecture dates back to my
 
 Chee Huang: It is a tough choice, they are all special in their own ways. One that is particularly memorable is Our Tampines Hub. It is something truly special. Besides being a pioneering model of how the public sector can integrate their services, architecturally, it allows us to explore how our design can break down silos and bring together 12 public service agencies to work as one integrated whole. That was a huge challenge, but was extremely meaningful and satisfying.
  
-![Street level view of Our Tampes Hub by DP Architects]({{"/images/features-DP-OTH.jpg" | absolute_url }})
+![Street level view of Our Tampes Hub by DP Architects]({{"/images/DP-OTH.jpg" | absolute_url }})
 Street level of Our Tampines Hub © DP Architects
  
 Through this people-centric project, it has given me critical insights into the dynamics that shape our social landscapes. There were a lot of resident engagement exercises and we got to meet the people whom we are designing for. Co-creating an architecture with and for the people shows us the power of our work, as architects to bring people together, and how we can empower users to be stewards of their own environment and surroundings.
 
 Angelene: Wisma Atria. It’s unusual in the life of an architect to redo a project twice. I got to do this for Wisma Atria, in 2004 and 2012. It’s emotionally wrenching to almost destroy the building even though I am thankful I was the one to re-design it. It’s also tough because sometimes your ideas are rooted in the original form. The client insisted the facade must look completely different; so you have to throw away all past notions and start from scratch. Now that it’s done, I’m happy with both results.
   
-![Wisma Atria 2012 by DP Architects]({{"/images/features-DP-Wisma-Atria.jpg" | absolute_url }})
+![Wisma Atria 2012 by DP Architects]({{"/images/DP-Wisma-Atria.jpg" | absolute_url }})
 Wisma Atria 2012 © DP Architects
 
 **What is one aspect of Singapore’s architecture you would like to see more or less of?**
