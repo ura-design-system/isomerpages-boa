@@ -23,8 +23,8 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 
 **Rene**: I went to college intending to be a pianist, and became an accidental architect. Circumstances are such that I started studying music and architecture in college and ended up becoming an architect. When I say my first encounter of architecture was through music, it’s an understanding of beautiful things. Form and craft exists whether in physical form or sounds.
 
-![Architects Rene Tan and Jonathan Quek at the interview in their office]({{"/images/RTQ-Project1.jpg" | absolute_url }})
-© URA
+![House of a collector by RT+Q Architects]({{"/images/RTQ-Project1.jpg" | absolute_url }})
+House of a collector © RT+Q Architects (Photographers: Albert Lim K.S, Ed Simon)
 
 **What is one work you are proud of?**
 
@@ -36,8 +36,8 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 
 **Rene**: More beautiful spaces. I’ve made it a requirement that all our projects must have a beautiful space, be it a courtyard, a double-height space… 
 
-![Architects Rene Tan and Jonathan Quek at the interview in their office]({{"/images/RTQ-Project2.jpg" | absolute_url }})
-© URA
+![House on a plain by RT+Q Architects]({{"/images/RTQ-Project2.jpg" | absolute_url }})
+House on a plain by RT+Q Architects © RT+Q Architects (Photographer: Harshan Thomson)
 
 **Jonathan**: Less emphasis on materials. In the larger scheme of things, materials are secondary compared to form. Materials are usually called upon to conceal mistakes.
 
