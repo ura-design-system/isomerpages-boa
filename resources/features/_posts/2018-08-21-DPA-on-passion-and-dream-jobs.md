@@ -45,7 +45,9 @@ Angelene: More greenery in our urban landscape – more gardens, parks, greenway
 Chee Huang: Our public housing. I grew up and spent a large part of life in a public housing estate. The cool part is seeing how our public architecture started as a highly efficient housing model and overtime, evolved to the quality housing with distinctive design like what we see today in Pinnacle @ Duxton or the projects at Dawson estate. It is more than just being houses and flats, it’s about homes. There is a strong sense of purpose, as it is really about our people. This is one part of Singapore that is truly authentic and unique as it is something that has evolved with time, and become a vital part of our social memories and identity. That is most precious.
  
 Angelene: Both of our answers are the same! It’s one of the best models of social housing in the world and I am proud of it. A lot of countries are trying to emulate what the Housing and Development Board (HDB) is doing. And HDB’s architecture is getting better, and they are so progressive in their vision. It’s not just the hardware and the architecture, it’s also the software and the community. So much of their work is taken for granted, but they should be applauded more.
- 
+
+![Angelene Chan and Seah Chee Huang at the interview in their office]({{"/images/DP-interview.jpg" | absolute_url }})
+
 **Your dream project?**
  
 Chee Huang: My next project. I believe the best is yet to come.
