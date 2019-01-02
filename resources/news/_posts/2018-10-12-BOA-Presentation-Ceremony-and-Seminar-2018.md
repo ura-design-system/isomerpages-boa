@@ -6,8 +6,8 @@ permalink: "/resources/news/boa-presentation-ceremony-and-seminar"
 ---
 To all Registered Architects 
 
-### **27 OCT 2018, 7.40 AM, SUMMIT 1 LEVEL 3
-SUNTEC SINGAPORE INTERNATIONAL CONVENTION & EXHIBITION CENTRE**
+### **27 OCT 2018, 7.40 AM, SUMMIT 1, LEVEL 3** <br/> 
+### **SUNTEC SINGAPORE INTERNATIONAL CONVENTION & EXHIBITION CENTRE**
 
 ### **Academic qualification in architecture**
 
@@ -33,5 +33,5 @@ As seats for the seminar are limited, you are encouraged to register for the Sem
 
 Yours sincerely,
 
-**NG LYE HOCK LARRY** 
+**NG LYE HOCK LARRY** <br/>  
 **REGISTRAR BOARD OF ARCHITECTS** 
