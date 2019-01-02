@@ -16,7 +16,7 @@ In their fourth year of study (equivalent to March Year 1 of the revamped two-ye
 
 The AIP is an attachment to a real-life working environment which will expose the students to a range of practice experiences which cannot be taught in the university. It is hoped that such exposure will add to the learning process and maturity of the student when he or she embarks on the March course in NUS. 
 
-The objectives of the Architecture Internship Programme (AIP) are three-fold: 
+The objective of the Architecture Internship Programme (AIP) is three-fold: 
 
 * to offer students opportunities for exposure to real-life situations during the period of internship;
 
