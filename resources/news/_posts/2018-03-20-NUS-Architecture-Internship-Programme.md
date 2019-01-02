@@ -10,13 +10,13 @@ Our Ref: BOA 116.2 (Circular)
 
 To all Registered Architects 
 
-### **NUS’S ARCHITECTURE INTERNSHIP PROGRAMME (AIP)**
+### **NUS's Architecure Internship Programme (AIP)**
 
-The Department of Architecture of the National University of Singapore (NUS) is introducing a structured 24-week Architecture Internship Programme to its Master of Architecture (MArch) course. The Architecture Internship Programme (AIP) is essential to complement architectural education. Students who have enrolled for architecture initially go through the first three years of Bachelor of Arts (Architecture). In their fourth year of study (equivalent to March Year 1 of the revamped two-year March course), students will select on a voluntary basis to undergo 24 weeks of architecture internship under the guidance of the Department of Architecture. (The Department will work towards a compulsory internship in the future.) 
+The Department of Architecture of the National University of Singapore (NUS) is introducing a structured 24-week Architecture Internship Programme to its Master of Architecture (March) course. The Architecture Internship Programme (AIP) is essential to complement architectural education. Students who have enrolled for architecture initially go through the first three years of Bachelor of Arts (Architecture). In their fourth year of study (equivalent to March Year 1 of the revamped two-year March course), students will select on a voluntary basis to undergo 24 weeks of architecture internship under the guidance of the Department of Architecture. (The Department will work towards a compulsory internship in the future.) 
 
 The AIP is an attachment to a real-life working environment which will expose the students to a range of practice experiences which cannot be taught in the university. It is hoped that such exposure will add to the learning process and maturity of the student when he or she embarks on the March course in NUS. 
 
-The objective of the Architecture Internship Programme (AIP) is three-fold: 
+The objectives of the Architecture Internship Programme (AIP) are three-fold: 
 
 * to offer students opportunities for exposure to real-life situations during the period of internship;
 
