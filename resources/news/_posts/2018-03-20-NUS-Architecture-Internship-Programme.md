@@ -34,5 +34,5 @@ For further queries, you may email to Ar. Richard Ho at akihor@nus.edu.sg.
 
 Yours faithfully 
 
-**AR. NG LYE HOCK, <br/> LARRY REGISTRAR** 
+**AR. NG LYE HOCK, LARRY <br/> REGISTRAR** 
 
