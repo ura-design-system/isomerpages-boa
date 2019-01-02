@@ -12,7 +12,7 @@ Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20
 
 DP Architects is known for works such as the iconic Esplanade-Theatres on the Bay and Singapore Sports Hub and the more community-driven ones such as Goodlife! Makan and Our Tampines Hub. The practice has grown from a single office with just 15 people to 17 offices around the world with 1,300 people. 
 
-By Justin Zhuang
+*By Justin Zhuang*
 
 **What was your first encounter with architecture?**
 
@@ -66,4 +66,6 @@ Chee Huang: …just about design of buildings. I see it as an extension of our v
 
 Angelene: …just a profession. It is a lifelong passion. It is wonderful that architects, unlike most other professions, can have a very long rewarding career to explore their ideas and interests because creativity has no age limit. This privilege is not accorded to many professions and for this I am very grateful to be doing what I do.
  
-The '20 under 45' series is part of URA’s larger focus on supporting and promoting architectural excellence in Singapore. The architects for the series are selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.
+*The '20 under 45' series is part of URA’s larger focus on supporting and promoting architectural excellence in Singapore. The architects for the series are selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.*
+
+*For more information about the series and to purchase the third edition book, go to URA's website.*
