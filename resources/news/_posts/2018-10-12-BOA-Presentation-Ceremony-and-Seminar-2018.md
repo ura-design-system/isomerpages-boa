@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BOA presentation ceremony and seminar 2018"
-date:   2018-04-01
+date:   2018-09-01
 permalink: "/resources/news/boa-presentation-ceremony-and-seminar"
 ---
 To all Registered Architects 
