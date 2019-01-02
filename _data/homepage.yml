@@ -23,15 +23,14 @@ button:
 key-highlights:
   - title: Know the latest
     description: News, features, projects
-    url: /resources/all
-    external: true
+    url: /resources
   - title: Register as an architect
     description: Key info and forms you need
     url: /register/requirements
-    external: true
   - title: Find an architect
     description: You can also search on data.gov.sg
     url: https://data.gov.sg/
+    external: true
 
 # Resources Section
 resources-title: Resources
