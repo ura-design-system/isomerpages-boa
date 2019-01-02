@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOA presentation ceremony and seminar 2018"
+title:  "BOA Presentation Ceremony and Seminar 2018"
 date:   2018-09-01
 permalink: "/resources/news/boa-presentation-ceremony-and-seminar"
 ---
