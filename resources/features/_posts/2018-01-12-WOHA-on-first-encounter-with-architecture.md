@@ -10,7 +10,7 @@ permalink: "/resources/features/interviews"
 ![Architects Wong Mun Summ and Phua Hong Wei in their office]({{"/images/features-WOHA.jpg" | absolute_url }})
 © URA
 
-WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encounters with architecture and living the dream.
+WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encounters with architecture and living the dream. Both are identified in the Urban Redevelopment Authority (URA)'s '20 under 45' series that recognises Singapore-registered architects across generations. WOHA's work has garnered global and local accolades, known for their innovative and diverse designs.
 
 *By Justin Zhuang*
 
