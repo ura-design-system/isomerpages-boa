@@ -6,7 +6,7 @@ permalink: "/resources/news/members-of-Board-of-Architects-2019-to-2021"
 ---
 31 Dec 2018
 
-### ** Members of the Board of Architects 2019 - 2021**
+### **Members of the Board of Architects 2019 - 2021**
 
 The following candidates with the highest number of votes are declared to be elected as members of the Board for a term of three years with effect from 1 Jan 2019: 
 
