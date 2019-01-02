@@ -22,6 +22,7 @@ Chee Huang: My first and most vivid encounter with architecture dates back to my
 
 Chee Huang: It is a tough choice, they are all special in their own ways. One that is particularly memorable is Our Tampines Hub. It is something truly special. Besides being a pioneering model of how the public sector can integrate their services, architecturally, it allows us to explore how our design can break down silos and bring together 12 public service agencies to work as one integrated whole. That was a huge challenge, but was extremely meaningful and satisfying.
  
+![Street level view of Our Tampes Hub by DP Architects]({{"/images/features-DP-OTH.jpg" | absolute_url }})
 Street level of Our Tampines Hub © DP Architects
  
 Through this people-centric project, it has given me critical insights into the dynamics that shape our social landscapes. There were a lot of resident engagement exercises and we got to meet the people whom we are designing for. Co-creating an architecture with and for the people shows us the power of our work, as architects to bring people together, and how we can empower users to be stewards of their own environment and surroundings.
