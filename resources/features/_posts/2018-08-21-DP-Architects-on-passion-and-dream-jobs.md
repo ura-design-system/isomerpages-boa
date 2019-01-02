@@ -7,6 +7,7 @@ permalink: "/resources/features/interviews"
 ### **What it means to be an architect**
 
 ![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/DP-front-shot.jpg" | absolute_url }})
+© URA
 
 Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’ series unveiled in 2017, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) from DP Architects (DPA) share their experience practicing in Singapore and what architecture means to them. 
 
@@ -47,6 +48,7 @@ Chee Huang: Our public housing. I grew up and spent a large part of life in a pu
 Angelene: Both of our answers are the same! It’s one of the best models of social housing in the world and I am proud of it. A lot of countries are trying to emulate what the Housing and Development Board (HDB) is doing. And HDB’s architecture is getting better, and they are so progressive in their vision. It’s not just the hardware and the architecture, it’s also the software and the community. So much of their work is taken for granted, but they should be applauded more.
 
 ![Angelene Chan and Seah Chee Huang at the interview in their office]({{"/images/DP-interview.jpg" | absolute_url }})
+© URA
 
 **Your dream project?**
  
