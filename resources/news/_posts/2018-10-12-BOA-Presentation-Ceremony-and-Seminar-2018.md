@@ -30,4 +30,4 @@ As seats for the seminar are limited, you are encouraged to register for the Sem
 
 Yours sincerely,
 
-**NG LYE HOCK LARRY <br/> REGISTRAR BOARD OF ARCHITECTS** 
+**NG LYE HOCK LARRY <br/> REGISTRAR <br/> BOARD OF ARCHITECTS** 
