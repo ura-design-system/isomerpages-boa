@@ -70,4 +70,5 @@ Angelene: …just a profession. It is a lifelong passion. It is wonderful that a
  
 *The '20 under 45' series is part of URA’s larger focus on supporting and promoting architectural excellence in Singapore. The architects for the series are selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.*
 
-*For more information about the series and to purchase the third edition book, go to URA's website.*
+*For more information about the series and to purchase the third edition book, go to [URA's website] (https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/2017-12_20-Under-45-the-third-edition){:target="_blank"}*
+
