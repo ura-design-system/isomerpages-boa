@@ -67,7 +67,7 @@ Except for the limited permission mentioned above, no part or parts of the Mater
 BOA has used reasonable endeavours to ensure that the Materials are correct at the time of posting. However, BOA does not warrant the accuracy, adequacy or completeness of the Materials and expressly disclaims liability for any error or omission in the Materials.
 No warranty of any kind, express, implied or statutory, including but not limited to warranties of non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for a particular purpose, is given in conjunction with the Materials and/or this website.
 
-URA does not warrant that any of the Materials or that this website will be provided uninterrupted or free from errors or that any identified defect will be corrected. Further, no warranty is given that this website and the Materials are free from any virus or other harmful program, code or macro.
+BOA does not warrant that any of the Materials or that this website will be provided uninterrupted or free from errors or that any identified defect will be corrected. Further, no warranty is given that this website and the Materials are free from any virus or other harmful program, code or macro.
 
 **Exclusion of liability**
 
