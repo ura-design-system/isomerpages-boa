@@ -6,7 +6,7 @@ permalink: "/resources/features/interviews"
 ---
 ### **What it means to be an architect**
 
-![Architects Wong Mun Summ and Phua Hong Wei in their office]({{"/images/features-WOHA.jpg" | absolute_url }})
+![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/features-DP-front-shot.jpg" | absolute_url }})
 
 Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’ series unveiled in 2017, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) share their experience practicing in Singapore and what architecture means to them. 
 
