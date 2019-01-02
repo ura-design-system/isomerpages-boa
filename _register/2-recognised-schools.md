@@ -214,7 +214,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Heriot-Watt University (Joint course of Heriot-Watt University - up to 1979 and Edinburgh College of Art - up to 1979)</td>
-		<td>1. Diploma in Architecture</td>
+		<td>Diploma in Architecture</td>
 	</tr>
 	<tr>
 		<td>Mackintosh School of Architecture (University of Glasgow and Glasgow School of Art)</td>
@@ -222,7 +222,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Scott Sutherland School of Architecture, the Robert Gordon University (from 1992<br/> (formerly Robert Gordon&#39;s Institute of Technology)</td>
-		<td>1. Diploma in Advanced Architectural Studies</td>
+		<td>Diploma in Advanced Architectural Studies</td>
 	</tr>
 	<tr>
 		<td>University of Strathclyde</td>
