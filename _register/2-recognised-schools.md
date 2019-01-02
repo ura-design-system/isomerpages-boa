@@ -187,7 +187,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Royal College of Arts (from 1998)</td>
-		<td>1. Master of Arts Royal College of Art in Architecture</td>
+		<td>Master of Arts Royal College of Art in Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Sheffield</td>
@@ -206,7 +206,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>Heriot-Watt University<br/>(formerly Edinburgh College of Art)</td>
-		<td>1. Diploma in Architecture</td>
+		<td>Diploma in Architecture</td>
 	</tr>
 	<tr>
 		<td>University of Edinburgh</td>
