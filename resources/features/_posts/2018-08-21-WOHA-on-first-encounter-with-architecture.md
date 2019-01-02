@@ -2,7 +2,7 @@
 layout: post
 title:  WOHA on first encounters with architecture
 date:   2018-08-21
-permalink: "/resources/features/interviews"
+permalink: "/resources/features/WOHA-on-first-encounters-with-architecture"
 ---
 
 ### **Living the dream**
