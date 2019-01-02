@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enabling village"
-date:   2018-04-01
+date:   2018-08-20
 permalink: "/resources/projects/enabling-village"
 ---
 ![Enabling Village]({{"/images/projects-enablingvillage.jpg" | absolute_url }})
