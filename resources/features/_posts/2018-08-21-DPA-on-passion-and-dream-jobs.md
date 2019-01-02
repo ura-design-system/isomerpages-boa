@@ -29,6 +29,7 @@ Through this people-centric project, it has given me critical insights into the 
 
 Angelene: Wisma Atria. It’s unusual in the life of an architect to redo a project twice. I got to do this for Wisma Atria, in 2004 and 2012. It’s emotionally wrenching to almost destroy the building even though I am thankful I was the one to re-design it. It’s also tough because sometimes your ideas are rooted in the original form. The client insisted the facade must look completely different; so you have to throw away all past notions and start from scratch. Now that it’s done, I’m happy with both results.
   
+![Wisma Atria 2012 by DP Architects]({{"/images/features-DP-Wisma-Atria.jpg" | absolute_url }})
 Wisma Atria 2012 © DP Architects
 
 **What is one aspect of Singapore’s architecture you would like to see more or less of?**
