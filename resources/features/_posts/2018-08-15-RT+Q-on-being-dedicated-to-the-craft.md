@@ -23,6 +23,9 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 
 **Rene**: I went to college intending to be a pianist, and became an accidental architect. Circumstances are such that I started studying music and architecture in college and ended up becoming an architect. When I say my first encounter of architecture was through music, it’s an understanding of beautiful things. Form and craft exists whether in physical form or sounds.
 
+![Architects Rene Tan and Jonathan Quek at the interview in their office]({{"/images/RTQ-Project1.jpg" | absolute_url }})
+© URA
+
 **What is one work you are proud of?**
 
 **Jonathan**: I recently designed a house for my father and I. He lives in one wing, and I live in another. You get to see whether or not your design actually works. Whether the spaces let you feel you are in your own sanctum and help you come together. Building your own house was quite a learning experience.
@@ -32,6 +35,9 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 **What would you like to see more (or less) of in Singapore architecture?**
 
 **Rene**: More beautiful spaces. I’ve made it a requirement that all our projects must have a beautiful space, be it a courtyard, a double-height space… 
+
+![Architects Rene Tan and Jonathan Quek at the interview in their office]({{"/images/RTQ-Project2.jpg" | absolute_url }})
+© URA
 
 **Jonathan**: Less emphasis on materials. In the larger scheme of things, materials are secondary compared to form. Materials are usually called upon to conceal mistakes.
 
@@ -46,6 +52,9 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 **Rene**: What would be interesting is to design architecture for the visually impaired. We presume architecture is about vision, but what happens when we take that away? It’ll be interesting to rely on your other senses. Can you still talk about proportion or scale? I think so.
 
 **Jonathan**: Moving away from residential. Jumping in scale is something I look forward to. It can be bigger or smaller. We have established a certain rhythm in doing houses, and changing the constraints, scale and typology would challenge us more.
+
+![Architects Rene Tan and Jonathan Quek at their office]({{"/images/RTQ-front-shot.jpg" | absolute_url }})
+© URA
 
 **Complete the sentence: Architecture is not…**
 
