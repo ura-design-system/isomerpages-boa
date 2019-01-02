@@ -8,7 +8,7 @@ collection_name: register
 
 ### **Register as an architect**
 
-Architectural graduates with a recognised qualification in architecture must apply to be a PPE candidate in order to be registered with the Board of Architects.
+Architectural graduates with a recognised qualification in architecture must apply to be a PPE (professional practice examination) candidate in order to be registered with the Board of Architects.
 
 **Register to be a PPE candidate** 
 
@@ -26,7 +26,7 @@ Architectural graduates with a recognised qualification in architecture must app
 
 **Section 15(2)(b) of the Architects Act**
 
-The Professional Interview 
+Apply for professional interview 
 
 [Application form for Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b.pdf)
 
@@ -62,7 +62,7 @@ Change or remove name
 
 [Application for approval of firm's name]({{site.baseurl}}/files/approval_of_firm_s_name.pdf)
 
-Apply for license
+Apply for licence
 
 [Form of application for licence]({{site.baseurl}}/files/form_6_application_for_a_licence.pdf)
 
