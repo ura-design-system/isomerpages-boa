@@ -48,9 +48,9 @@ BOA does not warrant that any of the Materials or that this website will be prov
 
 To the fullest extent permitted by law, BOA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with
 
-1.	any access, use or inability to access or use this website, or reliance on the Materials;
-2.	any system, server or connection failure, error, omission, interruption, delay in transmission, or computer virus; and
-3.	any use of or access to any other website linked to this website;
+* any access, use or inability to access or use this website, or reliance on the Materials;
+* any system, server or connection failure, error, omission, interruption, delay in transmission, or computer virus; and
+* any use of or access to any other website linked to this website;
 even if URA or its employees are advised of the possibility of such damages, losses and/or expenses.
 
 **Severance of terms**
