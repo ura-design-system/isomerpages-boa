@@ -8,6 +8,7 @@ permalink: "/resources/features/interviews"
 ### **Living the dream**
 
 ![Architects Wong Mun Summ and Phua Hong Wei in their office]({{"/images/features-WOHA.jpg" | absolute_url }})
+© URA
 
 WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encounters with architecture and living the dream.
 
@@ -22,6 +23,7 @@ Mun Summ: I used to live in Tanglin Halt, and once after coming back from a midn
 Hong Wei: I remember my first Lego set. That was something that I liked to play with: to put things together, pull them apart and put them together again into different things. It was exciting and empowering to be able to imagine and structure the space. 
 
 ![Plants overhang in WOHA's office]({{"/images/features-WOHA-plants in office.jpg" | absolute_url }})
+© URA
 
 **Tell us about one work of yours.**
 
@@ -30,6 +32,7 @@ Hong Wei: I always look back at Enabling Village because that is a project that 
 Mun Summ: Enabling Village is a good example of how architects shouldn’t over think design. We hit the right level of intervention and created a framework for things to happen. That’s what an architect’s role should be: facilitating rather than building. Enabling Village has a very strong sense of place because of ownership by the community. 
 
 ![Mun Summ and Hong Wei at the interview]({{"/images/features-WOHA-the interview.jpg" | absolute_url }})
+© URA
 
 **What is one thing you like to see more (or less) in Singapore architecture?**
 
