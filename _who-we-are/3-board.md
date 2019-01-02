@@ -17,7 +17,7 @@ With effect from 1st October 2005, the Board will consist of the following membe
 * Six registered architects who are appointed by the Minister, and
 * A registered professional engineer from PEB
 
-#### **Board Members (2016-2018)**
+#### **Board Members (2019-2021)**
 
 ##### **President**
 **Ar. Tan Shao Yen**, CPG Consultants Pte Ltd
