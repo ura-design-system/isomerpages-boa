@@ -9,7 +9,7 @@ permalink: "/resources/features/DP-Architects-on-passion-and-dream-jobs"
 ![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/DP-front-shot.jpg" | absolute_url }})
 © URA
 
-Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’ series unveiled in 2017, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) from DP Architects (DPA) share their experience practicing in Singapore and what architecture means to them. 
+Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) from DP Architects (DPA) share their experience practicing in Singapore and what architecture means to them. 
 
 DP Architects is known for works such as the iconic Esplanade-Theatres on the Bay and Singapore Sports Hub and the more community-driven ones such as Goodlife! Makan and Our Tampines Hub. The practice has grown from a single office with just 15 people to 17 offices around the world with 1,300 people. 
 
@@ -68,7 +68,7 @@ Wisma Atria 2012 © DP Architects
 
 **Angelene**: …just a profession. It is a lifelong passion. It is wonderful that architects, unlike most other professions, can have a very long rewarding career to explore their ideas and interests because creativity has no age limit. This privilege is not accorded to many professions and for this I am very grateful to be doing what I do.
  
-***The '20 under 45' series is part of URA’s larger focus on supporting and promoting architectural excellence in Singapore. The architects for the series are selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.***
+***The '20 under 45' series recognises Singapore-registered architects across generations. The third edition was unveiled in 2017 recognising a new group of 20 architects under the age of 45. The architects for the series were selected by a panel of assessors from the architectural profession and other related industries, based on their range of works that reflect their achievements in design, ideas and leadership.***
 
 ***For more information about the series and to purchase the third edition book, go to [URA's website (https://www.ura.gov.sg/Corporate/Resources/Publications/Books/Book-Details/2017-12_20-Under-45-the-third-edition){:target="_blank"}***
 
