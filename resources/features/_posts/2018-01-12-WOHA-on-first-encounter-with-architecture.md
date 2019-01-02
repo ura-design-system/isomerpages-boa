@@ -11,7 +11,7 @@ permalink: "/resources/features/interviews"
 
 WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encounters with architecture and living the dream.
 
-By Justin Zhuang
+*By Justin Zhuang*
 
 On a cold, rainy day, we catch up with leading local firm WOHA's co-founder Wong Mun Summ and Associate Phua Hong Wei in their warm office on their first encounters with architecture, dream projects and designing for people. Both are identified in URA's '20 under 45' series that recognises Singapore-registered architects across generations. WOHA's work has garnered global and local accolades, known for their innovative and diverse designs.
 
