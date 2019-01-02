@@ -8,8 +8,6 @@ To all Registered Architects
 
 ### **27 Oct 2018, 7.40 am, Suntec Singapore international convention & exhibition centre**
 
-### **Academic qualification in architecture**
-
 I am pleased to announce that the Board of Architects (BOA) will be holding its annual seminar in conjunction with the 2018 Certificate Presentation Ceremony on 27 Oct 2018 (Sat) at 7.40 am at Summit 1, Level 3, Suntec City, 1 Raffles Boulevard, Singapore 039593. 
 
 The BOA Presentation Ceremony is an annual event where the architectural fraternity gather to witness the conferment of Registration Certificates to our newly registered architects, and to get updates on issues pertinent to the profession and the industry locally and internationally. 
