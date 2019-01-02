@@ -12,7 +12,7 @@ The following candidates with the highest number of votes are declared to be ele
 
 **Elected Members of the Board 2019 - 2021**
 
-(In alphabetic order) 
+*(In alphabetic order)* 
 
 * Ar. Ang Kong Siong, Tony
 * Ar. Chan Li Chen, Angelene
