@@ -63,7 +63,7 @@
     url: /resources/news/
   - title: Features
     url: /resources/features/
-  - title: Projects
-    url: /resources/projects/
+  # - title: Projects
+  #   url: /resources/projects/
 - title: Contact Us
   url: /contact-us/
