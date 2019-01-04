@@ -29,7 +29,7 @@ key-highlights:
     url: /register/requirements
   - title: Find an architect
     description: You can also search on data.gov.sg
-    url: https://data.gov.sg/
+    url: /find-an-architect
     external: true
 
 # Resources Section
