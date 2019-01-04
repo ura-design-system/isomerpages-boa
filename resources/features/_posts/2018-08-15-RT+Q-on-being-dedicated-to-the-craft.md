@@ -35,7 +35,7 @@ House of a collector © RT+Q Architects (Photographers: Albert Lim K.S, Ed Simon
 **Rene**: More beautiful spaces. I’ve made it a requirement that all our projects must have a beautiful space, be it a courtyard, a double-height space… 
 
 ![House on a plain by RT+Q Architects]({{"/images/RTQ-Project2.jpg" | absolute_url }})
-House on a plain by RT+Q Architects © RT+Q Architects (Photographer: Harshan Thomson)
+House on a plain © RT+Q Architects (Photographer: Harshan Thomson)
 
 **Jonathan**: Less emphasis on materials. In the larger scheme of things, materials are secondary compared to form. Materials are usually called upon to conceal mistakes.
 
