@@ -11,8 +11,6 @@ permalink: "/resources/features/RT+Q-Architects-on-being-dedicated-to-the-craft"
 
 *By Justin Zhuang*
 
-“Don’t think like an architect,” advises RT+Q’s Rene Tan
-
 There is both chaos and beauty in award-winning RT+Q Architects’ office. Within its cosy and tight corners are rows of models. “We produce models for every one of our projects,” says co-founder Rene Tan.
 
 Coming away from a leisurely afternoon chat with Rene Tan and next generation architect Jonathan Quek, both recognised in the Urban Redevelopment Authority (URA)’s ’20 under 45’ series, you are inspired by their fierce dedication to the architectural craft and determination to keep designing beautiful spaces. Started in 2003 by Rene and T.K. Quek, RT+Q’s works range from homes, to condominiums, resorts, offices and commercial buildings.
