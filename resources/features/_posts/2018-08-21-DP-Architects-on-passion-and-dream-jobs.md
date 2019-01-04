@@ -9,11 +9,11 @@ permalink: "/resources/features/DP-Architects-on-passion-and-dream-jobs"
 ![Architects Angelene Chan and Seah Chee Huang in their office]({{"/images/DP-front-shot.jpg" | absolute_url }})
 © URA
 
+*By Justin Zhuang*
+
 Identified in the third edition of the Urban Revelopment Authority (URA)'s ‘20 under 45’ series, Director Seah Chee Huang and Chief Executive Officer Angelene Chan (from the series’ second edition in 2010) from DP Architects (DPA) share their experience practicing in Singapore and what architecture means to them. 
 
 DP Architects is known for works such as the iconic Esplanade-Theatres on the Bay and Singapore Sports Hub and the more community-driven ones such as Goodlife! Makan and Our Tampines Hub. The practice has grown from a single office with just 15 people to 17 offices around the world with 1,300 people. 
-
-*By Justin Zhuang*
 
 **What was your first encounter with architecture?**
 
