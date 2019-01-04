@@ -14,8 +14,6 @@ WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encou
 
 *By Justin Zhuang*
 
-On a cold, rainy day, we catch up with leading local firm WOHA's co-founder Wong Mun Summ and Associate Phua Hong Wei in their warm office on their first encounters with architecture, dream projects and designing for people. Both are identified in URA's '20 under 45' series that recognises Singapore-registered architects across generations. WOHA's work has garnered global and local accolades, known for their innovative and diverse designs.
-
 **What was your first encounter with architecture?** 
 
 **Mun Summ**: I used to live in Tanglin Halt, and once after coming back from a midnight movie, I ran so quickly that I didn’t realise there was a barrier. I flew and my face landed on the tarmac. That was my first encounter with really hard architecture! I became an architect because I wanted to make sure things are softer! 
