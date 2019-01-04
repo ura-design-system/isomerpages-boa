@@ -13,53 +13,57 @@
     url: /who-we-are/functions/
   - title: Board
     url: /who-we-are/board/
-  - title: Rules and Laws
+  - title: Rules and laws
     url: /who-we-are/rules-and-laws/
-- title: Become an Architect
-  url: /become-an-architect/become-an-architect-1/
+  - title: Useful links
+    url: /who-we-are/useful-links/
+# - title: Become an Architect
+#   url: /become-an-architect/become-an-architect-1/
+#   sub-links:
+#   - title: The basics
+#     url: /become-an-architect/the-basics/
+#   - title: Why architecture
+#     url: /become-an-architect/why-architecture/
+#   - title: Check CPD points
+#     url: /become-an-architect/check-CPD-points/
+- title: Find Architects
+  url: /find-architects/register-of-architects/
   sub-links:
-  - title: Test 1
-    url: /become-an-architect/become-an-architect-1/
-  - title: Test 2
-    url: /become-an-architect/become-an-architect-2/
-- title: Find Architect
-  url: https://data.gov.sg/
-  external: true
+  - title: Register of architects
+    url: /find-architects/register-of-architects/
+  - title: Register of architectural firms
+    url: /find-architects/register-of-architectural-firms/
+  - title: Register of ASEAN architects
+    url: /find-architects/register-of-asean-architects/
+  - title: Register of APEC architects
+    url: /find-architects/register-of-apec-architects/
+  - title: Register of foreign architect collaborators 
+    url: /find-architects/register-of-foreign-architect-collaborators/
+- title: Register
+  url: /Register/overview/
   sub-links:
-  - title: Register of Architects
-    url: https://data.gov.sg/dataset/enrolment-moe-kindergartens
-    external: true
-  - title: Register of Architecture Firms
-    url: https://data.gov.sg/
-    external: true
-  - title: ASEAN Architect Register
-    url: https://data.gov.sg/
-    external: true
-- title: Applications
-  url: /applications/educational-qualifications/
-  sub-links:
-  - title: Educational Qualifications
-    url: /applications/educational-qualifications/
-  - title: Taking the Exam
-    url: /applications/taking-the-exam/
-  - title: Get Registered
-    url: /applications/get-registered/
-  - title: APEC Architecture Project
-    url: /applications/apec-architecture-project/
-  - title: Forms
-    url: /applications/forms/
-  - title: Complaints
-    url: /applications/complaints/
+  - title: Requirements
+    url: /register/requirements/
+  - title: Recognised schools
+    url: /register/recognised-schools/
+  - title: Polytechnics with waivers
+    url: /register/polytechnics-with-waivers/
+  - title: Be an APEC architect
+    url: /register/be-an-APEC-architect/
+  - title: Be an ASEAN architect
+    url: /register/be-an-ASEAN-architect/
+  - title: Application forms
+    url: /register/application-forms/
 - title: Resources
   url: /resources/
   sub-links:
   - title: All
     url: /resources/
-  - title: Media
-    url: /resources/media/
+  - title: News
+    url: /resources/news/
   - title: Features
     url: /resources/features/
-  - title: Projects
-    url: /resources/projects/
+  # - title: Projects
+  #   url: /resources/projects/
 - title: Contact Us
   url: /contact-us/

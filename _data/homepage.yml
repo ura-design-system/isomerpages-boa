@@ -12,26 +12,25 @@ agency-logo: /images/agency-logo.svg
 
 # Hero Banner
 hero-title: Board of Architects
-hero-subtitle: A platform to search for registered architects and architecture firms in Singapore
-hero-banner: /images/hero-banner.png
+hero-subtitle: We help regulate Singapore's architectural profession and celebrate good designs
+hero-banner: /images/Hero-banner-final1.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /who-we-are/overview
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Know the latest
+    description: News and features
+    url: /resources
+  - title: Register as an architect
+    description: Key info and forms you need
+    url: /register/requirements
+  - title: Find an architect
+    description: You can also search for architectural firms 
+    url: /find-architects/register-of-architects
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
 # Resources Section
 resources-title: Resources

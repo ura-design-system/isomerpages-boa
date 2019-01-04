@@ -31,6 +31,11 @@ column:
   - title: Fax
     content:
     - line: +65 6222 4452
-
+    
+  - title: Make a complaint 
+    content:
+    - line: A complaint may be lodged against a registered architect if he has contravened the provisions of the Architects Act.  
+    - line: <a href="/complaints/">View details</a>
+    
 # Image
 image-url:
