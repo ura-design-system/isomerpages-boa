@@ -28,7 +28,7 @@ key-highlights:
     description: Key info and forms you need
     url: /register/requirements
   - title: Find an architect
-    description: You can also search on data.gov.sg
+    description: You can also search for architectural firms 
     url: /_find-architects
     external: true
 
