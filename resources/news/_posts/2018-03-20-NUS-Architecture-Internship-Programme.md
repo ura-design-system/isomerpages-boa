@@ -26,9 +26,7 @@ The objective of the Architecture Internship Programme (AIP) is three-fold:
 
 There will be two periods of internship – from June to November and from December to May of the same academic year. Students who are admitted to the March course can choose when they prefer to have their internship which will carry eight Modular Credits. Students will seek their own placement with architect firms of their choice and if they fail to do so, the Department will assist them. The AIP will commence from June 2018. 
 
-Architect firms registered with the Board of Architects are encouraged to register their interest with the NUS Department of Architecture by the end of March 2018 through this [link](https://mysurvey.nus.edu.sg/EFM/se.ashx?s=543BE5C253734288){:target="_blank"} 
-
-More information on the AIP can be obtained from this [link](http://www.arch.nus.edu.sg/internship/info.html){:target="_blank"}  
+Architectural firms registered with the Board of Architects are encouraged to register their interest with the NUS Department of Architecture by the end of March 2018.
 
 For further queries, you may email to Ar. Richard Ho at akihor@nus.edu.sg. 
 
