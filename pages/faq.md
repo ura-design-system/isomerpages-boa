@@ -55,7 +55,7 @@ Full details can be obtained from the Board’s office and must be adhered to.
 
 #### **How do I apply?**
 
-If you satisfy the Board the registration requirements as set out above, you may obtain the necessary forms for Examination or Registration [here](/register/forms/). It is important that you complete the forms accurately and return it the Board's office together with all the required supporting documents and registration fee.
+If you satisfy the Board the registration requirements as set out above, you may obtain the necessary forms for Examination or Registration [here](/register/application-forms/). It is important that you complete the forms accurately and return it the Board's office together with all the required supporting documents and registration fee.
 
 Please note that original degree, diploma must be produced for verification by the Board's staff when you submit your application as required by the Board.
 
