@@ -16,7 +16,7 @@ collection_name: who-we-are
 -	[National Parks Board (NParks)](https://www.nparks.gov.sg/){:target="_blank"}
 -	[Housing & Development Board (HDB)](https://www.hdb.gov.sg/){:target="_blank"} 
 -	[Singapore Land Authority (SLA)](https://www.sla.gov.sg/){:target="_blank"} 
--	[LAWNET](ttps://www.lawnet.sg/lawnet/web/lawnet/home){:target="_blank"}
+-	[LAWNET](https://www.lawnet.sg/lawnet/web/lawnet/home){:target="_blank"}
 -	[CORENET](https://www.corenet.gov.sg/){:target="_blank"}
  
 ## Professional architectural and related institutions ##
