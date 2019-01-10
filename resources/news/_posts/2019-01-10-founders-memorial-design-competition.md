@@ -5,6 +5,7 @@ date:   2019-01-10
 permalink: "/resources/news/founders-memorial-design-competition"
 ---
 ![The image shows the location of the founders' memorial site at Bay East Garden]({{"/images/Founders-memorial-design-competition.jpg" | absolute_url }})
+© Ministry of National Development
 
 This is two-stage international architectural design competition launched by the National Heritage Board, Singapore, to invite design proposals for the Founders' Memorial. The Founders' Memorial will be an integrated gallery and garden experience to honour the legacy of our founding generation to reflect on the ideals and values upon which our nation is built. 
 
