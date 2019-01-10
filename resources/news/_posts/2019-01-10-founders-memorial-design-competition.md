@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Founders' Memorial Design Competition"
-date:   2019-01-11
+date:   2019-01-10
 permalink: "/resources/news/founders-memorial-design-competition"
 ---
 ![The image shows the location of the founders' memorial site at Bay East Garden]({{"/images/Founders-memorial-design-competition.jpg" | absolute_url }})
