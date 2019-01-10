@@ -4,7 +4,7 @@ title:  "Enabling village"
 date:   2020-08-20
 permalink: "/resources/projects/enabling-village"
 ---
-![Enabling Village]({{"/images/projects-enablingvillage.jpg" | absolute_url }})
+![Enabling Village](/images/projects-enablingvillage.jpg)
 
 ### **Enabling Village**
 
