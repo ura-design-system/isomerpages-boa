@@ -8,5 +8,6 @@ This is two-stage international architectural design competition launched by the
 
 The Singappore Institute of Architects has been appointed to organise the competition, which is launched on 10 January 2019.
 
-Visit foundersmemorialcompetition.sg for more information.
+For more information, visit [foundersmemorialcompetition.sg](foundersmemorialcompetition.sg){:target="_blank"} 
+
 
