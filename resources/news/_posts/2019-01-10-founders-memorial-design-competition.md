@@ -13,6 +13,6 @@ It will be sited at Bay East Garden, and be a development with significant civic
 
 The Singappore Institute of Architects has been appointed to organise the competition, which is launched on 10 January 2019.
 
-For more information, visit [foundersmemorialcompetition.sg](foundersmemorialcompetition.sg){:target="_blank"} 
+For more information, visit [foundersmemorialcompetition.sg](https://foundersmemorialcompetition.sg){:target="_blank"} 
 
 
