@@ -6,7 +6,7 @@ permalink: "/resources/features/RT+Q-Architects-on-being-dedicated-to-the-craft"
 ---
 ### **Dedication to beauty**
 
-![Architects Rene Tan and Jonathan Quek at the interview in their office]({{"/images/RTQ-interview.jpg" | absolute_url }})
+![Architects Rene Tan and Jonathan Quek at the interview in their office](/images/RTQ-interview.jpg)
 © URA
 
 *By Justin Zhuang*
@@ -21,7 +21,7 @@ Coming away from a leisurely afternoon chat with Rene Tan and next generation ar
 
 **Rene**: I went to college intending to be a pianist, and became an accidental architect. Circumstances are such that I started studying music and architecture in college and ended up becoming an architect. When I say my first encounter of architecture was through music, it’s an understanding of beautiful things. Form and craft exists whether in physical form or sounds.
 
-![House of a collector by RT+Q Architects]({{"/images/RTQ-Project1.jpg" | absolute_url }})
+![House of a collector by RT+Q Architects](/images/RTQ-Project1.jpg)
 House of a collector © RT+Q Architects (Photographers: Albert Lim K.S, Ed Simon)
 
 **What is one work you are proud of?**
@@ -34,7 +34,7 @@ House of a collector © RT+Q Architects (Photographers: Albert Lim K.S, Ed Simon
 
 **Rene**: More beautiful spaces. I’ve made it a requirement that all our projects must have a beautiful space, be it a courtyard, a double-height space… 
 
-![House on a plain by RT+Q Architects]({{"/images/RTQ-Project2.jpg" | absolute_url }})
+![House on a plain by RT+Q Architects](/images/RTQ-Project2.jpg)
 House on a plain © RT+Q Architects (Photographer: Harshan Thomson)
 
 **Jonathan**: Less emphasis on materials. In the larger scheme of things, materials are secondary compared to form. Materials are usually called upon to conceal mistakes.
@@ -51,7 +51,7 @@ House on a plain © RT+Q Architects (Photographer: Harshan Thomson)
 
 **Jonathan**: Moving away from residential. Jumping in scale is something I look forward to. It can be bigger or smaller. We have established a certain rhythm in doing houses, and changing the constraints, scale and typology would challenge us more.
 
-![Architects Rene Tan and Jonathan Quek at their office]({{"/images/RTQ-front-shot.jpg" | absolute_url }})
+![Architects Rene Tan and Jonathan Quek at their office](/images/RTQ-front-shot.jpg)
 © URA
 
 **Complete the sentence: Architecture is not…**

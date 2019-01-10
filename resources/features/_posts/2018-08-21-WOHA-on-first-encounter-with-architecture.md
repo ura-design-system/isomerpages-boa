@@ -7,7 +7,7 @@ permalink: "/resources/features/WOHA-on-first-encounters-with-architecture"
 
 ### **Living the dream**
 
-![Architects Wong Mun Summ and Phua Hong Wei in their office]({{"/images/features-WOHA.jpg" | absolute_url }})
+![Architects Wong Mun Summ and Phua Hong Wei in their office](/images/features-WOHA.jpg)
 © URA
 
 *By Justin Zhuang*
@@ -20,7 +20,7 @@ WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encou
 
 **Hong Wei**: I remember my first Lego set. That was something that I liked to play with: to put things together, pull them apart and put them together again into different things. It was exciting and empowering to be able to imagine and structure the space. 
 
-![Plants overhang in WOHA's office]({{"/images/features-WOHA-plants in office.jpg" | absolute_url }})
+![Plants overhang in WOHA's office](/images/features-WOHA-plants in office.jpg)
 © URA
 
 **Tell us about one work of yours.**
@@ -29,7 +29,7 @@ WOHA’s architects Wong Mun Summ and Phua Hong Wei talk about their first encou
 
 **Mun Summ**: Enabling Village is a good example of how architects shouldn’t over think design. We hit the right level of intervention and created a framework for things to happen. That’s what an architect’s role should be: facilitating rather than building. Enabling Village has a very strong sense of place because of ownership by the community. 
 
-![Mun Summ and Hong Wei at the interview]({{"/images/features-WOHA-the interview.jpg" | absolute_url }})
+![Mun Summ and Hong Wei at the interview](/images/features-WOHA-the interview.jpg)
 © URA
 
 **What is one thing you like to see more (or less) in Singapore architecture?**
