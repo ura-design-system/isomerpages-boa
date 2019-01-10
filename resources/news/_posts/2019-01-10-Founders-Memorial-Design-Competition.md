@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NUS Architecture Internship Programme"
-date:   2018-03-20
-permalink: "/resources/news/nus-architecture-internship-programme"
+title:  "Founders' Memorial Design Competition"
+date:   2019-01-11
+permalink: "/resources/news/founders-memorial-design-competition"
 ---
