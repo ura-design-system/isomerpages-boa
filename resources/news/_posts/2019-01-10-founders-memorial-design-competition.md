@@ -11,7 +11,7 @@ This is a two-stage international architectural design competition launched by t
 
 It will be sited at Bay East Garden, and be a development with significant civic presence, integrating architectural and landscape design, and be accessible to all visitors. 
 
-The Singappore Institute of Architects has been appointed to organise the competition, which is launched on 10 January 2019.
+The Singappore Institute of Architects has been appointed to organise the competition, which is launched on 10 January 2019. In view of the feedback received, the registration for the Founders' Memorial Design Competition has been extended to 3 April 2019 (Wed), 12 noon (GMT +8).
 
 For more information, visit [foundersmemorialcompetition.sg](https://www.foundersmemorial.sg/){:target="_blank"} 
 
