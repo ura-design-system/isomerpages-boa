@@ -18,6 +18,7 @@ collection_name: who-we-are
 -	[Singapore Land Authority (SLA)](https://www.sla.gov.sg/){:target="_blank"} 
 -	[LAWNET](https://www.lawnet.sg/lawnet/web/lawnet/home){:target="_blank"}
 -	[CORENET](https://www.corenet.gov.sg/){:target="_blank"}
+- [REACH](https://www.reach.gov.sg/){:target="_blank"}
  
 ## Professional architectural and related institutions ##
 -	[Singapore Institute of Architects (SIA)](https://sia.org.sg/){:target="_blank"}
