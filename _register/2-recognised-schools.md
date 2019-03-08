@@ -735,6 +735,13 @@ The following international programmes and schools are recognised by the Board:
 		<td>Master of Architecture</td>
 	</tr>
 	<tr>
+		<th colspan="2">SPAIN</th>
+	</tr>
+	<tr>
+		<td>IE University</td>
+		<td>Master of Architecture</td>
+	</tr>
+	<tr>
 		<th colspan="2">PART II</th>
 	</tr>
 	<tr>
