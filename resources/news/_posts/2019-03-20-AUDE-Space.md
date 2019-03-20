@@ -13,8 +13,6 @@ Located at The URA Centre’s first storey atrium at 45 Maxwell Road, this dedic
 
 ### **To apply**
 
-### **To apply**
-
 Interested companies, especially small, medium, and emerging firms are encouraged to use this space to present projects that demonstrate innovative ideas, techniques and materials. 
 
 To apply, go to URA.sg/aude. There is a nominal fee of $100 to exhibit per month. 
