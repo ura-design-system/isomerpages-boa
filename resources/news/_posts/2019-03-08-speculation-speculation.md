@@ -15,13 +15,13 @@ Date/Time:  Friday 15 March, 3.30pm
 
 Place:      Earth Lab (AS2 #02-03), Department of Geography, NUS
 
-Abstract:
+**Abstract**
 
 The concept of "speculation speculation' describes how city dewellers regularly and pervasively speculate about the activities of real estate speculators. Building from serveral cases in urban Vietnam, this paper argues that speculation speculation produces two contradictory effects.
 
 On the one hand, it offers a continuous and ongoing critique of real estate speculation. On the other hand, the speculative nature of these critiques inadvertently normalizes the practuse of real estate speculation (which itself becomes understood as something continous and ongoing).
 
-About the Speaker:
+**About the Speaker**
 
 Erik Harms is associate proferssor of anthropology at Yale University, specialising in Southeast Asia, Vietnam, and urban anthropology. He is the author of Luxury and Rubble: Civility and Dispossession in the New Saigon (California, 2016) and Saigon's Edge: On the Margins of Ho Chi Minh City (Minnesota, 21011).
 
