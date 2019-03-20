@@ -9,7 +9,7 @@ permalink: "/resources/news/showcase-your-works-at-AUDE-Space"
 
 Architecture and design firms are invited to showcase their works at Urban Redevelopment Authority (URA)’s new AUDE Space launched on 20 March 2019. 
 
-Located at The URA Centre’s first storey atrium at 45 Maxwell Road, this dedicated space seeks to encourage and inspire good architecture and design in Singapore as part of URA’s Architecture & Urban Design Excellence (AUDE) programme. It will also share new ideas and best practices in improving the quality of the built environment.
+Located at The URA Centre’s first storey atrium at 45 Maxwell Road, this dedicated space seeks to encourage and inspire good architecture and design in Singapore as part of URA’s [Architecture & Urban Design Excellence (AUDE) programme](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Recognising-Good-Design/AUDE){:target="_blank"}. It will also share new ideas and best practices in improving the quality of the built environment. 
 
 **To apply**
 
