@@ -32,7 +32,7 @@ What defines a roof, a wall or a floor? When does the threshold between these ar
 **Tropical Arts and Crafts by Guz Architects Pte Ltd |Ar. Guz Wilkinson**
 Roof gardens introduce greenery to our concrete jungle, adding a different dimension to the built environment. This exhibit explores the effective use of greenery in building design and architecture, as well as how passive designs such as roof gardens integrate with the building and its surrounding environment. 
 
-![Green Rhapsody's display at the AUDE Space](/images/AUDE Space_Green_Rhapsody_2019.jpg)
+![Green Rhapsody's display at the AUDE Space](/images/AUDE_Space_Green_Rhapsody_2019.jpg)
 © Urban Redevelopment Authority
 
 **Green Rhapsody by IX Architects Pte Ltd |Ar. Chu Yang Keng**
