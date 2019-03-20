@@ -4,8 +4,8 @@ title:  "Showcase your works at URA's new AUDE Space"
 date:   2019-03-20
 permalink: "/resources/news/showcase-your-works-at-AUDE-Space"
 ---
-![Location of the founders' memorial at Bay East Garden](/images/Founders-memorial-design-competition.jpg)
-© Ministry of National Development
+![The new AUDE Space at the URA Centre](/images/URA_AUDE_Space_2019.jpg)
+© Urban Redevelopment Authority
 
 Architecture and design firms are invited to showcase their works at Urban Redevelopment Authority (URA)’s new AUDE Space launched on 20 March 2019. 
 
