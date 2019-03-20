@@ -35,6 +35,9 @@ Roof gardens introduce greenery to our concrete jungle, adding a different dimen
 ![Green Rhapsody's display at the AUDE Space](/images/AUDE_Space_Green_Rhapsody_2019.jpg)
 © Urban Redevelopment Authority
 
+![TGreen Rhapsody's display at the AUDE Space](/images/AUDE_Space_Green_Rhapsody_2019.jpg)
+© Urban Redevelopment Authority
+
 **Green Rhapsody by IX Architects Pte Ltd |Ar. Chu Yang Keng**
 Curated to explore the studio’s emphasis on the intertwined relationship between the natural and built environment, this exhibit outlines three broad themes – green elements, green resources and the symbiotic relationship between people and the environment. 
 
