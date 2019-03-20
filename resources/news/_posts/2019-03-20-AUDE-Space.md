@@ -16,7 +16,7 @@ Interested companies, especially small, medium, and emerging firms are encourage
 To apply, go to URA.sg/aude. There is a nominal fee of $100 to exhibit per month. 
 
 **Small Firms, Big Ideas**
-The inaugural exhibition, Small Firms, Big Ideas, is on display from 20 May to 30 June 2019.
+The inaugural exhibition, Small Firms, Big Ideas, is on display from 20 March to 30 June 2019.
 
 While small in size, eight firms are big on good designs and creating delightful spaces. From homes to skate parks and the National Day Parade stage, these firms rethink and reimagine the design of buildings and spaces, paying close attention to details – such as lighting, scale, composition and material. Browse the collection of models, images and drawings to learn about how they make a difference through their dedication to design. 
 
