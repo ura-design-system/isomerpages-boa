@@ -58,7 +58,7 @@ This exhibit explores how designers use sketches, drawings and models to encoura
 
 This exhibit showcases physical models made to test the spatial and lighting qualities of the firm’s designs, across a variety of scales. The works showcased here include residential projects with designs to provoke, question and push limits, as well as the award-winning stage and prop design of the National Day Parade 2018.
 
-**Simplicity, Repose & Delight by WASAA Architects & Associates, Ar Wu Huei Siang**
+**Simplicity, Repose & Delight by WASAA Architects & Associates, Ar. Wu Huei Siang**
 
 This display is curated to showcase a variety of works that personify WASAA’s philosophy of crafting meaningful buildings and architecture spaces that embody qualities of simplicity, repose and delight. The works include an outdoor learning garden and a creative art space.
  
