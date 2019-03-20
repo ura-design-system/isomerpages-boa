@@ -4,7 +4,7 @@ title:  "The Contemporaneous Architecture book is out"
 date:   2019-03-20
 permalink: "/resources/news/contemporaneous-architecture-book"
 ---
-“Singaporean architects have produced a remarkable portfolio of innovative designs, pioneering what might be termed tropical urbanism approach to modern architecture in the context of monsoon Asia…ideas manifested in the new wave of practices are much more comprehensive in response to local social, operational, climatic as well as urban conditions and they have added new values of thought and enriched the pool of contemporary architectural language,” notes professor and architect Li Xiaodong in the new book, *Contemporaneous Architecture*, now out. 
+> “Singaporean architects have produced a remarkable portfolio of innovative designs, pioneering what might be termed tropical urbanism approach to modern architecture in the context of monsoon Asia…ideas manifested in the new wave of practices are much more comprehensive in response to local social, operational, climatic as well as urban conditions and they have added new values of thought and enriched the pool of contemporary architectural language,” notes professor and architect Li Xiaodong in the new book, *Contemporaneous Architecture*, now out. 
 
 ![Special edition cover of the Contemporaneous Architecture book](/images/cabook_special_edition_cover.jpg)
 © Urban Redevelopment Authority
