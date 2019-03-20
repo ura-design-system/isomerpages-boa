@@ -11,6 +11,9 @@ permalink: "/resources/news/contemporaneous-architecture-book"
 
 Contemporary architecture in Singapore has not only created social, sustainable and delightful spaces but has adapted to an evolving environment, offering a new kind of tropical urbanism while creating possibilities for the future and adding to national identity. 
 
+![Names of all 70 projects featured in the Contemporaneous Architecture book](/images/CAbook_all_projects_2019.jpg)
+© Urban Redevelopment Authority
+
 Contemporaneous Architecture celebrates 70 architectural projects that have shaped Singapore’s landscape in the last 15 years. The selection includes works by renowned home-grown architects and President*s Design Award winners such as WOHA Architects Pte Ltd, DP Architects Pte Ltd and SCDA Architects Pte Ltd, as well as works from emerging practices including Linghao Architects, Chang Architects, ip:li Architects, FARM Architects Pte Ltd, Red Bean Architects and Lekker Architects Pte Ltd. 
 
 The book is a collaboration between the Urban Redevelopment Authority, curator Professor Erwin Viray, Head of Pillar, Architecture and Sustainable Design, Singapore University of Technology and Design and Theseus Chan, founder of creative design company WORK. 
