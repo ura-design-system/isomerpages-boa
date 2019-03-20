@@ -11,19 +11,21 @@ The new AUDE Space at the URA Centre ground floor © Urban Redevelopment Authori
 
 Located at The URA Centre’s first storey atrium at 45 Maxwell Road, this dedicated space seeks to encourage and inspire good architecture and design in Singapore as part of URA’s [Architecture & Urban Design Excellence (AUDE) programme](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Recognising-Good-Design/AUDE){:target="_blank"}. It will also share new ideas and best practices in improving the quality of the built environment. 
 
-**To apply**
+###**To apply**###
 
 Interested companies, especially small, medium, and emerging firms are encouraged to use this space to present projects that demonstrate innovative ideas, techniques and materials. 
 
 To apply, go to URA.sg/aude. There is a nominal fee of $100 to exhibit per month. 
 
-**Inaugural exhibition**
+###**Inaugural exhibition**###
 
 The inaugural exhibition, *Small Firms, Big Ideas*, is on display from 20 March to 30 June 2019.
 
 While small in size, eight firms are big on good designs and creating delightful spaces. From homes to skate parks and the National Day Parade stage, these firms rethink and reimagine the design of buildings and spaces, paying close attention to details – such as lighting, scale, composition and material. 
 
 Browse the collection of models, images and drawings to learn about how they make a difference through their dedication to design. 
+
+####**Key highlights of the eight firms**####
 
 **Making Architecture by BHATCH Architects, by Ar. Joseph Lee**
 
