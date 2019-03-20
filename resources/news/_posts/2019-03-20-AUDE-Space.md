@@ -42,7 +42,7 @@ Roof gardens introduce greenery to our concrete jungle, adding a different dimen
 Curated to explore the studio’s emphasis on the intertwined relationship between the natural and built environment, this exhibit outlines three broad themes – green elements, green resources and the symbiotic relationship between people and the environment. 
 
 ![The launch of the new AUDE Space on 20 March 2019](/images/AUDE_Space_Mar2019.jpg)
-Visitors at the launch of the new AUDE Space on 20 March 2019 © Urban Redevelopment Authority
+Guests at the launch of the new AUDE Space on 20 March 2019 © Urban Redevelopment Authority
 
 **Innovative Pragmatism in Architecture by MU Architects, Ar. Matthew Lai**
 
