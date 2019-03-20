@@ -16,9 +16,12 @@ Interested companies, especially small, medium, and emerging firms are encourage
 To apply, go to URA.sg/aude. There is a nominal fee of $100 to exhibit per month. 
 
 **Small Firms, Big Ideas**
+
 The inaugural exhibition, Small Firms, Big Ideas, is on display from 20 March to 30 June 2019.
 
-While small in size, eight firms are big on good designs and creating delightful spaces. From homes to skate parks and the National Day Parade stage, these firms rethink and reimagine the design of buildings and spaces, paying close attention to details – such as lighting, scale, composition and material. Browse the collection of models, images and drawings to learn about how they make a difference through their dedication to design. 
+While small in size, eight firms are big on good designs and creating delightful spaces. From homes to skate parks and the National Day Parade stage, these firms rethink and reimagine the design of buildings and spaces, paying close attention to details – such as lighting, scale, composition and material. 
+
+Browse the collection of models, images and drawings to learn about how they make a difference through their dedication to design. 
 
 **Making Architecture by BHATCH Architects |Ar. Joseph Lee**
 Sketches, drawings and models from five projects are brought together in varying scale to thread through common themes of materiality, scale and composition. The projects are reinterpreted and crafted in various ways to create architecture that is distinctive, fresh and relevant to Singapore.
@@ -28,6 +31,9 @@ What defines a roof, a wall or a floor? When does the threshold between these ar
 
 **Tropical Arts and Crafts by Guz Architects Pte Ltd |Ar. Guz Wilkinson**
 Roof gardens introduce greenery to our concrete jungle, adding a different dimension to the built environment. This exhibit explores the effective use of greenery in building design and architecture, as well as how passive designs such as roof gardens integrate with the building and its surrounding environment. 
+
+![Green Rhapsody's display at the AUDE Space](/images/AUDE Space_Green_Rhapsody_2019.jpg)
+© Urban Redevelopment Authority
 
 **Green Rhapsody by IX Architects Pte Ltd |Ar. Chu Yang Keng**
 Curated to explore the studio’s emphasis on the intertwined relationship between the natural and built environment, this exhibit outlines three broad themes – green elements, green resources and the symbiotic relationship between people and the environment. 
