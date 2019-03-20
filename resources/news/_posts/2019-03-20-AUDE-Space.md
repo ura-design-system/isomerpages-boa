@@ -32,20 +32,17 @@ What defines a roof, a wall or a floor? When does the threshold between these ar
 **Tropical Arts and Crafts by Guz Architects Pte Ltd |Ar. Guz Wilkinson**
 Roof gardens introduce greenery to our concrete jungle, adding a different dimension to the built environment. This exhibit explores the effective use of greenery in building design and architecture, as well as how passive designs such as roof gardens integrate with the building and its surrounding environment. 
 
-![TGreen Rhapsody's display at the AUDE Space](/images/AUDE_Space_Green_Rhapsody_2019.jpg)
-© Urban Redevelopment Authority
-
 **Green Rhapsody by IX Architects Pte Ltd |Ar. Chu Yang Keng**
 Curated to explore the studio’s emphasis on the intertwined relationship between the natural and built environment, this exhibit outlines three broad themes – green elements, green resources and the symbiotic relationship between people and the environment. 
+
+![The launch of the new AUDE Space on 20 March 2019](/images/AUDE_Space_Mar2019.jpg)
+© Urban Redevelopment Authority
 
 **Innovative Pragmatism in Architecture by MU Architects |Ar. Matthew Lai**
 This exhibit demonstrates how design and typological innovation can help overcome challenges of limited space, such as through the creation of attractive courtyards within buildings to bring in light, air and views.
 
 **Building Economy by Plystudio Architects Pte Ltd |Ar. Victor Lee**
 This exhibit explores how designers use sketches, drawings and models to encourage critical thinking, spark ideas, and push design exploration to the next level. 
-
-![The launch of the new AUDE Space on 20 March 2019](/images/AUDE_Space_Mar2019.jpg)
-© Urban Redevelopment Authority
 
 **Light Transcends Scale by Solid Architects LLP |Ar. Quck Zhong Yi**
 This exhibit showcases physical models made to test the spatial and lighting qualities of the firm’s designs, across a variety of scales. The works showcased here include residential projects with designs to provoke, question and push limits, as well as the award-winning stage and prop design of the National Day Parade 2018.
