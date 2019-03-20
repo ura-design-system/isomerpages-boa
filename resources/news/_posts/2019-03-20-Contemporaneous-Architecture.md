@@ -15,7 +15,9 @@ Contemporaneous Architecture celebrates 70 architectural projects that have shap
 
 The book is a collaboration between the Urban Redevelopment Authority, curator Professor Erwin Viray, Head of Pillar, Architecture and Sustainable Design, Singapore University of Technology and Design and Theseus Chan, founder of creative design company WORK. 
 
-The book is available in two editions – the regular edition and a special limited edition of 200 copies, each individually hand-crafted by Theseus Chan. Contemporaneous Architecture is sold at BOOKSTOP – a self-service station to select, buy and bring home a URA publication located at The URA Centre first storey atrium from 20 March 2019 onwards, and at major bookstores from April 2019 onwards. For more information, email Aude@ura.gov.sg. 
+The book is available in two editions – the regular edition and a special limited edition of 200 copies, each individually hand-crafted by Theseus Chan. Contemporaneous Architecture is sold at BOOKSTOP – a self-service station to select, buy and bring home a URA publication located at The URA Centre first storey atrium from 20 March 2019 onwards, and at major bookstores from April 2019 onwards. 
+
+For more information, email Aude@ura.gov.sg. 
 
 
 
