@@ -19,7 +19,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Board of Architects is the statutory authority established to administer the Architects Act in Singapore.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.boa.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.boa.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
