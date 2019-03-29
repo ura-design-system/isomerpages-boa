@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Board of Architects Professional Practice Examination 2019"
-date:   2019-04-01
+date:   2019-03-29
 permalink: "/resources/news/boa-professional-practice-examination-2019"
 ---
-01 Apr 2019
+29 Mar 2019
 
 ### **Board of Architects Professional Practice Examination 2019**
 
