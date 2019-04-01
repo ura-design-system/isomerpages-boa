@@ -19,6 +19,10 @@ With effect from 1st October 2005, the Board will consist of the following membe
 
 #### **Board Members (2019-2021)**
 
+##### **President**
+
+**Ar. Tan Shao Yen**, CPG Consultants Pte Ltd
+
 ##### **Members**
 
 **Ar. Ang Kong Siong, Tony**, AEDAS Pte Ltd
