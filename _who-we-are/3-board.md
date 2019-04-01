@@ -22,6 +22,7 @@ With effect from 1st October 2005, the Board will consist of the following membe
 ##### **President**
 
 **Ar. Tan Shao Yen**, CPG Consultants Pte Ltd
+![Photo of Tan Shao Yen](/images/Tan Shao Yen.jpg)
 
 ##### **Members**
 
