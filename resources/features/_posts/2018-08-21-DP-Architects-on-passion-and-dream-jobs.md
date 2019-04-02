@@ -25,14 +25,14 @@ DP Architects is known for works such as the iconic Esplanade-Theatres on the Ba
 
 **Chee Huang**: It is a tough choice, they are all special in their own ways. One that is particularly memorable is Our Tampines Hub. It is something truly special. Besides being a pioneering model of how the public sector can integrate their services, architecturally, it allows us to explore how our design can break down silos and bring together 12 public service agencies to work as one integrated whole. That was a huge challenge, but was extremely meaningful and satisfying.
  
-![Street level view of Our Tampes Hub by DP Architects]("/images/DP-OTH.jpg")
+![Street level view of Our Tampes Hub by DP Architects](/images/DP-OTH.jpg)
 Street level of Our Tampines Hub © DP Architects
  
 Through this people-centric project, it has given me critical insights into the dynamics that shape our social landscapes. There were a lot of resident engagement exercises and we got to meet the people whom we are designing for. Co-creating an architecture with and for the people shows us the power of our work, as architects to bring people together, and how we can empower users to be stewards of their own environment and surroundings.
 
 **Angelene**: Wisma Atria. It’s unusual in the life of an architect to redo a project twice. I got to do this for Wisma Atria, in 2004 and 2012. It’s emotionally wrenching to almost destroy the building even though I am thankful I was the one to re-design it. It’s also tough because sometimes your ideas are rooted in the original form. The client insisted the facade must look completely different; so you have to throw away all past notions and start from scratch. Now that it’s done, I’m happy with both results.
   
-![Wisma Atria 2012 by DP Architects]("/images/DP-Wisma-Atria.jpg")
+![Wisma Atria 2012 by DP Architects](/images/DP-Wisma-Atria.jpg)
 Wisma Atria 2012 © DP Architects
 
 **What is one aspect of Singapore’s architecture you would like to see more or less of?**
@@ -47,7 +47,7 @@ Wisma Atria 2012 © DP Architects
  
 **Angelene**: Both of our answers are the same! It’s one of the best models of social housing in the world and I am proud of it. A lot of countries are trying to emulate what the Housing and Development Board (HDB) is doing. And HDB’s architecture is getting better, and they are so progressive in their vision. It’s not just the hardware and the architecture, it’s also the software and the community. So much of their work is taken for granted, but they should be applauded more.
 
-![Angelene Chan and Seah Chee Huang at the interview in their office]("/images/DP-interview.jpg")
+![Angelene Chan and Seah Chee Huang at the interview in their office](/images/DP-interview.jpg)
 © URA
 
 **Your dream project?**
