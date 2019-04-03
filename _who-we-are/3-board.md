@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: board-of-directors-leftnav
 title: Board
 permalink: /who-we-are/board/
 breadcrumb: Board
@@ -18,39 +18,3 @@ With effect from 1st October 2005, the Board will consist of the following membe
 * A registered professional engineer from PEB
 
 #### **Board Members (2019-2021)**
-
-##### **Members**
-
-**Ar. Ang Kong Siong, Tony**, AEDAS Pte Ltd
-
-**Ar. Chan Eng Chye, Theodore**, CIAP Architects Pte Ltd
-
-**Ar. Chan Kok Way**, SD Architects & Associates Pte Ltd
-
-**Ar. Chan Li Chen, Angelene**, DP Architects Pte Ltd
-
-**Ar. Cheah Kok Ming**, National University of Singapore, Department of Architecture, School of Design and Environment
-
-**Ar. Fun Siew Leng**, Urban Redevelopment Authority
-
-**Ar. Khairudin Saharom**, Kite Studio Architecture Pte Ltd
-
-**Ar. Ong Tze Boon**, ONG&ONG Pte Ltd
-
-**Ar. Tan Shao Yen**, CPG Consultants Pte Ltd
-
-**Ar. Teh Joo Heng**, Teh Joo Heng Architects
-
-**Ar. Wo Mei Lan**, Liu & Wo Architects Pte Ltd
-
-**Ar. Woo Kok Chew, Raymond**, Raymond Woo & Associates Architects
-
-**Ar. Seah Chee Huang**, DP Architects Pte Ltd
-
-**Er. Chew Keat Chuan**, Building Construction Authority
-
-**Er. Emily Tan Shu Min**, TSM Consultancy Pte Ltd
-
-##### **Registrar, Board of Architects**
-
-**Ar. Ng Lye Hock, Larry**, Urban Redevelopment Authority

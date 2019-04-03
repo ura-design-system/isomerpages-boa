@@ -739,7 +739,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>IE University</td>
-		<td>Master of Architecture</td>
+		<td>1. Bachelor of Architecture<br> 2. Master of Architecture</td>
 	</tr>
 	<tr>
 		<th colspan="2">PART II</th>
