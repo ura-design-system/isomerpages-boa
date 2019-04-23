@@ -24,8 +24,8 @@ Singapore University of Technology and Design
 
 8 Somapah Road S487372
 
-Registration for Professionals: https://goo.gl/forms/3RziBBSJTlxYhlkl2
+Registration for Professionals: <https://goo.gl/forms/3RziBBSJTlxYhlkl2>
 
-Registration for Students: https://goo.gl/forms/Fdy9WRsjmXX77FKd2
+Registration for Students: <https://goo.gl/forms/Fdy9WRsjmXX77FKd2>
 
 
