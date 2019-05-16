@@ -30,6 +30,7 @@ Completed house at Frankel by Huei Siang for his friend's father © Rebecca Toh 
 **Huei Siang**: It was working on a friend’s father house that inspired me to want to start something on my own. It was a very personal project for me and for my friend’s father. Both his grandfather and father were deeply involved in the process of renovating the house back in the 1970s and in this second alteration. To continue to retain the many personal and vivid memories of the house for the family, I tried to reuse as much of the past materials as possible. It got me thinking about how we need to keep finding creative ways of being more sustainable in our designs.   
 
 **3. What do you hope to bring across in your projects?**
+
 **Huei Siang**: I hope to bring joy and spark delight for clients and people using the designed spaces whether it is a major or smaller project. It is one of the oldest principles of architecture.
 
 ![WASAA office](/images/WASAA-office.jpg)
