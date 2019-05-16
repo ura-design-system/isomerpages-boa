@@ -15,7 +15,7 @@ permalink: "/resources/features/WASAA-craft-making"
 
 His firm has five staff including his partner, Austen Chan, 36. So far, the firm has designed houses, apartments, landscapes, an art installation to showcase Singapore’s creatives in Tokyo and even a hotel that looks like a spaceship which did not materialise. He is now working on restoring one of the oldest shophouses along Hong Kong Street where he discovered pulley baskets within.
 
-![Sketch of the shophouse at Hong Kong street with a six-storey new annex addition](/images/WASAA-Hongkong street design.jpg)
+![Sketch of the shophouse at Hong Kong street with a six-storey new annex addition](/images/WASAA-Hongkong.jpg)
 Sketch of the shophouse of Hong Kong Street with a six-storey new annex addition © WASAA
 
 **1. How did you come to choose the path of being an architect?**
