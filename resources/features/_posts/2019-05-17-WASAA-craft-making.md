@@ -48,6 +48,9 @@ The Singapore Inside Out 2017 in Tokyo showcasing Singapore's creatives. WASAA w
 **7. Which is your favourite part of Singapore’s landscape?** 
 **Huei Siang**: The coastlines of Singapore, whether it is the east coast or the west coast. I like to immerse myself in the natural elements. It frees your mind and soul.  
 
+![One of the talks held at the WASAA's office](/images/WASAA_talk.jpg)
+WASAA organises talks at their office to encourage an exchange of ideas © WASAA
+
 **8. How do you see the role of the architect evolving?**
 **Huei Siang**: I see the architect doing a lot more engagement and discussion with stakeholders and users to understand what they want and need in a designed space and how they will be using the space. We are working on a skate park in the west and we have been actively engaging the community to really design a space that they are excited about and where skaters would want to use regularly. 
 
