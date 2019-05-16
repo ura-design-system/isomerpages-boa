@@ -15,6 +15,9 @@ permalink: "/resources/features/WASAA-craft-making"
 
 His firm has five staff including his partner, Austen Chan, 36. So far, the firm has designed houses, apartments, landscapes, an art installation to showcase Singapore’s creatives in Tokyo and even a hotel that looks like a spaceship which did not materialise. He is now working on restoring one of the oldest shophouses along Hong Kong Street where he discovered pulley baskets within.
 
+![Sketch of the shophouse at Hong Kong street with a six-storey new annex addition](/images/WASAA_Hongkong street design sketch.jpg)
+Sketch of the shophouse of Hong Kong Street with a six-storey new annex addition © WASAA
+
 **1. How did you come to choose the path of being an architect?**
 **Huei Siang**: Growing up in a family of wood workers, I’ve always been fascinated by the craft of making something with available materials and treating the design process and resources with great respect. My father is one of the last few remaining craftsmen trained in Shanghai. We used to live at Petain Road and I can still remember the smell of lumber. Choosing architecture was actually a last minute decision. I was already offered a place in engineering but changed my mind at the last minute. I wanted to try something different.
 
