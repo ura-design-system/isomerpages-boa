@@ -6,7 +6,7 @@ permalink: "/resources/features/WASAA-craft-making"
 ---
 ### **Space ships, mountains and skate parks – architect Wu Huei Siang is focused on craft-making.**
 
-![Architect Wu Huei Siang at his WASAA office](/images/WASAA-Wu Huei Siang.jpg)
+![Architect Wu Huei Siang at his WASAA office](/images/WASAA-Wu.jpg)
 © URA
 
 *By Serene Tng*
