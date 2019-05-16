@@ -30,6 +30,9 @@ Completed house at Frankel by Huei Siang for his friend's father © Rebecca Toh 
 **3. What do you hope to bring across in your projects?**
 **Huei Siang**: I hope to bring joy and spark delight for clients and people using the designed spaces whether it is a major or smaller project. It is one of the oldest principles of architecture.
 
+![WASAA office](/images/WASAA office.jpg)
+WASAA office at Kreta Ayer © URA
+
 **4. What are some of the challenges of running the practice?**
 **Huei Siang**: Persuading people to understand the value of our work and the profession. And learning how to balance and manage the many different facets of running the practice beyond just the design work.
 
