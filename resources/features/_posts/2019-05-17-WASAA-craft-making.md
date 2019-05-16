@@ -40,7 +40,7 @@ WASAA office at Kreta Ayer © URA
 **Huei Siang**: Being able to design meaningful spaces and create spaces that can trigger our emotions and influence people in a deeper way. 
 
 ![Singapore Inside Out 2017 Tokyo](/images/WASAA_Singapore inside out 2017 tokyo.jpg)
-The Singapore Inside Out 2017 in Tokyo where WASAA was the architecture advisor. © WASAA
+The Singapore Inside Out 2017 in Tokyo showcasing Singapore's creatives. WASAA was the architecture advisor. © WASAA
 
 **6. Who inspires you?** 
 **Huei Siang**: My professor at the National University of Singapore has kept me grounded on the purpose and value of architecture. Swiss architect Peter Zumthor is an inspiration too. He was awarded the Pritzker Prize in 2009 at the age of 66 and that reminds me on the importance of focusing on the craft. It takes time and effort to be good at it. Architecture cannot be rushed. 
