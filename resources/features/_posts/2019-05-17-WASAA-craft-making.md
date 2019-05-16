@@ -18,6 +18,9 @@ His firm has five staff including his partner, Austen Chan, 36. So far, the firm
 **1. How did you come to choose the path of being an architect?**
 **Huei Siang**: Growing up in a family of wood workers, I’ve always been fascinated by the craft of making something with available materials and treating the design process and resources with great respect. My father is one of the last few remaining craftsmen trained in Shanghai. We used to live at Petain Road and I can still remember the smell of lumber. Choosing architecture was actually a last minute decision. I was already offered a place in engineering but changed my mind at the last minute. I wanted to try something different.
 
+![Completed house at Frankel by Huei Siang for his friend's father](/images/WASAA_Frankel.jpg)
+Completed house at Frankel by Huei Siang for his friend's father © Rebecca Toh Photography
+
 **2. You started WASSA in 2016. What was the inspiration to start your own practice?**
 **Huei Siang**: It was working on a friend’s father house that inspired me to want to start something on my own. It was a very personal project for me and for my friend’s father. Both his grandfather and father were deeply involved in the process of renovating the house back in the 1970s and in this second alteration. To continue to retain the many personal and vivid memories of the house for the family, I tried to reuse as much of the past materials as possible. It got me thinking about how we need to keep finding creative ways of being more sustainable in our designs.   
 
