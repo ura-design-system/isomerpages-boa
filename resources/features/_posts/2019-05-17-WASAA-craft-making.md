@@ -70,11 +70,6 @@ WASAA organises talks at their office to encourage an exchange of ideas © WASAA
 
 *Located at The URA Centre’s first storey atrium at 45 Maxwell Road, the dedicated exhibition space seeks to inspire good architecture and design in Singapore as part of URA’s Architecture & Urban Design Excellence (AUDE) programme. It will also share new ideas and best practices in improving the quality of the built environment.*
 
-For more information about the AUDE Space, go to [URA.sg/aude].
-(https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Recognising-Good-Design/AUDE){:target="_blank"}
-
-
-
-	
+For more information about the AUDE Space, go to [URA.sg/aude](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Recognising-Good-Design/AUDE){:target="_blank"}.
 	
 
