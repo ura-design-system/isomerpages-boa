@@ -2,7 +2,7 @@
 layout: post
 title:  "BOA Presentation Ceremony & Seminar 2019"
 date:   2019-05-22
-permalink: "/resources/news/BOA Presentation Ceremony & Seminar 2019"
+permalink: "/resources/news/BOA-Presentation-Ceremony-and-Seminar-2019"
 ---
 ### **BOA Presentation Ceremony & Seminar 2019, 31 Aug 2019, 7.40 AM**
 
