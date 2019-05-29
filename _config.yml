@@ -25,7 +25,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@related-posts
 safe: false
 
 plugins:
@@ -75,3 +75,5 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+
+lsi: true
