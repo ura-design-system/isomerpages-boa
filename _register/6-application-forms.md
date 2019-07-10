@@ -6,9 +6,9 @@ breadcrumb: Forms
 collection_name: register
 ---
 
-### **Part 1 - Register as an architect**
+### **Part I - Register as an architect**
 
-**A) Register to become a candidate for the Professional Practice Examination under Section 15(2)(a)** 
+**A) Professional Practice Examination (PPE) under Section 15(2)(a) of the Architects Act** 
 
 Architectural graduates with a recognised qualification in architecture must apply to be a PPE (Professional Practice Examination) candidate in order to sit for the Professional Practice Examination under Section 15(2)(a).
 
@@ -49,8 +49,8 @@ Application forms:
 **C) Professional Interview under Section 15(2)(c) of the Architects Act**
 
 Applicant must have, after obtaining his qualifications:
-(i)	acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board
-(ii)	received any commendation or award at any international architectural event, or from any professional body whose architectural degree or qualification is recognised by the Board
+(i)	acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board;
+(ii)	received any commendation or award at any international architectural event, or from any professional body whose architectural degree or qualification is recognised by the Board.
 
 Guidelines:
 
@@ -63,14 +63,12 @@ Application forms:
 [Appendix 1 to Part C Practical Experience of Form 1 under section 15(2)(c)]({{site.baseurl}}/files/application_15_2_c_appendix.pdf)
 
 
-**D) Application for Registration"
-
-Application form: 
+**D) Application for Registration as an Architect**
 
 [Application for Registration]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
 
 
-**E) Confirmatory examination under Section 15(1)(c)**
+**E) Confirmatory Examination under Section 15(1)(c) of the Architects Act**
 
 Applicants whose architectural degrees are not found in our list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
 Please note that applicants are required to attend a compulsory Pre-submission Briefing. Please refer to the schedule in Appendix A of the guidelines. Applicants have to submit the application form to us via email at least one week before the date of the briefing.
