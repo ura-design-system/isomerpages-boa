@@ -6,103 +6,149 @@ breadcrumb: Forms
 collection_name: register
 ---
 
-### **Register as an architect**
+### **Part 1 - Register as an architect**
 
-Architectural graduates with a recognised qualification in architecture must apply to be a PPE (professional practice examination) candidate in order to be registered with the Board of Architects.
+**A) Register to become a candidate for the Professional Practice Examination under Section 15(2)(a)** 
 
-**Register to be a PPE candidate** 
+Architectural graduates with a recognised qualification in architecture must apply to be a PPE (Professional Practice Examination) candidate in order to sit for the Professional Practice Examination under Section 15(2)(a).
 
-[Download guide for PPE Candidates]({{site.baseurl}}/files/general-info.pdf)
+Guidelines:
+
+[Download guide for PPE Candidates]({{site.baseurl}}/files/General_Info_for_PPE_candidates_Updated_2019.pdf)
+
+[Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
+
+Application forms:
 
 [Registration Form for PPE candidate]({{site.baseurl}}/files/registration_ppe.pdf)
+
+[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
+
+Quarterly Assessment Reports:
 
 [Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
 
 [Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
 
-[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
 
-[Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
+**B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
-**Section 15(2)(b) of the Architects Act**
+Applicant must have, after obtaining his qualifications, acquired not less than 2 years of such practical experience in architectural work as may be prescribed or approved by the Board (including practical experience in architectural work in Singapore for a continuous period of at least 12 months).
 
-Apply for professional interview 
+Guidelines:
+
+[Additional information for registration under section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_additional_info.pdf)
+
+Application forms:
 
 [Application form for Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b.pdf)
 
 [Appendix 1 to Part C Practical Experience of Form 1 under Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_appendix.pdf)
 
-[Additional information for registration under section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_additional_info.pdf)
 
-**Section 15(2)(c) of the Architects Act**
+**C) Professional Interview under Section 15(2)(c) of the Architects Act**
 
-Register
+Applicant must have, after obtaining his qualifications:
+(i)	acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board
+(ii)	received any commendation or award at any international architectural event, or from any professional body whose architectural degree or qualification is recognised by the Board
 
-[Guidelines for applying for registration under section 15(2)(c) of the Architects Act]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
+Guidelines:
 
-Apply for confirmatory examination
+[Guidelines for applicants applying for registration under section 15(2)(c) of the Architects Act]({{site.baseurl}}/files/guide2c.pdf)
 
-[Application form for Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
-
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/guide_15_1_c.pdf)
-
-[Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
-
-Apply for professional interview 
+Application forms:
 
 [Application form for Section 15(2)(c)]({{site.baseurl}}/files/application_15_2_c.pdf)
 
 [Appendix 1 to Part C Practical Experience of Form 1 under section 15(2)(c)]({{site.baseurl}}/files/application_15_2_c_appendix.pdf)
 
-[Guidelines for applicants applying for registration under section 15(2)(c) of the Architects Act]({{site.baseurl}}/files/guide2c.pdf)
 
-### **For firms**
+**D) Application for Registration"
 
-Change or remove name
+Application form: 
+
+[Application for Registration]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
+
+
+**E) Confirmatory examination under Section 15(1)(c)**
+
+Applicants whose architectural degrees are not found in our list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
+Please note that applicants are required to attend a compulsory Pre-submission Briefing. Please refer to the schedule in Appendix A of the guidelines. Applicants have to submit the application form to us via email at least one week before the date of the briefing.
+
+Guidelines:
+
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_2019.pdf)
+
+Application forms:
+
+[Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
+
+[Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
+
+
+### **Part II - For firms**
+
+**A) Application for Approval/Change of firm's name and Change of firm type**
 
 [Application for approval of firm's name]({{site.baseurl}}/files/approval_of_firm_s_name.pdf)
 
-Apply for licence
+
+**B) Apply for licence to supply architectural services**
+
+Application for a Licence:
 
 [Form of application for licence]({{site.baseurl}}/files/form_6_application_for_a_licence.pdf)
 
 [Form of application for licence - Word doc]({{site.baseurl}}/files/form_6_application_for_a_licence.doc)
 
+Statutory Declaration Form:
+
 [Form for statutory declaration of compliance for a licence to supply architectural services]({{site.baseurl}}/files/statlic.pdf)
 
 [Form for statutory declaration of compliance for a licence to supply architectural services - Word doc]({{site.baseurl}}/files/statlic.doc)
 
-[Template of form of licence]({{site.baseurl}}/files/licence.pdf)
+Sample template:
 
-### **For practising architects**
+[Sample template of licence]({{site.baseurl}}/files/licence.pdf)
 
-Apply for practising certificate
 
-[Template of Practising Certificate application form]({{site.baseurl}}/files/practising_certificate_form.pdf)
+### **Part III - For practising architects**
+
+**A) Apply for Practising Certificate**
+
+Please contact BOA directly to request for the application form for practising certificate.
+
+Sample templates:
+
+[Template of Application form for practising certificate]({{site.baseurl}}/files/practising_certificate_form.pdf)
 
 [Template of Practising Certificate]({{site.baseurl}}/files/practising_certificate.pdf)
 
-Remove name from register
+
+**B) Remove name from BOA Register**
 
 [Form of application for removal of name from the register of architects]({{site.baseurl}}/files/remove.pdf)
 
 [Form of application for removal of name from the register of architects - Word doc]({{site.baseurl}}/files/remove.doc)
 
-### **For practice overseas**
 
-Apply to be ASEAN architect
+### **Part IV - ASEAN/APEC Architect**
+
+**A) Apply to be an ASEAN architect**
 
 [ASEAN Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/ASEAN_Architect_Registration_Form_SG.pdf)
 
-Apply to be APEC architect
+
+**B) Apply to be an APEC architect**
 
 [APEC Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/APEC_Architect_Application_Form_SG.pdf)
 
-[APEC Architect Registration Form(For Foreign Architects]({{site.baseurl}}/files/APEC_architect_registration_form_foreign.pdf)
+[APEC Architect Registration Form(For Foreign Architects)]({{site.baseurl}}/files/APEC_architect_registration_form_foreign.pdf)
 
-### **For collaborators**
 
-Apply for collaboration between foreign architect and BOA registered architect (per project basis)
+### **Part V - For Foreign Architects**
+
+**Apply for collaboration between foreign architect and BOA registered architect (per project basis)**
 
 [Registration form for Collaborating between Foreign Architect with BOA Registered Architect]({{site.baseurl}}/files/form_collaboration.pdf)
 
