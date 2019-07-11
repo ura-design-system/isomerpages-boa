@@ -10,7 +10,7 @@ collection_name: register
 
 **A) Professional Practice Examination (PPE) under Section 15(2)(a) of the Architects Act** 
 
-Architectural graduates with a recognised qualification in architecture must apply to be a PPE (Professional Practice Examination) candidate in order to sit for the Professional Practice Examination under Section 15(2)(a).
+Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination under Section 15(2)(a).
 
 Guidelines:
 
@@ -71,7 +71,7 @@ Application forms:
 **E) Confirmatory Examination under Section 15(1)(c) of the Architects Act**
 
 Applicants whose architectural degrees are not found in our list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
-Please note that applicants are required to attend a compulsory Pre-submission Briefing. Please refer to the schedule in Appendix A of the guidelines. Applicants have to submit the application form to us via email at least one week before the date of the briefing.
+Applicants are required to attend a compulsory Pre-submission Briefing before applying to sit for the examination. The schedule can be found under Appendix A of the guidelines. Applicants have to submit the application form to BOA via email at least one week before the date of the briefing.
 
 Guidelines:
 
