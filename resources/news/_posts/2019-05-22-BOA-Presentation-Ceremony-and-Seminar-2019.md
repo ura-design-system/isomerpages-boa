@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BOA Presentation Ceremony & Seminar 2019 - Open for Registration"
-date:   2019-05-22
+date:   2019-07-10
 permalink: "/resources/news/BOA-Presentation-Ceremony-and-Seminar-2019"
 ---
 10 Jul 2019
