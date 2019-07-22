@@ -64,6 +64,6 @@ We introduced a central courtyard to serve as the unifying and central focal poi
 
 *Located at The URA Centre’s first storey atrium at 45 Maxwell Road, the dedicated exhibition space seeks to inspire good architecture and design in Singapore as part of URA’s Architecture & Urban Design Excellence (AUDE) programme. It will also share new ideas and best practices in improving the quality of the built environment.*
 
-For more information about the AUDE Space, go to URA.sg/aude. 
+*For more information about the AUDE Space, go to [URA.sg/aude](https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Recognising-Good-Design/AUDE){:target="_blank"}.*
 
  
