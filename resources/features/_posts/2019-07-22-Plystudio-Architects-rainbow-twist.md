@@ -15,9 +15,15 @@ Their design of the Rainbow Centre extension, completed in association with The 
 
 Located along Margaret Drive, the 8,500 square-metre four-storey extension to the existing building breaks away from the conventional institutional look with open and welcoming spaces to encourage students to learn more independently. “The classrooms are created to reflect home-based learning while outdoor spaces are specially curated to support active learning activities,” says Victor Lee, who started Plystudio Architects together with Jacqueline Yeo in 2008. 
 
+![The Rainbow Centre extension](/images/plystudiorainbowfront.jpg)     
+*The Rainbow Centre extension © URA*
+
 Over the years, the husband-and-wife team has centred their designs around modulated forms, allowing for an active negotiation and calculation of allocated spaces that can help manage cost and cater to the needs of different users. This approach has been applied to the Rainbow Centre extension and other projects. 
 
-They have worked on a range of buildings and spaces, from the sheltered link-bridge in National Junior College, the interiors of Waterway Point shopping mall at Punggol to hotels, a film studio, offices and homes in Singapore and the region.   
+They have worked on a range of buildings and spaces, from the sheltered link-bridge in National Junior College, the interiors of Waterway Point shopping mall at Punggol to hotels, a film studio, offices and homes in Singapore and the region. 
+
+![Waterway Point shopping mall at Punggol](/images/plystudiorainbowfront.jpg)     
+*Waterway Point shopping mall at Punggol © Plystudio*
 
 We take a walk around Rainbow Centre’s extension with Victor and Jacqueline who show us how their focus on functionality and simplicity has created beautiful and useful spaces. 
 
@@ -30,6 +36,9 @@ In designing the various environments, we were mindful to create spaces that ena
 **2. Tell us more about your design approach.**
 
 **Victor**: We first focused on planning and organising the spaces in a rational grid which then gave rise to its form. Having a clear organisation of space enabled us to create scalable spaces within limited resources. 
+
+![The Rainbow Centre extension open spaces](/images/plystudioopenspaces.jpg)     
+*Open spaces at the Rainbow Centre extension © URA*
 
 We introduced a central courtyard to serve as the unifying and central focal point and created open spaces to break down the volume and scale of the building. Going beyond the conventional classroom setting, we designed spill-out spaces just outside of these rooms so that students could feel like they were more at home when learning and playing at any time.  
 
