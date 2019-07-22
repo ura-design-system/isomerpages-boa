@@ -6,14 +6,14 @@ permalink: "/resources/features/BHATCH-Architects-small-is-beautiful"
 ---
 ### **Even with smaller and limited budgets, designs can be beautiful and interesting, says architect Joseph Lee of BHATCH Architects.**
 
-![Architect Joseph Lee at his office](/images/bhatchjoseph.jpg)     
+![Architect Joseph Lee at his office](/images/bhatchjoseph.jpg)
 *Architect Joseph Lee at his office © URA*
 
 *By Serene Tng*
 
 In the middle of architect Joseph Lee’s office at Tyrwhitt Road is a colourful display of models. “They are slightly different from the conventional ones in the sense that these are made up of actual materials that we want to test out for various projects we are working on,” says Joseph who started his firm, BHATCH Architects in 2014. 
 
-![Display of models at architect Joseph Lee's office](/images/bhatchmodels.jpg)     
+![Display of models at architect Joseph Lee's office](/images/bhatchmodels.jpg)
 *Display of models at BHATCH Architects' office © URA*
 
 Experimentation is particularly important for Joseph. His firm’s work ranges from houses, cafes, offices to public projects. Their design process is highly inclusive in involving clients and stakeholders and uses a range of strategies in exploring materials and ideas. This is especially so for projects with limited budgets. 
@@ -34,7 +34,7 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 
 I bought all of it for $150 and used it to create the façade for the shop house. It shows that good designs need not be expensive. It is about exploring the use of material and continuing to be creative in designing something meaningful. 
 
-![61 Joo Chiat Terrace showing the bamboo textured wall](/images/bhatchjoochiat.jpg)    
+![61 Joo Chiat Terrace showing the bamboo textured wall](/images/bhatchjoochiat.jpg)
 *61 Joo Chiat Terrace showing the bamboo textured wall © Jeremy San*
 
 **4. Your firm has an interesting name.**
@@ -43,7 +43,7 @@ I bought all of it for $150 and used it to create the façade for the shop house
 
 We see designing as limitless. We want to produce designs that are authentic and relevant. Whether it is a small space or a project with an unusual shape, we welcome all challenges, it makes us work harder and be more creative. 
 
-![One of BHATCH Architects' projects at 3 Wimborne Road](/images/bhatchwimborneroad.jpg)        
+![One of BHATCH Architects' projects at 3 Wimborne Road](/images/bhatchwimborneroad.jpg)
 *One of BHATCH Architects' projects at 3 Wimborne Road © Goh Jin Chuan*
 
 **5. Who inspires you?**
@@ -56,7 +56,7 @@ We see designing as limitless. We want to produce designs that are authentic and
 
 The architects met every month to understand each other’s designs and how each of the houses relate to each other as a whole. The project is a reminder on the need for architects to interact more with each other to explore how their designs can contribute to the larger urban fabric. 
 
-![Architect Joseph Lee at his office in discussion](/images/bhatchdiscussion.jpg)        
+![Architect Joseph Lee at his office in discussion](/images/bhatchdiscussion.jpg)
 *Architect Joseph Lee at his office in discussion © URA*
 
 **7. You grew up in Tiong Bahru and now you live there. Why is the neighbourhood special to you?**
