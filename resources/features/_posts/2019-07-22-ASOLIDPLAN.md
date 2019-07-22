@@ -11,12 +11,16 @@ permalink: "/resources/features/A-solid-plan"
 
 *By Serene Tng*
 
-They are friends first and then became partners of ASOLIDPLAN. Initially started by architect Wong Ker How in 2014, Quck Zhong Yi and Lim Jing Feng joined the firm later. It was a confluence of factors in each of their personal lives that drove them to want to start their own practice and somehow, their interests and passions aligned at the right time. Whether it is being intrigued from growing up in a flat with microclimatic conditions or the way spaces are designed in a neighbourhood temple, all three find fulfilment in the design process and creating outcomes that are impactful. 
+They are friends first and then became partners of ASOLIDPLAN. Initially started by architect Wong Ker How in 2014, Quck Zhong Yi and Lim Jing Feng joined the firm later. It was a confluence of factors in each of their personal lives that drove them to want to start their own practice and somehow, their interests and passions aligned at the right time. 
 
-The practice enables them to pursue their passions together in wanting to try something different. They have infused their designs with both functional and quirky sensibilities in their range of projects covering houses, apartments, a pool bar and the stage at Marina Bay for the National Day celebrations. On a rainy morning, their office has a warm glow. With easy banter and a relaxed vibe sitting around their office’s large table similar to the Japanese restaurant’s horigotatsu seating style, the architects reflect on designing spaces for people.
+Whether it is being intrigued from growing up in a flat with microclimatic conditions or the way spaces are designed in a neighbourhood temple, all three find fulfilment in the design process and creating outcomes that are impactful. 
 
 ![ASPOLIDPLAN architects at their office](/images/asolidplanoffice.jpg)    
 *The architects at their office designed to be open and integrated with elements from outside © URA*
+
+The practice enables them to pursue their passions together in wanting to try something different. They have infused their designs with both functional and quirky sensibilities in their range of projects covering houses, apartments, a pool bar and the stage at Marina Bay for the National Day celebrations. 
+
+On a rainy morning, their office has a warm glow. With easy banter and a relaxed vibe sitting around their office’s large table similar to the Japanese restaurant’s horigotatsu seating style, the architects reflect on designing spaces for people.
 
 **1. How would you describe your approach to design?**
 
