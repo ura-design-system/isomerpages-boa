@@ -7,7 +7,7 @@ permalink: "/resources/features/BHATCH-Architects-small-is-beautiful"
 ### **Even with smaller and limited budgets, designs can be beautiful and interesting, says architect Joseph Lee of BHATCH Architects.**
 
 ![Architect Joseph Lee at his office](/images/bhatchjoseph.jpg)     
-*© URA*
+*Architect Joseph Lee at his office © URA*
 
 *By Serene Tng*
 
