@@ -7,7 +7,7 @@ permalink: "/resources/features/Plystudio-Architects-rainbow-twist"
 ### **Plystudio Architects’ focus on functionality and simplicity has created beautiful and useful spaces.**
 
 ![Architects Victor Lee and Jacqueline Yeo at the Rainbow Centre extension](/images/plystudioarchitects.jpg)     
-*© URA*
+*Architects Victor Lee and Jacqueline Yeo at the Rainbow Centre extension © URA*
 
 *By Serene Tng*
 
@@ -54,7 +54,7 @@ We introduced a central courtyard to serve as the unifying and central focal poi
 **Victor**: It is fulfilling to be able create useful and impactful spaces for students to feel safe and inspired to learn in. It is also good to know that the new spaces we have introduced can be adapted further in understanding how to design learning spaces for the future. Following the completion of the extension, there has been interest from the school to replicate some of the teaching and learning spaces we have introduced in the extension into the existing building as well. 
 
 ![Children's drawings at The Rainbow Centre extension](/images/plystudiochildrendrawings.jpg)     
-*Plystudio worked with the school to feature the children's drawings on a wall at the Rainbow Centre extension © Plystudio*
+*Plystudio worked with the school to feature the children's drawings on a wall at the Rainbow Centre extension © URA*
 
 **5. Based on the extension project and others, how do you see the role of architects evolving?**
 
