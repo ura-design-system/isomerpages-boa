@@ -16,7 +16,7 @@ They are friends first and then became partners of ASOLIDPLAN. Initially started
 Whether it is being intrigued from growing up in a flat with microclimatic conditions or the way spaces are designed in a neighbourhood temple, all three find fulfilment in the design process and creating outcomes that are impactful. 
 
 ![ASPOLIDPLAN architects at their office](/images/asolidplanoffice.jpg)
-*The architects at their office designed to be open and integrated with elements from outside © URA*
+*The architects in their office designed to be open and integrated with elements from outside © URA*
 
 The practice enables them to pursue their passions together in wanting to try something different. They have infused their designs with both functional and quirky sensibilities in their range of projects covering houses, apartments, a pool bar and the stage at Marina Bay for the National Day celebrations. 
 
