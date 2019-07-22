@@ -7,14 +7,14 @@ permalink: "/resources/features/BHATCH-Architects-small-is-beautiful"
 ### **Even with smaller and limited budgets, designs can be beautiful and interesting, says architect Joseph Lee of BHATCH Architects **
 
 ![Architect Joseph Lee at his office](/images/bhatchjoseph.jpg)     
-*©URA*
+*© URA*
 
 *By Serene Tng*
 
 In the middle of architect Joseph Lee’s office at Tyrwhitt Road is a colourful display of models. “They are slightly different from the conventional ones in the sense that these are made up of actual materials that we want to test out for various projects we are working on,” says Joseph who started his firm, BHATCH Architects in 2014. 
 
 ![Display of models at architect Joseph Lee's office](/images/bhatchmodels.jpg)     
-*Display of models at Bhatch Architects' office © URA*
+*Display of models at BHATCH Architects' office © URA*
 
 Experimentation is particularly important for Joseph. His firm’s work ranges from houses, cafes, offices to public projects. Their design process is highly inclusive in involving clients and stakeholders and uses a range of strategies in exploring materials and ideas. This is especially so for projects with limited budgets. “Good design need not be expensive,” he says. Chatty with infectious energy, Joseph tells us why architects should talk more to one another and why he misses the former Tiong Bahru market.  
 
