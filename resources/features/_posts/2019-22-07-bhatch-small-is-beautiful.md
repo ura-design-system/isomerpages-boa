@@ -13,6 +13,9 @@ permalink: "/resources/features/bhatch-small-is-beautiful"
 
 In the middle of architect Joseph Lee’s office at Tyrwhitt Road is a colourful display of models. “They are slightly different from the conventional ones in the sense that these are made up of actual materials that we want to test out for various projects we are working on,” says Joseph who started his firm, BHATCH Architects in 2014. 
 
+![Display of models at architect Joseph Lee's office](/images/bhatch_models.jpg)
+© URA
+
 Experimentation is particularly important for Joseph. His firm’s work ranges from houses, cafes, offices to public projects. Their design process is highly inclusive in involving clients and stakeholders and uses a range of strategies in exploring materials and ideas. This is especially so for projects with limited budgets. “Good design need not be expensive,” he says. Chatty with infectious energy, Joseph tells us why architects should talk more to one another and why he misses the former Tiong Bahru market.  
 
 **1. What do you love most about being an architect?**
@@ -26,6 +29,9 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 **3. Tell us about one project that challenged your creativity.** 
 
 **Joseph**: It was my first shop house project in Joo Chiat. The owner wanted to do a three-storey extension in the rear and the budget was tight. I saw it as a challenge to do something interesting. At that time, I was running a studio at the National University of Singapore. There was a stockpile of bamboo left over from the course. I bought all of it for $150 and used it to create the façade for the shop house. It shows that good designs need not be expensive. It is about exploring the use of material and continuing to be creative in designing something meaningful. 
+
+![61 Joo Chiat Terrace showing the bamboo textured wall](/images/bhatch_joochiat.jpg)
+© Jeremy San
 
 **4. Your firm has an interesting name.**
 
