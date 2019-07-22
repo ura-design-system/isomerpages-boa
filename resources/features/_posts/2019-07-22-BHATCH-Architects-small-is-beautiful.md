@@ -39,6 +39,9 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 
 We see designing as limitless. We want to produce designs that are authentic and relevant. Whether it is a small space or a project with an unusual shape, we welcome all challenges, it makes us work harder and be more creative. 
 
+![One of BHATCH Architects' projects at 3 Wimborne Road](/images/bhatchwimborneroad.jpg)          
+*One of BHATCH Architects' projects at 3 Wimborne Road © Goh Jin Chuan*
+
 **5. Who inspires you?**
 
 **Joseph**: Fellow architects. I learn a lot from conversations with my peers. There is always something to gain from every interaction. It is also a chance to share with each other our stories and struggles. 
