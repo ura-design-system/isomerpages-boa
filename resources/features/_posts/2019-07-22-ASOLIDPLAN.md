@@ -29,7 +29,7 @@ The practice enables them to pursue their passions together in wanting to try so
 So we turned the 45-degree wall into a key space for all the main activities by building another diagonal wall and a full mirror wall to create a triangle that became a full square when reflected. We even designed the sofa in the living room that can be configured to fit different corners, changing from a queen size bed to a day bed or a bench seat for the dining table. 
 
 ![ASOLIDPLAN's project at Bukit Purmei](/images/asolidplanpurmei.jpg)    
-*"Squaring the triangle at Bukit Purmei © Food & Shelter Company*
+*"Squaring the triangle" at Bukit Purmei © Food & Shelter Company*
 
 **3. You have shown that the design of a stage can have a huge impact on the experience. The National Day celebrations at Marina Bay in 2018 felt both intimate and grand.**
 
@@ -41,7 +41,7 @@ So we turned the 45-degree wall into a key space for all the main activities by 
 Thus, we created a three-tier plaza with grand steps and ramps leading up to a set of swivel screens to evoke a sense of grandeur. The colours of the water and buildings in Marina Bay were also reflected as pentagon patterns radiating from the centre stage to bring the bay closer to the stage and the show closer to the city.  
 
 ![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp1.jpg)    
-*The stage at the National Day celebrations in 2018 at Marina Bay © Fabian Ong*
+*The plaza with patterns radiating from the centre stage © Fabian Ong*
 
 **4. What do you find most satisfying about being an architect?**
 Zhong Yi: It is most rewarding to be able to go through the design journey with cilents and stakeholders. Often, it is an emotional and personal process. And being able to envision spaces and how people use them, adding to their senses and lives, is very satisfying. 
