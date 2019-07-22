@@ -37,10 +37,13 @@ In designing the various environments, we were mindful to create spaces that ena
 
 **Victor**: We first focused on planning and organising the spaces in a rational grid which then gave rise to its form. Having a clear organisation of space enabled us to create scalable spaces within limited resources. 
 
-![The Rainbow Centre extension open spaces](/images/plystudioopenspaces.jpg)     
-*Open spaces at the Rainbow Centre extension © URA*
+![The Rainbow Centre extension drawing](/images/plystudiorainbowdrawing.jpg)     
+*Drawing of the Rainbow Centre extension © Plystudio*
 
 We introduced a central courtyard to serve as the unifying and central focal point and created open spaces to break down the volume and scale of the building. Going beyond the conventional classroom setting, we designed spill-out spaces just outside of these rooms so that students could feel like they were more at home when learning and playing at any time.  
+
+![The Rainbow Centre extension open spaces](/images/plystudioopenspaces.jpg)     
+*Open spaces at the Rainbow Centre extension © URA*
 
 **3.  What was one major challenge in the design process?**
 
@@ -49,6 +52,9 @@ We introduced a central courtyard to serve as the unifying and central focal poi
 **4.  What did you find most rewarding about working on the extension?**
 
 **Victor**: It is fulfilling to be able create useful and impactful spaces for students to feel safe and inspired to learn in. It is also good to know that the new spaces we have introduced can be adapted further in understanding how to design learning spaces for the future. Following the completion of the extension, there has been interest from the school to replicate some of the teaching and learning spaces we have introduced in the extension into the existing building as well. 
+
+![Children's drawings at The Rainbow Centre extension](/images/plystudiochildrendrawings.jpg)     
+*Plystudio worked with the school to feature the children's drawings on a wall at the Rainbow Centre extension © Plystudio*
 
 **5. Based on the extension project and others, how do you see the role of architects evolving?**
 
