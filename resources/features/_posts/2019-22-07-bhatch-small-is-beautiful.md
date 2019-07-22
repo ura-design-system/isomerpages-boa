@@ -4,9 +4,9 @@ title:  Small is beautiful
 date:   2019-05-17
 permalink: "/resources/features/bhatch-small-is-beautiful"
 ---
-### **Even with smaller and limited budgets, designs can be beautiful and interesting, says architect Joseph Lee of BHATCH Architects
+### **Even with smaller and limited budgets, designs can be beautiful and interesting, says architect Joseph Lee of BHATCH Architects ###
 
-![Architect Wu Huei Siang at his WASAA office](/images/WASAA-Wu.jpg)
+![Architect Joseph Lee at his office](/images/bhatch_joseph.jpg)
 © URA
 
 *By Serene Tng*
