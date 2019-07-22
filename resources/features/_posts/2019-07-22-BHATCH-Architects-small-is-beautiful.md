@@ -30,7 +30,7 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 
 **3. Tell us about one project that challenged your creativity.** 
 
-**Joseph**: It was my first shop house project in Joo Chiat. The owner wanted to do a three-storey extension in the rear and the budget was tight. I saw it as a challenge to do something interesting. At that time, I was running a studio at the National University of Singapore. There was a stockpile of bamboo left over from the course. 
+**Joseph**: It was my first shophouse project in Joo Chiat. The owner wanted to do a three-storey extension in the rear and the budget was tight. I saw it as a challenge to do something interesting. At that time, I was running a studio at the National University of Singapore. There was a stockpile of bamboo left over from the course. 
 
 I bought all of it for $150 and used it to create the façade for the shop house. It shows that good designs need not be expensive. It is about exploring the use of material and continuing to be creative in designing something meaningful. 
 
