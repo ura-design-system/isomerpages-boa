@@ -22,7 +22,7 @@ Over the years, the husband-and-wife team has centred their designs around modul
 
 They have worked on a range of buildings and spaces, from the sheltered link-bridge in National Junior College, the interiors of Waterway Point shopping mall at Punggol to hotels, a film studio, offices and homes in Singapore and the region. 
 
-![Waterway Point shopping mall at Punggol](/images/plystudiorainbowfront.jpg)     
+![Waterway Point shopping mall at Punggol](/images/plystudiowaterwaypoint.jpg)     
 *Waterway Point shopping mall at Punggol © Plystudio*
 
 We take a walk around Rainbow Centre’s extension with Victor and Jacqueline who show us how their focus on functionality and simplicity has created beautiful and useful spaces. 
