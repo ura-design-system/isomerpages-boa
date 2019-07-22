@@ -35,10 +35,13 @@ So we turned the 45-degree wall into a key space for all the main activities by 
 
 **Jing Feng**: We had the opportunity and privilege to be able to work with Creative Director, Boo Junfeng, in designing the stage for the National Day celebrations. In the past years, the stage was often set to look inwards. But in 2018, given that the developments around the bay were more complete and there was a need for film projections, we wanted to create a stage that enabled people to feel connected and yet be able to enjoy the beautiful skyline and surroundings. 
 
+![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp2.jpg)    
+*The stage at the National Day celebrations in 2018 at Marina Bay © Fabian Ong*
+
 Thus, we created a three-tier plaza with grand steps and ramps leading up to a set of swivel screens to evoke a sense of grandeur. The colours of the water and buildings in Marina Bay were also reflected as pentagon patterns radiating from the centre stage to bring the bay closer to the stage and the show closer to the city.  
 
 ![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp1.jpg)    
-* The stage at the National Day celebrations in 2018 at Marina Bay © Fabian Ong*
+*The stage at the National Day celebrations in 2018 at Marina Bay © Fabian Ong*
 
 **4. What do you find most satisfying about being an architect?**
 Zhong Yi: It is most rewarding to be able to go through the design journey with cilents and stakeholders. Often, it is an emotional and personal process. And being able to envision spaces and how people use them, adding to their senses and lives, is very satisfying. 
