@@ -4,7 +4,7 @@ title:  A solid plan
 date:   2019-07-22
 permalink: "/resources/features/A-solid-plan"
 ---
-### **From a home to a national stage, three friends and also partners of ASOLIDPLAN are leaving their imprints in designing spaces for people. **
+### **From a home to a national stage, three friends and also partners of ASOLIDPLAN are leaving their imprints in designing spaces for people.**
 
 ![ASPOLIDPLAN architects](/images/asolidplanarchitects.jpg)     
 *© URA*
