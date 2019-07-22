@@ -6,7 +6,7 @@ permalink: "/resources/features/A-solid-plan"
 ---
 ### **From a home to a national stage, three friends and also partners of ASOLIDPLAN are leaving their imprints in designing spaces for people.**
 
-![ASPOLIDPLAN architects](/images/asolidplanarchitects.jpg)     
+![ASPOLIDPLAN architects](/images/asolidplanarchitects.jpg)
 *Architects Quck Zhong Yi, Wong Ker How and Lim Jing Feng in the neighbourhood near their office © URA*
 
 *By Serene Tng*
@@ -15,7 +15,7 @@ They are friends first and then became partners of ASOLIDPLAN. Initially started
 
 Whether it is being intrigued from growing up in a flat with microclimatic conditions or the way spaces are designed in a neighbourhood temple, all three find fulfilment in the design process and creating outcomes that are impactful. 
 
-![ASPOLIDPLAN architects at their office](/images/asolidplanoffice.jpg)    
+![ASPOLIDPLAN architects at their office](/images/asolidplanoffice.jpg)
 *The architects at their office designed to be open and integrated with elements from outside © URA*
 
 The practice enables them to pursue their passions together in wanting to try something different. They have infused their designs with both functional and quirky sensibilities in their range of projects covering houses, apartments, a pool bar and the stage at Marina Bay for the National Day celebrations. 
@@ -32,19 +32,19 @@ On a rainy morning, their office has a warm glow. With easy banter and a relaxed
 
 So we turned the 45-degree wall into a key space for all the main activities by building another diagonal wall and a full mirror wall to create a triangle that became a full square when reflected. We even designed the sofa in the living room that can be configured to fit different corners, changing from a queen size bed to a day bed or a bench seat for the dining table. 
 
-![ASOLIDPLAN's project at Bukit Purmei](/images/asolidplanpurmei.jpg)    
+![ASOLIDPLAN's project at Bukit Purmei](/images/asolidplanpurmei.jpg)
 *"Squaring the triangle" at Bukit Purmei © Food & Shelter Company*
 
 **3. You have shown that the design of a stage can have a huge impact on the experience. The National Day celebrations at Marina Bay in 2018 felt both intimate and grand.**
 
 **Jing Feng**: We had the opportunity and privilege to be able to work with Creative Director, Boo Junfeng, in designing the stage for the National Day celebrations. In the past years, the stage was often set to look inwards. But in 2018, given that the developments around the bay were more complete and there was a need for film projections, we wanted to create a stage that enabled people to feel connected and yet be able to enjoy the beautiful skyline and surroundings. 
 
-![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp2.jpg)    
+![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp2.jpg)
 *The stage at the National Day celebrations in 2018 at Marina Bay © Fabian Ong*
 
 Thus, we created a three-tier plaza with grand steps and ramps leading up to a set of swivel screens to evoke a sense of grandeur. The colours of the water and buildings in Marina Bay were also reflected as pentagon patterns radiating from the centre stage to bring the bay closer to the stage and the show closer to the city.  
 
-![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp1.jpg)    
+![ASOLIDPLAN's design of the stage for the National Day celebrations in 2018 at Marina Bay](/images/asolidplanndp1.jpg)
 *The plaza with patterns radiating from the centre stage © Fabian Ong*
 
 **4. What do you find most satisfying about being an architect?**
