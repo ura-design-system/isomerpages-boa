@@ -16,7 +16,9 @@ In the middle of architect Joseph Lee’s office at Tyrwhitt Road is a colourful
 ![Display of models at architect Joseph Lee's office](/images/bhatchmodels.jpg)     
 *Display of models at BHATCH Architects' office © URA*
 
-Experimentation is particularly important for Joseph. His firm’s work ranges from houses, cafes, offices to public projects. Their design process is highly inclusive in involving clients and stakeholders and uses a range of strategies in exploring materials and ideas. This is especially so for projects with limited budgets. “Good design need not be expensive,” he says. Chatty with infectious energy, Joseph tells us why architects should talk more to one another and why he misses the former Tiong Bahru market.  
+Experimentation is particularly important for Joseph. His firm’s work ranges from houses, cafes, offices to public projects. Their design process is highly inclusive in involving clients and stakeholders and uses a range of strategies in exploring materials and ideas. This is especially so for projects with limited budgets. 
+
+“Good design need not be expensive,” he says. Chatty with infectious energy, Joseph tells us why architects should talk more to one another and why he misses the former Tiong Bahru market.  
 
 **1. What do you love most about being an architect?**
 
@@ -28,9 +30,11 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 
 **3. Tell us about one project that challenged your creativity.** 
 
-**Joseph**: It was my first shop house project in Joo Chiat. The owner wanted to do a three-storey extension in the rear and the budget was tight. I saw it as a challenge to do something interesting. At that time, I was running a studio at the National University of Singapore. There was a stockpile of bamboo left over from the course. I bought all of it for $150 and used it to create the façade for the shop house. It shows that good designs need not be expensive. It is about exploring the use of material and continuing to be creative in designing something meaningful. 
+**Joseph**: It was my first shop house project in Joo Chiat. The owner wanted to do a three-storey extension in the rear and the budget was tight. I saw it as a challenge to do something interesting. At that time, I was running a studio at the National University of Singapore. There was a stockpile of bamboo left over from the course. 
 
-![61 Joo Chiat Terrace showing the bamboo textured wall](/images/bhatchjoochiat.jpg)      
+I bought all of it for $150 and used it to create the façade for the shop house. It shows that good designs need not be expensive. It is about exploring the use of material and continuing to be creative in designing something meaningful. 
+
+![61 Joo Chiat Terrace showing the bamboo textured wall](/images/bhatchjoochiat.jpg)    
 *61 Joo Chiat Terrace showing the bamboo textured wall © Jeremy San*
 
 **4. Your firm has an interesting name.**
@@ -39,7 +43,7 @@ Experimentation is particularly important for Joseph. His firm’s work ranges f
 
 We see designing as limitless. We want to produce designs that are authentic and relevant. Whether it is a small space or a project with an unusual shape, we welcome all challenges, it makes us work harder and be more creative. 
 
-![One of BHATCH Architects' projects at 3 Wimborne Road](/images/bhatchwimborneroad.jpg)          
+![One of BHATCH Architects' projects at 3 Wimborne Road](/images/bhatchwimborneroad.jpg)        
 *One of BHATCH Architects' projects at 3 Wimborne Road © Goh Jin Chuan*
 
 **5. Who inspires you?**
@@ -51,6 +55,9 @@ We see designing as limitless. We want to produce designs that are authentic and
 **Joseph**: As our cities grow more complex and interconnected, there is a need for architects to relate more to the urban landscape and to each other. I was part of an interesting project, “The Lien Villas Collective” when I was at K2LD Architects where six houses in Singapore were designed by six architects for a family, connected by a common landscape. 
 
 The architects met every month to understand each other’s designs and how each of the houses relate to each other as a whole. The project is a reminder on the need for architects to interact more with each other to explore how their designs can contribute to the larger urban fabric. 
+
+![Architect Joseph Lee at his office in discussion](/images/bhatchdiscussion.jpg)        
+*Architect Joseph Lee at his office in discussion © URA*
 
 **7. You grew up in Tiong Bahru and now you live there. Why is the neighbourhood special to you?**
 
