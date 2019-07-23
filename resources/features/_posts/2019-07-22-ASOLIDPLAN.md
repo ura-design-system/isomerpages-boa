@@ -48,7 +48,8 @@ Thus, we created a three-tier plaza with grand steps and ramps leading up to a s
 *The plaza with patterns radiating from the centre stage © Fabian Ong*
 
 **4. What do you find most satisfying about being an architect?**
-Zhong Yi: It is most rewarding to be able to go through the design journey with cilents and stakeholders. Often, it is an emotional and personal process. And being able to envision spaces and how people use them, adding to their senses and lives, is very satisfying. 
+
+**Zhong Yi**: It is most rewarding to be able to go through the design journey with cilents and stakeholders. Often, it is an emotional and personal process. And being able to envision spaces and how people use them, adding to their senses and lives, is very satisfying. 
 
 **5. How do you see the role of architects evolving?**
 
