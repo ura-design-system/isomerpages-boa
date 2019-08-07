@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "BOA Presentation Ceremony & Seminar 2019 - Open for Registration"
-date:   2019-07-10
+title:  "BOA Presentation Ceremony & Seminar 2019 - Registration Closed"
+date:   2019-08-07
 permalink: "/resources/news/BOA-Presentation-Ceremony-and-Seminar-2019"
 ---
-10 Jul 2019
+07 Aug 2019
 
 ### **BOA Presentation Ceremony & Seminar 2019, 31 Aug 2019**
 
@@ -22,7 +22,7 @@ Ar. **Siew Man Kok** co-founded and built MKPL Architects into a firm, highly re
 
 In line with our government’s move to recognise and honour our Pioneer and Merdeka Generation, the Board has also invited 12 pioneer architects to share their contribution in shaping the landscape of Singapore to what she is today – a distinctive global city. This will be an interactive session with the audience and it will be moderated by the Registrar of the Board.  
 
-As seats for the seminar are limited, you are encouraged to register for the Seminar before **8 Aug 2019**.  To register, please complete the registration form and return it to BOA together with your payment of **$60/- (BOA Registered Architects)/$120/- (non-registered)**.  All registered architects will be given **8 CPD points** for attendance.  
+As seats for the seminar are limited, you are encouraged to register for the Seminar before **8 Aug 2019**. To register, please complete the registration form and return it to BOA together with your payment of **$60/- (BOA Registered Architects)/$120/- (non-registered)**.  All registered architects will be given **8 CPD points** for attendance.  
 
 We look forward to seeing you at the Seminar. 
 
