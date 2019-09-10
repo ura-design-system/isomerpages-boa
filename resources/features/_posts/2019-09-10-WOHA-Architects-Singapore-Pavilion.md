@@ -6,9 +6,7 @@ permalink: "/resources/features/WOHA-Architects-Singapore-Pavilion"
 ---
 ### **WOHA designs the Singapore Pavilion for the 2020 World Expo in Dubai.**
 
-![Singapore Pavilion Front View.](/images/Singapore Pavilion Front View.jpg)
-© Singapore Pavilion, Expo 2020 Dubai
-
+![Singapore Pavilion Front View](/images/Singapore-Pavilion-Front-View-1.jpg)
 *The Singapore Pavilion entrance area invites visitors into a lush, tropical oasis.*
 
 August 28, 2019; Singapore - Singapore-based architecture firm WOHA has been appointed to design the Singapore Pavilion for the 2020 World Expo, held in Dubai. The Singapore Pavilion is led by the Urban Redevelopment Authority, Singapore's land use planning and conservation agency and produced by Radius Experiential International. 
@@ -19,16 +17,12 @@ Located in the Expo’s Sustainability District, the Pavilion is inspired by its
 
 The key idea is to create an oasis in the Arabian desert. The pavilion’s usable areas are maximized and multiplied through stacked layers to form a voluminous, 3-dimensional green space. The ground plane is a lush oasis of tropical trees, verdant shrubs and vibrant orchids, capped with a spectacular hanging garden and anchored by three cones draped in vertical greenery. 
 
-![Singapore Pavilion](/images/Singapore Pavilion.jpg)
-© Singapore Pavilion, Expo 2020 Dubai
-
+![Singapore Pavilion](/images/Singapore-Pavilion-2.jpg)
 *The pavilion has a clear architectural diagram of three cones sheltered by a solar canopy. Visitors experience a multitude of interesting spaces and content as they weave through and between these elements.* 
 
 The landscaped Garden Cones are thematic volumes with sensory and multimedia displays that engulf the visitors in a refreshing and memorable experience. A meandering canopy walk brings visitors around and through the cones and emerges to an open sky market platform. Sheltered by the solar canopy and cooled with fine mist fans, visitors learn more about Singapore’s DNA from the array of exhibits and programmes. The experience concludes at the Ground Galleria with a display of Singapore's design stories and a retail space. Despite the heat of the desert, the visitors’ journey is made comfortable and enjoyable by the combination of shade, evapo-transpiration cooling of the vegetation and fine mist fans that cool the air by 5-10 degrees Celsius.
 
-![Singapore Pavilion Sky Market Garden](/images/Singapore Pavilion Hanging Garden.jpg)
-© Singapore Pavilion, Expo 2020 Dubai
-
+![Singapore Pavilion Sky Market Garden](/images/Singapore-Pavilion-Hanging-Garden-3.jpg)
 *Right above the hanging gardens is the open sky market platform, a place for congregation and engagement, where visitors can also get a taste of Singapore’s rich food heritage. It is topped by a solar canopy which simultaneously generates electricity and provides shade and shelter to the sky market.*
 
 The uniqueness of the Singapore Pavilion is that, despite its location in the desert, it is green, soft and alive, demonstrating the great potential of the respectful, seamless integration and co-existence of nature and architecture. It represents a captivating and forward-looking Singapore, one that is sociable, sustainable and livable, and shows a way architecture can make a meaningful contribution to the fight against the effects of climate change.
