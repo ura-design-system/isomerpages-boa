@@ -8,7 +8,7 @@ permalink: "/resources/news/Collaborative-Alliance-Conference-2019"
 
 ### **Collaborative Alliance Conference 2019, 1 Oct 2019**
 
-![CAC Logo](/images/CollaborativeAllianceConference.jpg)
+![Collaborative Alliance Conference](/images/CollaborativeAllianceConference.jpg)
 
 The Collaborative Alliance Conference (CAC) is a continuation of the previous Joint BOA-ACES Conferences in 2017 and 2018. The inauguration of this new conference reflects accurately the aspiration of collaboration. Seven organisations have come together for this effort.
 
