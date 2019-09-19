@@ -29,7 +29,7 @@ Discussion Theme:
 
 This annual conference is designed to gather the build environment fraternity, as well as its various stakeholders in the value chain together, to debate, share and exchange views on the challenges and growth prospects of the built environment sector.
 
-You may visit the website of the Singapore Institute of Architects for more information on the conference and registration: https://sia.org.sg/collaborative-alliance-conference-2019/  
+You may visit the website of the Singapore Institute of Architects for more information on the conference and registration: [Link](https://sia.org.sg/collaborative-alliance-conference-2019/)  
 
 All BOA registered architects are entitled to a discounted rate of $100 (Inclusive of GST). Please quote the coupon code **sia20191001cacboaregar** to enjoy this rate. 
 
