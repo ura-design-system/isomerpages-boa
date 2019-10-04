@@ -6,7 +6,7 @@ permalink: "/resources/features/President_Design_Awards2020_call_for_submissions
 ---
 ### **President*s Design Award 2020 opens for submissions**
 
-![PDA-CallforSubmissions-PDAWebsite](/images/President_Design_Award.jpg)
+![President_Design_Award](/images/President_Design_Award.jpg)
 
 The President*s Design Award (P*DA) is Singapore’s highest honour for designs and designers across all disciplines.  It recognises the achievements of a group of extraordinary people who have made a difference to the lives of Singaporeans and the global community through excellent design.  The Award is conferred by the President of the Republic of Singapore and is jointly administered by the DesignSingapore Council Pte Ltd and the Urban Redevelopment Authority. 
 
