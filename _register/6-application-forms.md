@@ -95,7 +95,7 @@ Application forms:
 
 Application for a Licence:
 
-[Form of application for licence]({{site.baseurl}}/files/form_6_application_for_a_licence.pdf)
+[Form of application for licence]({{site.baseurl}}/files/Form 6 - Application for a Licence Revised.pdf)
 
 [Form of application for licence - Word doc]({{site.baseurl}}/files/form_6_application_for_a_licence.doc)
 
