@@ -55,7 +55,7 @@ These are six questions the curatorial team hopes to address through the three p
 
 ⦁	How would spaces for living together look like fifty years from now?
 
-In order to submit, please use this application form. Participants are asked to submit a 300 word abstract that outlines their project and up to three supporting images.
+In order to submit, please use this application form (https://forms.gle/NtTXKatFoDFbzR1E9). Participants are asked to submit a 300 word abstract that outlines their project and up to three supporting images.
 
 For further enquiries, please contact Joella Kiu at joellakiu@nus.edu.sg. 
 
