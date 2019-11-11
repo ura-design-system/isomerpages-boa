@@ -9,7 +9,7 @@ permalink: "/resources/news/architecture_internship_programme_updates"
 ### **Announcement from the Department of Architecture**
 
 
-[announcement_from_DOA_NUS.pdf](https://github.com/isomerpages/isomerpages-boa/files/announcement_from_ DOA_NUS.pdf)
+[announcement_from_DOA_NUS.pdf]
 
 
  
