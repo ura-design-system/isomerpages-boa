@@ -8,8 +8,7 @@ permalink: "/resources/news/circular_for_compliance_to PE_rules"
 
 ### **PEB Circular to Professional Engineers for compliance to PE Rules (Code of Professional Conduct & Ethics)**
 
-[Circular_for_compliance_with_PE_rules_code_of_professional_conduct_and_ethics.pdf](https://github.com/isomerpages/isomerpages-boa/
-files/Circular for Compliance with PE Rules (Code of Professional Conduct and Ethics.pdf)
+[Circular_for_compliance_with_PE_rules_code_of_professional_conduct_and_ethics.pdf](https://github.com/isomerpages/isomerpages-boa/files/Circular for Compliance with PE Rules (Code of Professional Conduct and Ethics.pdf)
 
  
  
