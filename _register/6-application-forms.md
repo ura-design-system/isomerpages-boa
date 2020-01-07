@@ -97,7 +97,7 @@ Application for a Licence:
 
 [Form of application for licence]({{site.baseurl}}/files/Form 6 - Application for a Licence Revised.pdf)
 
-[Form of application for licence - Word doc](files/Form_6_ Application_for_a_Licence_revised.doc)({{site.baseurl}}/files/Form_6_ Application_for_a_Licence_revised.doc)
+[Form of application for licence - Word doc]({{site.baseurl}}/files/Form_6_ Application_for_a_Licence_revised.doc)
 
 Statutory Declaration Form:
 
