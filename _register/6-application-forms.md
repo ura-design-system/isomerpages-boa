@@ -75,7 +75,7 @@ Applicants are required to attend a compulsory Pre-submission Briefing before ap
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/files/Guidelines for Section 15(1)(c) (Updated Jan 2020).pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines for Section 15(1)(c) (Updated Jan 2020).pdf) 
 
 Application forms:
 
