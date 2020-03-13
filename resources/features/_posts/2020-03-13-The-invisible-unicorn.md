@@ -8,7 +8,7 @@ permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-futur
 
 ![Daniel Libeskind](/images/Daniel.jpg)
 
-Image credit: URA
+*© URA*
 
 
 
@@ -30,7 +30,7 @@ We caught up with Daniel on what it means to design a physical space for both th
 
 ![Jewish Museum in Berlin designed by Daniel Libeskind](/images/Jewish_Museum.jpg)
 
-The Jewish Museum in Berlin designed by Daniel Libeskind is considered one of the most revolutionary structures built since the war in Germany or anywhere. © Studio Libeskind
+*The Jewish Museum in Berlin designed by Daniel Libeskind is considered one of the most revolutionary structures built since the war in Germany or anywhere. © Studio Libeskind*
 
 **Why is designing museums and memorials important to you?**
 
@@ -62,7 +62,7 @@ As the master planner of the site, I worked to bring people together, not just w
 
 ![The wall that was retained at the new World Trade Centre site](/images/WTC_Wall.jpg)
 
-© Studio Libeskind
+*The concrete slurry wall built in the 1960s surrounding the World Trade Centre site survived the 9/11 tragedy. Today, it is part of the Ground Zero site as an engineering marvel and testimony to the human spirit. © Studio Libeskind
 
 **At the centre of your master plan for the new World Trade Centre site is the retention of the concrete foundation walls that survived. This huge slurry wall has become a symbolic hero.**
 
