@@ -12,7 +12,7 @@ permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-futur
 
 *By Serene Tng*
 
-Invisible unicorns and connecting to the heart – world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future. 
+***Invisible unicorns and connecting to the heart – world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future.***
 
 Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition, as told to writer Stanley Meisler of the Smithsonian Magazine. 
 
@@ -82,4 +82,4 @@ It is very important to imbue the site with symbolic and democratic meanings and
 
 **Daniel**: You are not really working just for yourself. It is not about you. It is about something that you are doing for someone whom you do not even know, who will be born many years later, who will come into the street sort of independently. That is who you are designing for. You are not just designing for the people around you. Just the way Shakespeare did not really write his sonnets just for any known lover. He wrote it for the lover of the future. 
 
-Daniel Libeskind is the Founder and Principal Architect of Studio Libeskind. He is also part of a seven-member Jury Panel for the International Architectural Design Competition for the Founders’ Memorial which will be located at Bay East in the Marina Bay area. The winning design will be announced in the first quarter of 2020. For more information about the Founders’ Memorial, go to www.foundersmemorial.sg 
+***Daniel Libeskind is the Founder and Principal Architect of Studio Libeskind. He is also part of a seven-member Jury Panel for the International Architectural Design Competition for the Founders’ Memorial which will be located at Bay East in the Marina Bay area. The winning design will be announced in the first quarter of 2020. For more information about the Founders’ Memorial, go to www.foundersmemorial.sg***
