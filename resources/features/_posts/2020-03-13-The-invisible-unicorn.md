@@ -6,7 +6,9 @@ permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-futur
 ---
 ### **The invisible unicorn**
 
-![Daniel Libeskind](/images/Daniel.jpg)                                                                                                                                                                            Image credit: URA
+![Daniel Libeskind](/images/Daniel.jpg)
+
+Image credit: URA
 
 
 
@@ -27,8 +29,7 @@ We caught up with Daniel on what it means to design a physical space for both th
 **Daniel**: I consider memory the foundation of architecture. It is memory that creates orientation and gives us a sense of connection between traditions of the past, the present and the future. Memory is key to all my work. When you deal with places of memory, you have to be able to transmit something beyond the past. You have to transmit the hopes of the future. You have to structure the spaces in such a way that it has the equivalent to the complexity of the human spirit and mind. Without memory, we would not know who we are or where we are going.
 
 ![Jewish Museum in Berlin designed by Daniel Libeskind](/images/Jewish_Museum.jpg)
-
-© Studio Libeskind
+The Jewish Museum in Berlin designed by Daniel Libeskind is considered one of the most revolutionary structures built since the war in Germany or anywhere. © Studio Libeskind
 
 **Why is designing museums and memorials important to you?**
 
