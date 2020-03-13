@@ -26,7 +26,7 @@ We caught up with Daniel on what it means to design a physical space for both th
 **Daniel**: I consider memory the foundation of architecture. It is memory that creates orientation and gives us a sense of connection between traditions of the past, the present and the future. Memory is key to all my work. When you deal with places of memory, you have to be able to transmit something beyond the past. You have to transmit the hopes of the future. You have to structure the spaces in such a way that it has the equivalent to the complexity of the human spirit and mind. Without memory, we would not know who we are or where we are going.
 
 ![Jewish Museum in Berlin designed by Daniel Libeskind](/images/Jewish_Museum.jpg)
-© Studio Libeskind
+©Studio Libeskind
 
 **Why is designing museums and memorials important to you?**
 
@@ -57,7 +57,7 @@ So the site in the same way is like the invisible unicorn. It is there and is ev
 As the master planner of the site, I worked to bring people together, not just with an architect there but with a place. What does the place mean? What does the event mean? How do we give hope after such a catastrophic event? How can we develop the city to be full of optimism and beauty, while using memory as a fulcrum of the experience?
 
 ![The wall that was retained at the new World Trade Centre site](/images/WTC_Wall.jpg)
-© Studio Libeskind
+©Studio Libeskind
 
 **At the centre of your master plan for the new World Trade Centre site is the retention of the concrete foundation walls that survived. This huge slurry wall has become a symbolic hero.**
 
