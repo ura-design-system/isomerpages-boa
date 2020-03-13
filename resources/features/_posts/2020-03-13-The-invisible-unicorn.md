@@ -6,8 +6,7 @@ permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-futur
 ---
 ### **The invisible unicorn**
 
-![Daniel Libeskind](/images/Daniel.jpg)
-    
+![Daniel Libeskind](/images/Daniel.jpg) 
  © URA
 
 *By Serene Tng*
