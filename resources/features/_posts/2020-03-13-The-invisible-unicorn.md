@@ -62,7 +62,7 @@ As the master planner of the site, I worked to bring people together, not just w
 
 ![The wall that was retained at the new World Trade Centre site](/images/WTC_Wall.jpg)
 
-*The concrete slurry wall built in the 1960s surrounding the World Trade Centre site survived the 9/11 tragedy. Today, it is part of the Ground Zero site as an engineering marvel and testimony to the human spirit. © Studio Libeskind
+*The concrete slurry wall built in the 1960s surrounding the World Trade Centre site survived the 9/11 tragedy. Today, it is part of the Ground Zero site as an engineering marvel and testimony to the human spirit. © Studio Libeskind*
 
 **At the centre of your master plan for the new World Trade Centre site is the retention of the concrete foundation walls that survived. This huge slurry wall has become a symbolic hero.**
 
@@ -85,6 +85,8 @@ It is very important to imbue the site with symbolic and democratic meanings and
 **Daniel**: You are not really working just for yourself. It is not about you. It is about something that you are doing for someone whom you do not even know, who will be born many years later, who will come into the street sort of independently. That is who you are designing for. You are not just designing for the people around you. Just the way Shakespeare did not really write his sonnets just for any known lover. He wrote it for the lover of the future. 
 
 
-*Daniel Libeskind is the Founder and Principal Architect of Studio Libeskind. He is also part of a seven-member Jury Panel for the International Architectural Design Competition for the Founders’ Memorial which will be located at Bay East in the Marina Bay area. The winning design will be announced in the first quarter of 2020. For more information about the Founders’ Memorial, go to [www.foundersmemorial.sg](https://www.foundersmemorial.sg){:target="_blank"}*
+*Daniel Libeskind is the Founder and Principal Architect of Studio Libeskind. He is also part of a seven-member Jury Panel for the International Architectural Design Competition for the Founders’ Memorial which will be located at Bay East in the Marina Bay area. The winning design will be announced in the first quarter of 2020. For more information about the Founders’ Memorial, go to [www.foundersmemorial.sg]*
+
+This article was first published in [Skyline], URA's corporate magazine. 
 
  
