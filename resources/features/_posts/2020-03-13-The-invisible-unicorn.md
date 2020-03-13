@@ -4,14 +4,16 @@ title:  Daniel Libeskind on designing for past and future
 date:   2020-03-13
 permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-future"
 ---
-### **Dedication to beauty**
+### **The invisible unicorn**
 
-![Architects Rene Tan and Jonathan Quek at the interview in their office](/images/RTQ-interview.jpg)
+![Daniel Libeskind](/images/Daniel.jpg)
 © URA
 
 *By Serene Tng*
 
-Invisible unicorns and connecting to the heart – world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future. Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition, as told to writer Stanley Meisler of the Smithsonian Magazine. 
+Invisible unicorns and connecting to the heart – world renowned Polish-American architect Daniel Libeskind reveals the essence of designing for both the past and the future. 
+
+Daniel Libeskind believes that architecture is a humanistic discipline grounded in history and tradition, as told to writer Stanley Meisler of the Smithsonian Magazine. 
 
 An academic until age 43 and informed by a deep commitment to music, philosophy, literature and poetry, Daniel’s many projects from the Jewish Museum in Berlin to the World Trade Centre site not only draw from the social and historical contexts of sites, they tell a story and evoke cultural memories that reach out to humanity. 
 
@@ -19,10 +21,12 @@ The Jewish Museum in Berlin which opened in 2001 was Daniel’s first major proj
 
 We caught up with Daniel on what it means to design a physical space for both the past and the future, the significance of memories as the foundation of architecture and listening to the inaudible voices of the ground. 
 
-
 Why is memory important in the design of physical spaces? 
 
 Daniel: I consider memory the foundation of architecture. It is memory that creates orientation and gives us a sense of connection between traditions of the past, the present and the future. Memory is key to all my work. When you deal with places of memory, you have to be able to transmit something beyond the past. You have to transmit the hopes of the future. You have to structure the spaces in such a way that it has the equivalent to the complexity of the human spirit and mind. Without memory, we would not know who we are or where we are going.
+
+![Jewish Museum in Berlin designed by Daniel Libeskind](/images/Jewish_Museum.jpg)
+© Studio Libeskind
 
 Why is designing museums and memorials important to you?
 
@@ -36,28 +40,26 @@ How do you go about understanding the essence of a place?
 
 Daniel: You have to know what surrounds you by putting your head and ears on the earth in order to listen, not only to the voices around you but to the inaudible voices. You have to use your eyes to see the invisible parts of the site, not just what you can photograph with your camera. This is the kind of connection that you should search for when you work on a project.
 
- 
 Are there other ways in which you “listen” to the ground?
 
 Daniel: I never go to the site with my camera. I sometimes do not even go with a sketch book or any motive. The Chinese have the concept of the unseen unicorn. The idea is that the unicorn is ever present, but most people only see the white horse. They do not see the unicorn that is hidden and in proximity. 
 
 So the site in the same way is like the invisible unicorn. It is there and is ever present, but is camouflaged by our expectations. You have to open up to the unexpected. If you do not expect the unexpected, you will miss it – it will just go by you! And that is the time that triggers the eureka moment. 
 
-In our need to retain our heritage and cater for the future, how can we
-manage change?
+In our need to retain our heritage and cater for the future, how can we manage change?
 
 Daniel: The key to managing change is lodged in the human heart. We must stay connected to where we are – the sky, the earth, the uniqueness of the genius loci (protective spirit of a place) which is not exchangeable with anything else. The challenge is in taking into account the story that has developed from before we were born into something that will represent future generations. It is about how to shape developments in a way that is inspiring to a child that is just born, who is emerging into the world and still find the world open and free.
 
-For projects with significant public impact such as the new World Trade
-Centre where you were the master planner for the site, how did you see your
-role in managing competing views? 
+For projects with significant public impact such as the new World Trade Centre where you were the master planner for the site, how did you see your role in managing competing views? 
 
 Daniel: I am a great believer in democracy. Every one of my large projects had been in the centre of the public realm. It was engaged in often very tense and fractious public discourse. But without engagement, the project would mean nothing. A project like Ground Zero would never be done if one did not garner extremely competing views. There were very different views on what to do there. Almost every stakeholder had another view. 
+
 As the master planner of the site, I worked to bring people together, not just with an architect there but with a place. What does the place mean? What does the event mean? How do we give hope after such a catastrophic event? How can we develop the city to be full of optimism and beauty, while using memory as a fulcrum of the experience?
 
-At the centre of your master plan for the new World Trade Centre site is
-the retention of the concrete foundation walls that survived. This huge slurry
-wall has become a symbolic hero. 
+![The wall that was retained at the new World Trade Centre site](/images/WTC_Wall.jpg)
+© Studio Libeskind
+
+At the centre of your master plan for the new World Trade Centre site is the retention of the concrete foundation walls that survived. This huge slurry wall has become a symbolic hero. 
 
 Daniel: The wall was a key concept in my masterplan. It is an engineering marvel and represents the strength of the human spirit in the face of tragedy. I thought people should experience the bedrock where the tragedy happened. This is also the foundation from where all the buildings rise up. Opening this foundation to the public view was challenging in every way. Because when you have a foundation, you usually put something on top of it. Exposing it has never been done before in history. It is only in ruins that you can see open foundations but this is a living foundation. 
 
