@@ -12,8 +12,8 @@ var filteredArray = void 0;
 
 paginateResources();
 
-document.getElementById('apply-filter-recent').addEventListener('click', () => applyFilter('Recent'));
-document.getElementById('year-filter-mobile').addEventListener('change', (event) => applyFilter(event.target.value));
+document.getElementById('apply-filter-recent').addEventListener('click', function () { applyFilter('Recent') });
+document.getElementById('year-filter-mobile').addEventListener('change', function (event) { applyFilter(event.target.value) });
 
 // Main function to paginate resource page
 function paginateResources() {
