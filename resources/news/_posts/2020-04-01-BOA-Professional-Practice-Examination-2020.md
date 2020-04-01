@@ -57,6 +57,6 @@ permalink: "/resources/news/boa-professional-practice-examination-2020"
     * Payment to be made in cash / cheque made payable to **Board of Architects**.
     * Examination fees are not refundable.
 
-9.	**In view of the current COVID-19 (Coronavirus Disease 2019) situation and the Ministry of Health’s (MOH) social distancing guidelines, all PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/TJDBtCoeAUqCAQoV8).**
+9.	**In view of the current COVID-19 (Coronavirus Disease 2019) situation and the Ministry of Health’s (MOH) social distancing guidelines, all PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/5GTkfm4B4jSNzJ1P9).**
 
 9.	Application forms, logbooks and case studies must reach the Registrar, Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 by **3.00 pm** on **Monday, 11 May 2020**.
