@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcement to PPE Candidates"
+title:  "Announcement to PPE Candidates (Updated on 21 Apr 2020)"
 date:   2020-04-09
 permalink: "/resources/news/announcement-to-ppe-candidates"
 ---
@@ -8,13 +8,13 @@ permalink: "/resources/news/announcement-to-ppe-candidates"
 
 ### **Update on Submission of PPE QA Reports and Exam Applications**
 
-In line with the latest social distancing measures, the Board’s office and service counter will be closed from 7 Apr 2020 to 4 May 2020. 
+In line with the latest social distancing measures, the Board’s office and service counter will be closed from **7 Apr 2020 to 1 Jun 2020**. 
 
 In response to the feedback from the PPE candidates, we would like to make the following announcements with regards to the submission of April’s quarterly assessment reports and applications to sit for this year’s Professional Practice Examination. 
 
 **A)	Submission of Quarterly Assessment Reports** 
 
-1.	The deadline for submission of the reports will be extended till **29 May 2020**. 
+1.	The deadline for submission of the reports will be extended till **30 Jun 2020**. 
 
 2.	We do **not** accept email submissions.
 
@@ -30,7 +30,7 @@ In response to the feedback from the PPE candidates, we would like to make the f
 
 **B)	BOA Professional Practice Examination 2020**
 
-1.	The deadline for submission of your application to sit for this year’s Professional Practice Examination (PPE) will be extended till **29 May 2020**. 
+1.	The deadline for submission of your application to sit for this year’s Professional Practice Examination (PPE) will be extended till **30 Jun 2020**. 
 
 2.	As there is a need to verify the documents submitted by the candidates, we will **not** accept submissions via email or post. 
 
