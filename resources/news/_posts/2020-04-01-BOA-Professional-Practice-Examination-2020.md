@@ -59,4 +59,4 @@ permalink: "/resources/news/boa-professional-practice-examination-2020"
 
 9.	**In view of the current COVID-19 (Coronavirus Disease 2019) situation and the Ministry of Health’s (MOH) social distancing guidelines, all PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/1SYURXdR7dj4sGMi9).**
 
-9.	Application forms, logbooks and case studies must reach the Registrar, Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 by 5pm on **Friday, 29 May 2020**.
+9.	Application forms, logbooks and case studies must reach the Registrar, Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 by 5pm on **Tuesday, 30 Jun 2020**.
