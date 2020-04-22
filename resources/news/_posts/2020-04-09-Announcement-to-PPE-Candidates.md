@@ -34,7 +34,7 @@ In response to the feedback from the PPE candidates, we would like to make the f
 
 2.	As there is a need to verify the documents submitted by the candidates, we will **not** accept submissions via email or post. 
 
-3.	**In view of the safe distancing guidelines, PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/1SYURXdR7dj4sGMi9). Each candidate is only allowed to book one (1) appointment timeslot.** 
+3.	**In view of the safe distancing guidelines, PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/xuwAKzjG81vcUhbW7). Each candidate is only allowed to book one (1) appointment timeslot.** 
 
 4.	PPE candidates are permitted to let their PPE Advisor/Supervisor sign the following documents **electronically**:
 
