@@ -38,9 +38,7 @@ In response to the feedback from the PPE candidates, we would like to make the f
 
 3.	BOA will continue to monitor the situation and keep the candidates informed of any updates in the application process. PPE candidates are advised to check our website regularly for further updates. 
 
-4.	PPE candidates are permitted to let their PPE Advisor/Supervisor sign the following documents **electronically**:
-    i.  Log sheets - Only applicable for the period between January and March 2020.
-    ii. Case study -  If your case study is signed electronically, you have to include letters from  your PPE Advisor/Supervisor confirming that they have reviewed the case study. The letters must be under the company’s letterhead.  
+4.	PPE candidates are permitted to let their PPE Advisor/Supervisor sign the following documents **electronically**: <br><br> i. Log sheets - Only applicable for the period between January and March 2020. <br><br> ii. Case study -  If your case study is signed electronically, you have to include letters from  your PPE Advisor/Supervisor confirming that they have reviewed the case study. The letters must be under the company’s letterhead.  
 
 5.	PPE candidates are permitted to submit character reference letters which are **signed electronically** by their character referees. 
 
