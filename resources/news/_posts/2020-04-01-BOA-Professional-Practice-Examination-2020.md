@@ -8,7 +8,7 @@ permalink: "/resources/news/boa-professional-practice-examination-2020"
 
 ### **Board of Architects Professional Practice Examination 2020**
 
-1.	The Board of Architects will be holding an examination in Professional Practice in **November 2020**.
+1.	The Board of Architects will be holding an examination in Professional Practice in **November 2020** (subjected to changes in view of the current COVID-19 situation).
 
 2.	Graduates from the National University of Singapore (NUS), the Singapore University of Technology and Design (SUTD) and other recognised Schools of Architecture, who wish to sit for the examination must have registered as Professional Practice Examination Candidates and obtained not less than twenty four (24) months of practical experience in architectural work. This should include practical experience in architectural work in Singapore for a continuous period of at least twelve (12) months. 
 
@@ -57,6 +57,6 @@ permalink: "/resources/news/boa-professional-practice-examination-2020"
     * Payment to be made in cash / cheque made payable to **Board of Architects**.
     * Examination fees are not refundable.
 
-9.	**In view of the current COVID-19 (Coronavirus Disease 2019) situation and the Ministry of Health’s (MOH) social distancing guidelines, all PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/xuwAKzjG81vcUhbW7).**
+9.	**In view of the current COVID-19 (Coronavirus Disease 2019) situation and the Ministry of Health’s (MOH) social distancing guidelines, all PPE candidates are required to book an appointment before coming down to BOA to submit your application. Please note that strictly no walk-ins are allowed. To book an appointment, please complete this [e-booking form]( https://forms.gle/xuwAKzjG81vcUhbW7) (Note: The revised booking form will be available at a later date).**
 
-9.	Application forms, logbooks and case studies must reach the Registrar, Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 by 5pm on **Tuesday, 30 Jun 2020**.
+9.	Application forms, logbooks and case studies must reach the Registrar, Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 by the given deadline (date to be announced later).
