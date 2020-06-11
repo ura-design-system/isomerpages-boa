@@ -31,6 +31,7 @@ permalink: "/resources/news/boa-professional-practice-examination-2020"
 
     * [Application form for admission to PPE 2020]({{site.baseurl}}/files/Application_form_for_PPE_2020.pdf) 
     * [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
+    * [BOA Circular on Subidy for Architectural Practice Course]({{site.baseurl}}/files/BOACircular_Subsidy_APC.pdf)
 
     **Documents:**
 
