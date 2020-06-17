@@ -10,7 +10,7 @@ permalink: "/resources/news/announcement-to-ppe-candidates"
 
 **A)	BOA Professional Practice Examination 2020**
 
-As part of safe distancing measures to minimise the risk of further spread of COVID-19, BOA’s service counter will remain closed during Phase 1 of the post-circuit breaker. <br><br> To facilitate the registration process, **First-time applicants** who are applying to sit for the Professional Practice Examination in 2020 can drop off their submissions at BOA **between 22 to 30 Jun 2020 (excluding weekend)**. <br><br> **Repeat applicants** are required to mail your applications to BOA **by post** by **30 Jun 2020**. 
+To facilitate the registration process, **First-time applicants** who are applying to sit for the Professional Practice Examination in 2020 can drop off their submissions at BOA **between 22 to 30 Jun 2020 (excluding weekend)**. <br><br> **Repeat applicants** are required to mail your applications to BOA **by post** by **30 Jun 2020**. 
 
 **I)	Instructions for Repeat Applicants**
 
@@ -50,7 +50,7 @@ As part of safe distancing measures to minimise the risk of further spread of CO
 
 2.	**The area is monitored by CCTV cameras and security officers.** 
 
-3.	Do **NOT** drop or leave your portfolios at the BOA counter. 
+3.	Do **NOT** walk in to the BOA counter to drop off your applications. 
 
 ![Location of drop off box](/images/Drop-off-box-location.jpg)
 
