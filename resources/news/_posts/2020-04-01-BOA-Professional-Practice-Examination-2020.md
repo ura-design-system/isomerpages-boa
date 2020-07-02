@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Board of Architects Professional Practice Examination 2020"
+title:  "Board of Architects Professional Practice Examination 2020 (Application Closed)"
 date:   2020-04-01
 permalink: "/resources/news/boa-professional-practice-examination-2020"
 ---
 01 Apr 2020
 
-### **Board of Architects Professional Practice Examination 2020**
+### **Board of Architects Professional Practice Examination 2020 (Application Closed)**
 
 1.	The Board of Architects will be holding an examination in Professional Practice in **November 2020** (subjected to changes in view of the current COVID-19 situation).
 
