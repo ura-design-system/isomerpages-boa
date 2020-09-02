@@ -10,7 +10,7 @@ collection_name: register
 
 The following Singapore programmes and schools are recognised by the Board:
 
-* the Degree of Bachelor of Architecture and Degree of Master of Architecture from the National University of Singapore; or
+* the Degree of Bachelor of Architecture (before 2001) and Degree of Master of Architecture from the National University of Singapore; or
 * the Degree of Master of Architecture from the Singapore University of Technology and Design.
 
 ### **International schools**
