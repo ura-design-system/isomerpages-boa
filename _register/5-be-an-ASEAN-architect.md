@@ -22,6 +22,6 @@ To become an ASEAN architect, one must have:
 
 * complied with any other requirements agreed upon by the ASEAN Architect Council.
 
-For more information on the ASEAN Agreement on Mutual Recognition Arrangement on Architectural Services, go to the [ASEAN Architects Council website](http://m.aseanarchitectcouncil.org/mobile/6011/index.asp?pageid=167529&t=home){:target="_blank"}
+For more information on the ASEAN Agreement on Mutual Recognition Arrangement on Architectural Services, go to the [ASEAN Architects Council website](http://aseanarchitectcouncil.net/){:target="_blank"}
 
 For registation to be an ASEAN architect, please download the forms [here](/register/application-forms).
