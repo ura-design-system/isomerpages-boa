@@ -4,7 +4,7 @@ title:  "Announcement to PPE Candidates - Submission of PPE QA Reports"
 date:   2020-09-16
 permalink: "/resources/news/announcement-to-ppe-candidates-qa-reports"
 ---
-16 Jun 2020
+16 Sep 2020
 
 ### **Update on Submission of PPE Quarterly Assessment Reports**
 
