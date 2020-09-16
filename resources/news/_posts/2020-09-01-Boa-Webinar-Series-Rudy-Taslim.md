@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Rudy Taslim of Genesis Architects"
+title:  "BOA Webinar Series: Dialogue with Rudy Taslim of Genesis Architects (Registration Closed)"
 date:   2020-09-01
 permalink: "/resources/news/BOA-Webinar-Series-Rudy-Taslim"
 ---
