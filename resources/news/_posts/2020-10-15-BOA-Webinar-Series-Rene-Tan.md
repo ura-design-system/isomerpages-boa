@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "BOA Webinar Series: Dialogue with Rene Tan of RT+Q Architects Pte Ltd"
+date:   2020-10-15
+permalink: "/resources/news/BOA-Webinar-Series-Rudy-Taslim"
+---
+15 Oct 2020
 
 ### **BOA Webinar Series: Dialogue with Rene Tan of RT+Q Architects Pte Ltd, 29 Oct 2020**
 
-![BOA Webinar Poster](/files/BOA_Webinar_291020.pdf)
-![Dialogue with Rene Tan](images/Dialogue-with-Rene-Tan-Poster.jpg)
+![BOA Webinar Poster](/images/Dialogue-with-Rene-Tan.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA is launching a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 
