@@ -6,7 +6,7 @@ permalink: "/resources/news/BOA-Payment-Methods"
 ---
 13 Nov 2020
 
-### **PAYMENT FOR RENEWAL FEES, APPLICATION FOR LICENSE AND OTHER PAYMENT TO BOARD OF ARCHITECTS**
+### **Payment for Renewal Fees, Application for License and other payment to Board of Architects**
 
 
 Dear Registered Architects,
@@ -59,5 +59,3 @@ Regards
 ### **REGISTRAR**
 
 ### **BOARD OF ARCHITECTS**
-
-
