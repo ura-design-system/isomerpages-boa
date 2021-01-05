@@ -10,7 +10,7 @@ collection_name: register
 
 **A) Professional Practice Examination (PPE) under Section 15(2)(a) of the Architects Act** 
 
-Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination under Section 15(2)(a).
+Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination (PPE) under Section 15(2)(a).
 
 Guidelines:
 
@@ -65,17 +65,19 @@ Application forms:
 
 **D) Application for Registration as an Architect**
 
+Applicant must have passed one of the examinations for registration under Section 15(2)(a), 15(2)(b) or 15(2)(c).
+
 [Application for Registration]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
 
 
 **E) Confirmatory Examination under Section 15(1)(c) of the Architects Act**
 
-Applicants whose architectural degrees are not found in our list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
+Applicants whose architectural degrees are not found in BOA's list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
 Applicants are required to attend a compulsory Pre-submission Briefing before applying to sit for the examination. The schedule can be found under Appendix A of the guidelines. Applicants have to submit the application form to BOA via email at least one week before the date of the briefing.
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines for Section 15(1)(c) (Updated Jan 2020).pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2021.pdf) 
 
 Application forms:
 
@@ -93,13 +95,13 @@ Application forms:
 
 **B) Apply for licence to supply architectural services**
 
-Application for a Licence:
+i) Application for a Licence:
 
 [Form of application for licence]({{site.baseurl}}/files/Form 6 - Application for a Licence Revised.pdf)
 
 [Form of application for licence - Word doc]({{site.baseurl}}/files/Form_6_ Application_for_a_Licence_revised.doc)
 
-Statutory Declaration Form:
+ii) Statutory Declaration Form:
 
 [Form for statutory declaration of compliance for a licence to supply architectural services]({{site.baseurl}}/files/statlic.pdf)
 
