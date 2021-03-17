@@ -16,10 +16,10 @@ The next architect we are featuring in our dialogue series is Ar. Wu Huei Siang 
 
 Under his lead, WASAA Architects & Associates as a boutique practice has gone on to materialize projects such as pedagogical landscapes, landed houses, creative showcases and conservation shophouses, etc. The upcoming projects include a skate park in Jurong Lake Gardens, urban rooftop farm nestled in the heartlands, and a luxury villa in Indonesia. 
 
-Registered architects who are interested to sign up for the webinar are required to complete the [online registration form](https://forms.gle/pEFXEtFY8LUEFjSK6)
+Registered architects and members of the public who are interested to sign up for the webinar are required to complete the [online registration form](https://forms.gle/pEFXEtFY8LUEFjSK6)
 
 **Notes:**
-* The webinar is complimentary for all BOA registered architects. 
+* The webinar is complimentary for all BOA registered architects and members of the public. 
 * Limited to 100 participants for each session. 
 * Registration is on a first-come-first-serve basis. 
 * Registration will close 1 week before the event or when the limit of the participants is reached.
