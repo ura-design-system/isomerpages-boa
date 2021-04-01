@@ -90,7 +90,7 @@ The following international programmes and schools are recognised by the Board:
 		<th colspan="2">ENGLAND</th>
 	</tr>
 	<tr>
-		<td>Architectural Association School of Architecture <br><br/>(Formerly known as the Architectural Association London)</td>
+		<td>Architectural Association School of Architecture<br/>(Formerly known as the Architectural Association London)</td>
 		<td>A A Diploma</td>
 	</tr>
 	<tr>
@@ -130,7 +130,7 @@ The following international programmes and schools are recognised by the Board:
 		<td>1. Master of Architecture <br> 2.Graduate Diploma in Architecture (Historic)</td>
 	</tr>
 	<tr>
-		<td>De Mortfort University (from 1992)<br/>(Formerly known as:<br> Leicester Polytechnic<br>City of Leicester Polytechnic<br> Leicester College of Art</td>
+		<td>De Montfort University (from 1992)<br/>(Formerly known as:<br> Leicester Polytechnic<br>City of Leicester Polytechnic<br> Leicester College of Art</td>
 		<td>1. Master of Architecture<br> 2. Graduate Diploma in Architecture (Historic)</td>
 	</tr>
 	<tr>
