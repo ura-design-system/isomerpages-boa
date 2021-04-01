@@ -90,7 +90,7 @@ The following international programmes and schools are recognised by the Board:
 		<th colspan="2">ENGLAND</th>
 	</tr>
 	<tr>
-		<td>Architectural Association School of Architecture <br><br/>(Formerly known as the Architectural Association London)</td>
+		<td>Architectural Association School of Architecture<br/>(Formerly known as the Architectural Association London)</td>
 		<td>A A Diploma</td>
 	</tr>
 	<tr>
