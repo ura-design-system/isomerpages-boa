@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Board of Architects Professional Practice Examination 2021"
+title:  "Board of Architects Professional Practice Examination 2021 (Application Closed)"
 date:   2021-04-01
 permalink: "/resources/news/boa-professional-practice-examination-2021"
 ---
 01 Apr 2021
 
-### **Board of Architects Professional Practice Examination 2021**
+### **Board of Architects Professional Practice Examination 2021 (Application Closed)**
 
 (1) The Board of Architects will be holding a Professional Practice Examination tentatively in November 2021. All successful applicants will be duly informed of the examination date.
 
