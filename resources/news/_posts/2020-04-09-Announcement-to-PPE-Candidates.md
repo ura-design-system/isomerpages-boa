@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Announcement to PPE Candidates (Updated on 10 Jun 2020)"
-date:   2020-04-09
-permalink: "/resources/news/announcement-to-ppe-candidates"
+title: 'Announcement to PPE Candidates (Updated on 10 Jun 2020)'
+date: 2020-04-09T00:00:00.000Z
+permalink: /resources/news/announcement-to-ppe-candidates
+
 ---
+
 10 Jun 2020
 
 ### **Update on Submission of PPE Quarterly Assessment Reports**
