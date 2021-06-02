@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Showcase your works at URA's new AUDE Space"
-date:   2019-03-20
-permalink: "/resources/news/showcase-your-works-at-AUDE-Space"
+title: 'Showcase your works at URA''s new AUDE Space'
+date: 2019-03-20T00:00:00.000Z
+permalink: /resources/news/showcase-your-works-at-AUDE-Space
+
 ---
+
 Architecture and design firms are invited to showcase their works at Urban Redevelopment Authority (URA)’s new AUDE Space launched on 20 March 2019. 
 
 ![The new AUDE Space at the URA Centre](/images/URA_AUDE_Space_2019.jpg)
