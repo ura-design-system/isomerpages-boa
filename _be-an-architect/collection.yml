@@ -1,0 +1,6 @@
+collections:
+  be-an-architect:
+    output: false
+    order:
+      - the-basics.md
+      - why-architecture.md
