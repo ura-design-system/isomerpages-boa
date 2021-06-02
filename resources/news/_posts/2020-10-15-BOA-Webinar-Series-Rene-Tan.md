@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Rene Tan of RT+Q Architects Pte Ltd"
-date:   2020-10-15
-permalink: "/resources/news/BOA-Webinar-Series-Rudy-Taslim"
+title: 'BOA Webinar Series: Dialogue with Rene Tan of RT+Q Architects Pte Ltd'
+date: 2020-10-15T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Rudy-Taslim
+
 ---
+
 15 Oct 2020
 
 ### **BOA Webinar Series: Dialogue with Rene Tan of RT+Q Architects Pte Ltd, 29 Oct 2020**
