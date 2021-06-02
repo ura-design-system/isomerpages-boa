@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Phua Hong Wei of WOHA Architects Pte Ltd"
-date:   2021-03-16
-permalink: "/resources/news/BOA-Webinar-Series-Phua-Hong-Wei"
+title: 'BOA Webinar Series: Dialogue with Phua Hong Wei of WOHA Architects Pte Ltd'
+date: 2021-03-16T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Phua-Hong-Wei
+
 ---
+
 16 Mar 2021
 
 ### **BOA Webinar Series: Dialogue with Phua Hong Wei of WOHA Architects Pte Ltd, 29 Apr 2021**
