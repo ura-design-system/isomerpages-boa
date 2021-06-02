@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /who-we-are/overview/
 breadcrumb: Overview
-collection_name: who-we-are
+
 ---
+
 
 > The Board of Architects is the statutory authority established to administer the Architects Act in Singapore. The Architects Act 1991 sets out provisions to provide for the registration of architects, the regulation of architectural qualifications, the practice of architecture by registered individuals and the supply of architectural services by corporations.
 
