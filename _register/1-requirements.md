@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Requirements
 permalink: /register/requirements/
 breadcrumb: Requirements
-collection_name: register
+
 ---
+
 To register as an architect in Singapore, you will need to:
 
 * have an approved academic qualification in architecture; 
