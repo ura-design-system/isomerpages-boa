@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Founders' Memorial Design Competition"
-date:   2019-01-10
-permalink: "/resources/news/founders-memorial-design-competition"
+title: 'Founders'' Memorial Design Competition'
+date: 2019-01-10T00:00:00.000Z
+permalink: /resources/news/founders-memorial-design-competition
+
 ---
+
 ![Location of the founders' memorial at Bay East Garden](/images/Founders-memorial-design-competition.jpg)
 © Ministry of National Development
 
