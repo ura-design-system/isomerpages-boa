@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Opening of Sky Green in Taichung, Taiwan"
-date:   2019-11-29
-permalink: "/resources/news/Opening-of-Sky-Green-in-Taichung-WOHA-2019"
+title: 'Opening of Sky Green in Taichung, Taiwan'
+date: 2019-11-29T00:00:00.000Z
+permalink: /resources/news/Opening-of-Sky-Green-in-Taichung-WOHA-2019
+
 ---
+
 29 Nov 2019
 
 ### **Opening of Sky Green in Taichung, Taiwan**
