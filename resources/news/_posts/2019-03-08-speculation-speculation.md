@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speculation Speculation: Everyday Views of Property "
-date:   2019-03-08
-permalink: "/resources/news/SpeculationSpeculation"
+title: 'Speculation Speculation: Everyday Views of Property '
+date: 2019-03-08T00:00:00.000Z
+permalink: /resources/news/SpeculationSpeculation
+
 ---
+
 
 JOINTLY ORGANISED BY NUS DEPARTMENT OF GEOGRAPHY AND GLOBAL URBAN STUDIES - Admission is FREE, all are welcome
 
