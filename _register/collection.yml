@@ -1,0 +1,10 @@
+collections:
+  register:
+    output: true
+    order:
+      - requirements.md
+      - recognised-schools.md
+      - polytechnics-with-waivers.md
+      - be-an-apec-architect.md
+      - be-an-asean-architect.md
+      - application-forms.md
