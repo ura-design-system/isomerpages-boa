@@ -43,7 +43,8 @@ colors:
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five
-      color: '#00838f'staging: https://isomer-boagovsg-staging.netlify.app
+      color: '#00838f'
+staging: https://isomer-boagovsg-staging.netlify.app
 prod: https://isomer-boagovsg-prod.netlify.app
 plugins:
   - jekyll-feed
