@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  RT+Q Architects on being dedicated to the craft
-date:   2018-08-15
-permalink: "/resources/features/RTQ-Architects-on-being-dedicated-to-the-craft"
+title: 'RT+Q Architects on being dedicated to the craft'
+date: 2018-08-15T00:00:00.000Z
+permalink: /resources/features/RTQ-Architects-on-being-dedicated-to-the-craft
+
 ---
+
 ### **Dedication to beauty**
 
 ![Architects Rene Tan and Jonathan Quek at the interview in their office](/images/RTQ-interview.jpg)
