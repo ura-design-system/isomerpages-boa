@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "SCDF: Amendments to Fire Code 2018 - 5th Batch of Amendments"
-date:   2020-09-16
-permalink: "/resources/news/scdf_circular_amendments_fire_code_2018"
+title: 'SCDF: Amendments to Fire Code 2018 - 5th Batch of Amendments'
+date: 2020-09-16T00:00:00.000Z
+permalink: /resources/news/scdf_circular_amendments_fire_code_2018
+
 ---
+
 
 16 Sep 2020
 
