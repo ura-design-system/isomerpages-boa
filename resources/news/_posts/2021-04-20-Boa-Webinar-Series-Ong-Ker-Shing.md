@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Ong Ker-Shing of Lekker Architects"
-date:   2021-04-20
-permalink: "/resources/news/BOA-Webinar-Series-Ong-Ker-Shing"
+title: 'BOA Webinar Series: Dialogue with Ong Ker-Shing of Lekker Architects'
+date: 2021-04-20T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Ong-Ker-Shing
+
 ---
+
 20 Apr 2021
 
 ### **BOA Webinar Series: Dialogue with Ong Ker-Shing of Lekker Architects, 24 May 2021**
