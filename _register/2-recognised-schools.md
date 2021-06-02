@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Recognised schools
+title: 'Recognised schools'
 permalink: /register/recognised-schools/
-breadcrumb: Recognised schools
-collection_name: register
+breadcrumb: 'Recognised schools'
+
 ---
+
 
 ### **Singapore schools**
 
