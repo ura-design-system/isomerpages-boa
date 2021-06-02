@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "2021 Asia Pacific Architecture Festival"
-date:   2021-03-10
-permalink: "/resources/news/SUTD-APAC-Architecture-Festival-2021"
+title: '2021 Asia Pacific Architecture Festival'
+date: 2021-03-10T00:00:00.000Z
+permalink: /resources/news/SUTD-APAC-Architecture-Festival-2021
+
 ---
+
 10 Mar 2021
 
 ### **2021 Asia Pacific Architecture Festival**
