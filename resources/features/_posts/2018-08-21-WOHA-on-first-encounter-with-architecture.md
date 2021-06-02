@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  WOHA on first encounters with architecture
-date:   2018-08-21
-permalink: "/resources/features/WOHA-on-first-encounters-with-architecture"
+title: 'WOHA on first encounters with architecture'
+date: 2018-08-21T00:00:00.000Z
+permalink: /resources/features/WOHA-on-first-encounters-with-architecture
+
 ---
+
 
 ### **Living the dream**
 
