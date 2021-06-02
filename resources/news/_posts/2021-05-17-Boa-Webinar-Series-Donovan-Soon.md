@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Donovan Soon of FDAT Architects LLP"
-date:   2021-05-17
-permalink: "/resources/news/BOA-Webinar-Series-Donovan-Soon"
+title: 'BOA Webinar Series: Dialogue with Donovan Soon of FDAT Architects LLP'
+date: 2021-05-17T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Donovan-Soon
+
 ---
+
 17 May 2021
 
 ### **BOA Webinar Series: Dialogue with Donovan Soon of FDAT Architects LLP, 09 Jun 2021**
