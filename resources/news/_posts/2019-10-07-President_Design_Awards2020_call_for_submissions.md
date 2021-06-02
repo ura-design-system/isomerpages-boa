@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  President*s Design Award 2020 opens for submissions
-date:   2019-10-07
-permalink: "/resources/news/President_Design_Awards2020_call_for_submissions"
+title: 'President*s Design Award 2020 opens for submissions'
+date: 2019-10-07T00:00:00.000Z
+permalink: /resources/news/President_Design_Awards2020_call_for_submissions
+
 ---
+
 ### **President*s Design Award 2020 opens for submissions**
 
 ![President_Design_Award2020](/images/President_Design_Award2020.jpg)
