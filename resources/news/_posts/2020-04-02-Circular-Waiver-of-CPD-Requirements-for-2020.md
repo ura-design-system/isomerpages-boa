@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Circular: Waiver of CPD Requirements for the year 2020"
-date:   2020-04-02
-permalink: "/resources/news/Circular-Waiver-of-CPD-Requirements-2020"
+title: 'BOA Circular: Waiver of CPD Requirements for the year 2020'
+date: 2020-04-02T00:00:00.000Z
+permalink: /resources/news/Circular-Waiver-of-CPD-Requirements-2020
+
 ---
+
 2 Apr 2020
 
 ### **BOA Circular: Waiver of Continuing Professional Development (CPD) Requirements for the year 2020**
