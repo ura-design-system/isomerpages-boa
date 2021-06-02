@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Be an APEC architect
+title: 'Be an APEC architect'
 permalink: /register/be-an-APEC-architect/
-breadcrumb: Be an APEC architect
-collection_name: register
+breadcrumb: 'Be an APEC architect'
+
 ---
+
 
 ### **APEC Architect**
 
