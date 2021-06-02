@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Daniel Libeskind on designing for past and future
-date:   2020-03-13
-permalink: "/resources/features/Daniel-Libeskind-on-designing-for-past-and-future"
+title: 'Daniel Libeskind on designing for past and future'
+date: 2020-03-13T00:00:00.000Z
+permalink: /resources/features/Daniel-Libeskind-on-designing-for-past-and-future
+
 ---
+
 ### **The invisible unicorn**
 
 ![Daniel Libeskind](/images/Daniel.jpg)
