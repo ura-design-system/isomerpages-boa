@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Useful links
+title: 'Useful links'
 permalink: /who-we-are/useful-links/
-breadcrumb: Useful links 
-collection_name: who-we-are
+breadcrumb: 'Useful links'
+
 ---
+
 
 ## Government departments and statutory boards ##
 -	[Singapore Government](https://www.gov.sg/){:target="_blank"}
