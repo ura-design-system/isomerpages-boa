@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Michael Leong of SAA Architects Pte Ltd"
-date:   2021-01-22
-permalink: "/resources/news/BOA-Webinar-Series-Michael-Leong"
+title: 'BOA Webinar Series: Dialogue with Michael Leong of SAA Architects Pte Ltd'
+date: 2021-01-22T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Michael-Leong
+
 ---
+
 22 Jan 2021
 
 ### **BOA Webinar Series: Dialogue with Michael Leong of SAA Architects Pte Ltd, 2 Feb 2021**
