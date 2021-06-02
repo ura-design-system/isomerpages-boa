@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Ko Shiou Hee of K2LD Architects Pte Ltd"
-date:   2021-01-04
-permalink: "/resources/news/BOA-Webinar-Series-Ko-Shiou-Hee"
+title: 'BOA Webinar Series: Dialogue with Ko Shiou Hee of K2LD Architects Pte Ltd'
+date: 2021-01-04T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Ko-Shiou-Hee
+
 ---
+
 4 Jan 2021
 
 ### **BOA Webinar Series: Dialogue with Ko Shiou Hee of K2LD Architects Pte Ltd, 19 Jan 2021**
