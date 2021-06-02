@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "SFA Webinar: Building a Food Resilient Future"
-date:   2020-09-03
-permalink: "/resources/news/SFA-Webinar"
+title: 'SFA Webinar: Building a Food Resilient Future'
+date: 2020-09-03T00:00:00.000Z
+permalink: /resources/news/SFA-Webinar
+
 ---
+
 
 3 Sep 2020
 
