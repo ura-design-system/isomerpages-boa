@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Application forms
+title: 'Application forms'
 permalink: /register/application-forms/
 breadcrumb: Forms
-collection_name: register
+
 ---
+
 
 ### **Part I - Register as an architect**
 

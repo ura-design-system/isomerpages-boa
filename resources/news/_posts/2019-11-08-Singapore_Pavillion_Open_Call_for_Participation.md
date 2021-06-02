@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Singapore Pavillion: Open Call for Participation"
-date:   2019-11-08
-permalink: "/resources/news/Singapore_Pavillion_Open_Call_for_Participation"
+title: 'Singapore Pavillion: Open Call for Participation'
+date: 2019-11-08T00:00:00.000Z
+permalink: /resources/news/Singapore_Pavillion_Open_Call_for_Participation
+
 ---
+
 
 TO GATHER: The Architecture of Relationships
 The Singapore Pavilion at the 17th International Architecture Exhibition, La Biennale di Venezia

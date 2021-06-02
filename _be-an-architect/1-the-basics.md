@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: The basics
+title: 'The basics'
 permalink: /be-an-architect/the-basics/
-breadcrumb: The basics
-collection_name: be-an-architect
+breadcrumb: 'The basics'
+
 ---
+
 
 ### **The basics**
 

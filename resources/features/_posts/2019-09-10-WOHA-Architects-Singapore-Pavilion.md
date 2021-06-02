@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Singapore Pavilion
-date:   2019-09-10
-permalink: "/resources/features/WOHA-Architects-Singapore-Pavilion"
+title: 'Singapore Pavilion'
+date: 2019-09-10T00:00:00.000Z
+permalink: /resources/features/WOHA-Architects-Singapore-Pavilion
+
 ---
+
 ### **WOHA designs the Singapore Pavilion for the 2020 World Expo in Dubai.**
 
 ![Singapore Pavilion Front View](/images/Singapore-Pavilion-Front-View-1.jpg)

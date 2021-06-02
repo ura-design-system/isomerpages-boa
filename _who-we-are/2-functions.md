@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Functions
 permalink: /who-we-are/functions/
 breadcrumb: Functions
-collection_name: who-we-are
+
 ---
+
 
 ### **The main functions provided by the Board under the Architects Act 1991 are:**
 

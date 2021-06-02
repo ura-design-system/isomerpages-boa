@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  A solid plan 
-date:   2019-07-22
-permalink: "/resources/features/A-solid-plan"
+title: 'A solid plan'
+date: 2019-07-22T00:00:00.000Z
+permalink: /resources/features/A-solid-plan
+
 ---
+
 ### **From a home to a national stage, three friends and also partners of ASOLIDPLAN are leaving their imprints in designing spaces for people.**
 
 ![ASPOLIDPLAN architects](/images/asolidplanarchitects.jpg)

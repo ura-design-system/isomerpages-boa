@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Webinar Series: Dialogue with Lim Pin Jie of A D Lab Pte Ltd"
-date:   2021-02-08
-permalink: "/resources/news/BOA-Webinar-Series-Lim-Pin-Jie"
+title: 'BOA Webinar Series: Dialogue with Lim Pin Jie of A D Lab Pte Ltd'
+date: 2021-02-08T00:00:00.000Z
+permalink: /resources/news/BOA-Webinar-Series-Lim-Pin-Jie
+
 ---
+
 08 Feb 2021
 
 ### **BOA Webinar Series: Dialogue with Lim Pin Jie of A D Lab Pte Ltd, 24 Feb 2021**

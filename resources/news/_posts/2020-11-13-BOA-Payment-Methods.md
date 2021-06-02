@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "PAYMENT FOR RENEWAL FEES, APPLICATION FOR LICENSE AND OTHER PAYMENT TO BOARD OF ARCHITECTS"
-date:   2020-11-13
-permalink: "/resources/news/BOA-Payment-Methods"
+title: 'PAYMENT FOR RENEWAL FEES, APPLICATION FOR LICENSE AND OTHER PAYMENT TO BOARD OF ARCHITECTS'
+date: 2020-11-13T00:00:00.000Z
+permalink: /resources/news/BOA-Payment-Methods
+
 ---
+
 13 Nov 2020
 
 ### **Payment for Renewal Fees, Application for License and other payment to Board of Architects**

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Board of Architects Professional Practice Examination 2021 (Application Closed)"
-date:   2021-04-01
-permalink: "/resources/news/boa-professional-practice-examination-2021"
+title: 'Board of Architects Professional Practice Examination 2021 (Application Closed)'
+date: 2021-04-01T00:00:00.000Z
+permalink: /resources/news/boa-professional-practice-examination-2021
+
 ---
+
 01 Apr 2021
 
 ### **Board of Architects Professional Practice Examination 2021 (Application Closed)**

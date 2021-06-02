@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Mario Botta - The Space Beyond"
-date:   2019-04-10
-permalink: "/resources/news/Mario Botta's lecture"
+title: 'Mario Botta - The Space Beyond'
+date: 2019-04-10T00:00:00.000Z
+permalink: '/resources/news/Mario Botta''s lecture'
+
 ---
+
 ![Location of Mario Botta's lecture](/images/Capture.jpeg)
 
 Masterclass and Screening 

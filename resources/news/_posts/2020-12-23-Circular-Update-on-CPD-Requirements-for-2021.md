@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "BOA Circular: Update on CPD Requirements for the year 2021"
-date:   2020-12-23
-permalink: "/resources/news/Update-on-CPD-Requirements-2021"
+title: 'BOA Circular: Update on CPD Requirements for the year 2021'
+date: 2020-12-23T00:00:00.000Z
+permalink: /resources/news/Update-on-CPD-Requirements-2021
+
 ---
+
 23 Dec 2020
 
 ### **BOA Circular: Update on Continuing Professional Development (CPD) Requirements for the year 2021**

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Rainbow twist
-date:   2019-07-22
-permalink: "/resources/features/Plystudio-Architects-rainbow-twist"
+title: 'Rainbow twist'
+date: 2019-07-22T00:00:00.000Z
+permalink: /resources/features/Plystudio-Architects-rainbow-twist
+
 ---
+
 ### **Plystudio Architects’ focus on functionality and simplicity has created beautiful and useful spaces.**
 
 ![Architects Victor Lee and Jacqueline Yeo at the Rainbow Centre extension](/images/plystudioarchitects.jpg)

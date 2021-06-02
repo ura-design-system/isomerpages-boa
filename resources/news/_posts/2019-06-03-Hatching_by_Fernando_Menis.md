@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Hatching by Fernando Menis"
-date:   2019-06-03
-permalink: "/resources/news/Hatching by Fernando Menis"
+title: 'Hatching by Fernando Menis'
+date: 2019-06-03T00:00:00.000Z
+permalink: '/resources/news/Hatching by Fernando Menis'
+
 ---
+
 ![Location of Fernando Menis](/images/Fernando.JPG)
 
 URA Speaker Series: Hatching 

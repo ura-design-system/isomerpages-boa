@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Be an ASEAN architect
+title: 'Be an ASEAN architect'
 permalink: /register/be-an-ASEAN-architect/
-breadcrumb: Be an ASEAN architect
-collection_name: register
+breadcrumb: 'Be an ASEAN architect'
+
 ---
+
 
 ### **ASEAN Architect**
 

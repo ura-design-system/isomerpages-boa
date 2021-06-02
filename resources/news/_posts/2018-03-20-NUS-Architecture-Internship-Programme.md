@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "NUS Architecture Internship Programme"
-date:   2018-03-20
-permalink: "/resources/news/nus-architecture-internship-programme"
+title: 'NUS Architecture Internship Programme'
+date: 2018-03-20T00:00:00.000Z
+permalink: /resources/news/nus-architecture-internship-programme
+
 ---
+
 Our Ref: BOA 116.2 (Circular) 
 
 20 Mar 2018 

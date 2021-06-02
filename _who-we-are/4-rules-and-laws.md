@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Rules and laws
+title: 'Rules and laws'
 permalink: /who-we-are/rules-and-laws/
-breadcrumb: Rules and laws
-collection_name: who-we-are
+breadcrumb: 'Rules and laws'
+
 ---
+
 
 ### **The Architects Act**
 
