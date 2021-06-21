@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /faq/
 breadcrumb: FAQ
 title: FAQ
+
 ---
+
 
 #### **To practise architecture in Singapore, is registration required by law for indigenous and foreign persons?**
 

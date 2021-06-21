@@ -1,0 +1,9 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - overview.md
+      - functions.md
+      - board.md
+      - rules-and-laws.md
+      - useful-links.md

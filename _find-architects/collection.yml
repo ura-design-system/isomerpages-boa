@@ -1,0 +1,8 @@
+collections:
+  find-architects:
+    output: true
+    order:
+      - register-of-architects.md
+      - register-of-architectural-firms.md
+      - register-of-asean-architects.md
+      - register-of-apec-architects.md

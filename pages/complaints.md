@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /complaints/
 breadcrumb: Complaints
 title: Complaints
+
 ---
+
 
 ## Complaint against a registered architect
 
