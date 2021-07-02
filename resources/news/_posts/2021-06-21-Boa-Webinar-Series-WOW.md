@@ -12,7 +12,7 @@ permalink: "/resources/news/BOA-Webinar-Series-WOW"
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 
-The architects we are featuring next in our dialogue series are Ar. Maria Warner Wong and Ar. Wong Chiu Man of WOW Architects. Maria and Chiu Man lead the international multidisciplinary consultancy firm WOW Architects | Warner Wong Design providing design expertise in architecture, interior and landscape design.  Their Mission is to create spaces of extraordinary sensory experience rooted in culture memory and place.
+The architects we are featuring next in our dialogue series are Ar. Maria Warner Wong and Ar. Wong Chiu Man of WOW Architects. Maria and Chiu Man lead the international multidisciplinary consultancy firm WOW Architects I Warner Wong Design providing design expertise in architecture, interior and landscape design.  Their Mission is to create spaces of extraordinary sensory experience rooted in culture memory and place.
 
 In the years since the firms were established, they have received multiple international design awards including the Singapore Institute of Architects building of the year, Prix Versailles, LEAF Awards, SBID Awards, AHEAD Awards.
 
