@@ -513,8 +513,8 @@ The following international programmes and schools are recognised by the Board:
 		<td>Bachelor of Engineering (Architecture)</td>
 	</tr>
 	<tr>
-		<td>Tama University of Fine Arts</td>
-		<td>Bachelor of Engineering (Architecture)</td>
+		<td>Tama Art University</td>
+		<td>Bachelor of Fine Arts (Architecture)</td>
 	</tr>
 	<tr>
 		<td>Tohoku University</td>

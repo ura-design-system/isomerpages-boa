@@ -152,3 +152,9 @@ Sample templates:
 
 [Registration form for Collaborating between Foreign Architect with BOA Registered Architect]({{site.baseurl}}/files/form_collaboration.pdf)
 
+### **Available Payment Methods**
+
+In view of the COVID-19 situation, architects and applicants can make payment to BOA via cheque, PayNow and internet banking. Please refer to the following instructions for payment via PayNow and internet banking:
+
+[Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Instructions_PayNow_Internet_Banking.pdf)
+
