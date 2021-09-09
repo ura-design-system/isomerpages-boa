@@ -21,6 +21,6 @@ Time: 4pm to 5.30pm<br/>
 
 Various professional institutes and associations will also be organising similar webinars on subsequent Fridays through the months of September, October and November.
 
-To register, please complete the [online registration form](go.gov.sg/cxwebinar).
+To register, please complete the [online registration form](https://form.gov.sg/#!/611f0879951ff300125fa9f7?utm_source=Form%20SG&utm_medium=Link&utm_campaign=CX%20Webinar).
 
 For any feedback or enquiries related to CORENET X, please contact the Building and Construction Authority (BCA) via this [form](https://form.gov.sg/#!/60af350d9b02630012f8e513).
