@@ -1,28 +1,24 @@
 # Board of Directors
-- name: Ar. Tan Shao Yen
+- name: Ar. Chan Kok Way
   title: President
-  organisation: CPG Consultants Pte Ltd
-  image-url: /images/Tan Shao Yen.jpg
+  organisation: SD Architects & Associates Pte. Ltd.
+  image-url: /images/ChanKokWay_2022.jpeg
 - name: Ar. Ang Kong Siong, Tony
   title: Member
   organisation: AEDAS Pte Ltd
-  image-url: /images/Tony Ang.jpg
-- name: Ar. Chan Eng Chye, Theodore
+  image-url: /images/TonyAng2022.jpg
+- name: Ar. Catherine Loke Su Im
   title: Member
-  organisation: CIAP Architects Pte Ltd
-  image-url: /images/Theodore Chan.jpg
-- name: Ar. Chan Kok Way
-  title: Member
-  organisation: SD Architects & Associates Pte Ltd
-  image-url: /images/Chan Kok Way.jpg
-- name: Ar. Chan Li Chen, Angelene
-  title: Member
-  organisation: DP Architects Pte Ltd
-  image-url: /images/Angelene Chan.jpg
+  organisation: Lander Loke Architects
+  image-url: /images/CatherineLoke2022.jpg
 - name: Ar. Cheah Kok Ming
   title: Member
-  organisation: National University of Singapore, Department of Architecture, School of Design and Environment
+  organisation: National University of Singapore
   image-url: /images/Cheah Kok Ming.jpg
+- name: Ar. Darren Benger
+  title: Member
+  organisation: VivATA Pte Ltd
+  image-url: /images/DarrenBenger2022.jpg
 - name: Ar. Fun Siew Leng
   title: Member
   organisation: Urban Redevelopment Authority
@@ -31,22 +27,26 @@
   title: Member
   organisation: Kite Studio Architecture Pte Ltd
   image-url: /images/Khai.jpg
-- name: Ar. Ong Tze Boon
+- name: Ar. Ng San Son
   title: Member
-  organisation: ONG&ONG Pte Ltd
-  image-url: /images/Ong Tze Boon.jpg
+  organisation: DP Architects Pte Ltd
+  image-url: /images/NgSanSon2022.jpg
 - name: Ar. Teh Joo Heng
   title: Member
   organisation: Teh Joo Heng Architects 
   image-url: /images/Teh Joo Heng.jpg
 - name: Ar. Wo Mei Lan
-  title: Member
+  title: Member 
   organisation: Liu & Wo Architects Pte Ltd
   image-url: /images/Wo Mei Lan.PNG
 - name: Ar. Woo Kok Chew, Raymond
   title: Member
   organisation: Raymond Woo & Associates Architects 
   image-url: /images/Raymond Woo.jpg
+- name: Ar. Yeo Siew Haip
+  title: Member
+  organisation: SAA Architects Pte Ltd
+  image-url: /images/YeoSiewHaip2022.jpg
 - name: Ar. Lai Teck Chuan
   title: Member
   organisation: ADDP Architects LLP
