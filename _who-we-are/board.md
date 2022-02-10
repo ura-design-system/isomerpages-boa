@@ -18,4 +18,4 @@ With effect from 1st October 2005, the Board will consist of the following membe
 * Six registered architects who are appointed by the Minister, and
 * A registered professional engineer from PEB
 
-#### **Board Members (2019-2021)**
+#### **Board Members (2022-2024)**
