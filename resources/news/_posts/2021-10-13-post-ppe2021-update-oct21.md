@@ -10,7 +10,7 @@ permalink: "/resources/news/PPE2021-Update-Oct21"
 
 The Board would like to update the PPE candidates who have signed up for the Professional Practice Examination 2021 on the timeline for the examination. 
 
-As you may be aware, last year’s written examination was postponed to March 2021 and the oral examination was correspondingly postponed to June 2021 to comply with the Safe Management Measures (SMMs) implemented during the COVID-19 pandemic.  Despite the delays, we are happy to announce that the passing rate of the candidates is consistent with the past few years. 
+As you may be aware, last year’s written examination was postponed to March 2021 and the oral examination was correspondingly postponed to August 2021 to comply with the Safe Management Measures (SMMs) implemented during the COVID-19 pandemic.  Despite the delays, we are happy to announce that the passing rate of the candidates is consistent with the past few years. 
 
 To bring candidates up to date with this year’s examination, we would like to report that the examination panel has completed the review of the case studies submitted for PPE 2021 and has conducted follow up sessions for candidates that do not meet requirements in September 2021 via Zoom. 
 
