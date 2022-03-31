@@ -24,9 +24,9 @@ permalink: /resources/news/boa-professional-practice-examination-2022
 
 _The following documents must be mailed to the Board of Architects at 5 Maxwell Road # 01-03 Tower Block MND Complex Singapore 069110 **via post**. Do **not** drop the application off at our counter or email it to BOA._
 
-(i) [Application form for admission to PPE 2022]({{site.baseurl}}/files/Application_form_for_PPE_2022.pdf) <br/> 
+(i) [Application form for admission to PPE 2022]({{site.baseurl}}/forms/Application_form_for_PPE_2022.pdf) <br/> 
 (ii) [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf) <br/>
-(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/BOA_Circular_Subsidy_for_APC_Course_2022.pdf) <br/>
+(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/forms/BOA_Circular_Subsidy_for_APC_Course_2022.pdf) <br/>
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcripts of courses completed (showing subjects and examination results) <br/>
 (vi) **2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_**
@@ -38,7 +38,7 @@ _Candidates are required to upload the soft copy of the following documents onto
 (i) Practical Experience Logbook <br/>
 (ii) Professional Case Study 
 
-**Please refer to [Annex A]({{site.baseurl}}/files/Annex_A_Notes_PPE2022.pdf) for “Notes for Submission of the Log Book and Professional Case Study”.** 
+**Please refer to [Annex A]({{site.baseurl}}/forms/Annex_A_Notes_PPE2022.pdf) for “Notes for Submission of the Log Book and Professional Case Study”.** 
 
 **(C) Fees payable:**
     
