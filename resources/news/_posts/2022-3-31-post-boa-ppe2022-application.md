@@ -38,7 +38,7 @@ _Candidates are required to upload the soft copy of the following documents onto
 (i) Practical Experience Logbook <br/>
 (ii) Professional Case Study 
 
-**Please refer to [Annex A]({{site.baseurl}}/forms/Annex_A_Notes_PPE2022.pdf) for “Notes for Submission of the Log Book and Professional Case Study”.** 
+**Please refer to [Annex A]({{site.baseurl}}/forms/AnnexA_PPE.pdf) for “Notes for Submission of the Log Book and Professional Case Study”.** 
 
 **(C) Fees payable:**
     
