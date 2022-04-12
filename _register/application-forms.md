@@ -14,7 +14,7 @@ Architectural graduates, with a recognised qualification in architecture, must a
 
 Guidelines:
 
-[Download guide for PPE Candidates]({{site.baseurl}}/files/General_Info_for_PPE_candidates_Updated_2019.pdf)
+[Download guide for PPE Candidates]({{site.baseurl}}/files/General_Info_for_PPE_candidates_Updated_2022.pdf)
 
 [Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
 
