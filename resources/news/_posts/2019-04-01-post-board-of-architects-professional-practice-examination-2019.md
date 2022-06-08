@@ -14,7 +14,7 @@ permalink: /resources/news/boa-professional-practice-examination-2019
 
 2.	Graduates from the National University of Singapore (NUS), the Singapore University of Technology and Design (SUTD) and other recognised Schools of Architecture, who wish to sit for the examination must have registered as Professional Practice Examination Candidates and obtained not less than twenty four (24) months of practical experience in architectural work. This should include practical experience in architectural work in Singapore for a continuous period of at least twelve (12) months. 
 
-3.	All candidates are required to attend an **Architectural Practice Course** which will be conducted by the Singapore Institute of Architects (SIA) on behalf of the Board.  They can contact [SIA](https://http://www.sia.org.sg/){:target="_blank"}. directly on this matter. Please note that attendance at all tutorial sessions is **compulsory**. Candidates who are unable to attend the scheduled tutorial sessions for medical or other justifiable reasons must produce to the Board such reason of absence before they are allowed to sit for the examination.
+3.	All candidates are required to attend an **Architectural Practice Course** which will be conducted by the Singapore Institute of Architects (SIA) on behalf of the Board.  They can contact [SIA](https://www.sia.org.sg){:target="_blank"}. directly on this matter. Please note that attendance at all tutorial sessions is **compulsory**. Candidates who are unable to attend the scheduled tutorial sessions for medical or other justifiable reasons must produce to the Board such reason of absence before they are allowed to sit for the examination.
 
 4.	Use of digital readers, laptops and digitized reference materials for the PPE 2019:
     
