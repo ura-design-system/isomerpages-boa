@@ -45,7 +45,7 @@ breadcrumb: 'Useful links'
 -	[Royal Institute of British Architects (RIBA)](https://www.architecture.com/){:target="_blank"}
 -	[American Institute of Architects (AIA)](https://www.aia.org/){:target="_blank"}
 -	[Royal Australian Institute of Architects (RAIA)](http://architecture.com.au/){:target="_blank"}
--	[Hong Kong Institute of Architects (HKIA)](http://www.hkia.net/en/Home/Index.htm){:target="_blank"}
+-	[Hong Kong Institute of Architects (HKIA)](http://www.hkia.net/){:target="_blank"}
 -	[Pertubuhan Akitek Malaysia (PAM)](http://www.pam.org.my/){:target="_blank"}
 -	[New Zealand Institute of Architects (NZIA)](http://www.nzia.co.nz/){:target="_blank"}
 -	[Architectural Institute of Japan (AIJ)](https://www.aij.or.jp/){:target="_blank"}
