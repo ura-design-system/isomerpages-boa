@@ -1,4 +1,10 @@
 ---
+layout: post
+title:  " Announcement to PPE candidates"
+date:   2022-07-28
+permalink: "/resources/news/PPE2021-Update-Jul22"
+
+---
 28 Jul 2022
 
 ### **Announcement to PPE candidates - Update on the Professional Practice Examination 2021**
