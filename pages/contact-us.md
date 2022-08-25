@@ -23,9 +23,6 @@ contacts:
       content:
             - phone: '+65 6222 5295'
             - email: BOA_Enquiry@boa.gov.sg
-    - title: Fax
-      content:
-            - phone: '+65 6222 4452'
     - title: 'Make a complaint'
       content:
             - other: 'A complaint may be lodged against a registered architect if he has contravened the provisions of the Architects Act.'
