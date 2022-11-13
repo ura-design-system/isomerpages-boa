@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOA Presentation Ceremony and Seminar 2022, 15 Nov 2022'
+title: 'Programme Booket - BOA Presentation Ceremony and Seminar 2022'
 date: 2022-11-13
 permalink: /resources/news/boa-seminar-prog-booklet
 
