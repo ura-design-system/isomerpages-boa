@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Programme Booket - BOA Presentation Ceremony and Seminar 2022'
+title: 'Programme Booklet - BOA Presentation Ceremony and Seminar 2022'
 date: 2022-11-13
 permalink: /resources/news/boa-seminar-prog-booklet
 
@@ -12,4 +12,4 @@ permalink: /resources/news/boa-seminar-prog-booklet
 
 Click here for the [Programme Booklet]({{site.baseurl}}/files/BOA_Seminar_2022_Programme_Booklet.pdf). 
 
-![Programme Booklet](images/Cover.JPG)
+![Programme Booklet](files/Programme_Booklet_Cover.pdf)
