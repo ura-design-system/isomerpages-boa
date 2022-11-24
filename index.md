@@ -8,7 +8,7 @@ sections:
           title: 'Board of Architects'
           subtitle: 'We help regulate Singapore''s architectural profession and celebrate good designs'
           background: /images/boa-hero-banner-min.jpg
-          button: 'Learn More'
+          button: 'Overview'
           url: /who-we-are/overview
           key_highlights:
                 - title: 'Know the latest'
