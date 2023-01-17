@@ -81,7 +81,7 @@ Guidelines:
 
 Application forms:
 
-[Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
+[Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2023.pdf)
 
 [Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
 
