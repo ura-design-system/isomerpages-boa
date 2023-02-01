@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Harry Seidler Exhibition at NUS, 16 Feb - 8 March 2023"
+title:  "Harry Seidler Exhibition at NUS, 16 Feb - 8 Mar 2023"
 date:   2023-02-01
 permalink: "/resources/news/NUS-Harry-Seidler-Exhibition"
 ---
