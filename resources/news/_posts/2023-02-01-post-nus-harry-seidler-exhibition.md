@@ -12,7 +12,7 @@ The Department of Architecture is hosting the Harry Seidler Exhibition at the Na
 
 Harry Seidler: Painting Toward Architecture is the final stop of a traveling exhibition that went to 32 cities in 20 countries in Europe, North and South America, Asia, and Australia. The show traces the work of Harry Seidler, Australia’s most prominent 20th-century architect, and examines his distinctive place and hand within and beyond the Modernist design methodology.
 
-The opening night will be held on 16 Feb 2023 at 6.30pm. It starts with a lecture by curator Vladimir Belogolovsky, followed by the exhibition opening and walkthrough. All are welcome to register their attendance here or via the QR code in the poster attached. The event has been approved for **2 SIA/BOA points**.
+The opening night will be held on 16 Feb 2023 at 6.30pm. It starts with a lecture by curator Vladimir Belogolovsky, followed by the exhibition opening and walkthrough. All are welcome to register their attendance [here](https://nus.syd1.qualtrics.com/jfe/form/SV_9HR6qBaNyE2D8Oi)  or via the QR code in the poster attached. The event has been approved for **2 SIA/BOA points**.
 
 Please visit NUS’s [website]( https://cde.nus.edu.sg/event/harry-seidler-painting-toward-architecture/) for more information. 
 
