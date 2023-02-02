@@ -77,11 +77,11 @@ Applicants are required to attend a compulsory Pre-submission Briefing before ap
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2022.pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}} files/Guidelines_for_Section_15(1)(c)_Updated_2023.pdf) 
 
 Application forms:
 
-[Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2023.pdf)
+[Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
 
 [Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
 
@@ -157,4 +157,3 @@ Sample templates:
 In view of the COVID-19 situation, architects and applicants can make payment to BOA via cheque, PayNow and internet banking. Please refer to the following instructions for payment via PayNow and internet banking:
 
 [Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Instructions_PayNow_Internet_Banking.pdf)
-
