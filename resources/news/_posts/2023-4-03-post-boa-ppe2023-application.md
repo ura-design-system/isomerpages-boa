@@ -25,11 +25,12 @@ permalink: /resources/news/boa-professional-practice-examination-2023
 _The following documents must be mailed to the Board of Architects at 5 Maxwell Road # 01-03 Tower Block MND Complex Singapore 069110 **via post**. Do **not** drop the application off at our counter or email it to BOA._
 
 (i) [Application form for admission to PPE 2023]({{site.baseurl}}/forms/Application_form_for_PPE_2023.pdf) <br/> 
-(ii) [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf) <br/>
+(ii) [Application for registration as an Architect]({{site.baseurl}}/forms/Form_1_Application_for_Registration.pdf) <br/>
 (iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/BOA_Circular_Subsidy_for_APC_Course_2023.pdf) <br/>
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcript for the above degree/diploma (showing subjects and examination results) <br/>
-(vi) **2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_**
+(vi) **2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_**<br/>
+(v) 1 copy of NRIC/Passport
 
 **(B) Documents to be submitted via _GOOGLE FORMS_:**
 
@@ -49,8 +50,8 @@ _***First time applicants who have previously paid $100.00 to sign up as PPE can
 
 _**Notes:**_
 
-(a) Examination fees are not refundable. <br/>
-(b) Payment can now be made via PayNow and Internet Banking.
+(a) Examination fee and Registration fee are not refundable. <br/>
+(b) Payment can be made via PayNow and Internet Banking. <br/>
 (c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
 (i) In the comments section, indicate your name followed by your contact number. For eg. _Aloysius Wong 91234567_<br/> 
