@@ -50,7 +50,7 @@ _***First time applicants who have previously paid $100.00 to sign up as PPE can
 
 _**Notes:**_
 
-(a) Examination fee and Registration fee are not refundable. <br/>
+(a) Examination fees are not refundable. <br/>
 (b) Payment can be made via PayNow and Internet Banking. <br/>
 (c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
