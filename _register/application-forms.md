@@ -10,7 +10,10 @@ breadcrumb: Forms
 
 **A) Professional Practice Examination (PPE) under Section 15(2)(a) of the Architects Act** 
 
-Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination (PPE) under Section 15(2)(a).
+Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination (PPE) under Section 15(2)(a).<br/>
+Applications to become a PPE candidate are to be submitted to BOA **via post** with fees made by PayNow/Internet Banking. Please mail the completed application forms with the copies of the supporting documents to the Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110. <br/>
+Applicants are required to come to BOA in person and bring the original educational certificates, academic transcripts, NRIC/Passport, etc. for verification. An officer will contact the applicant upon receipt of the application to arrange for an appointment for the verification.  
+Please note that we do not accept walk-in applications or applications received via emails.
 
 Guidelines:
 
@@ -30,6 +33,9 @@ Quarterly Assessment Reports:
 
 [Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
 
+Sample template of the Log Sheet (Log Book can be purchased from BOA at $16 each):
+
+[Sample template of logsheet]({{site.baseurl}}/files/BOA_PPE_Logsheet_Template.pdf)
 
 **B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
@@ -67,7 +73,7 @@ Application forms:
 
 Applicant must have passed one of the examinations for registration under Section 15(2)(a), 15(2)(b) or 15(2)(c).
 
-[Application for Registration]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
+[Application for Registration]({{site.baseurl}}/forms/Form_1_Application_for_Registration.pdf)
 
 
 **E) Confirmatory Examination under Section 15(1)(c) of the Architects Act**
