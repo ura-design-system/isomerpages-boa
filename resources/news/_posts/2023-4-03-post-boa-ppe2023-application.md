@@ -30,7 +30,7 @@ _The following documents must be mailed to the Board of Architects at 5 Maxwell 
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcript for the above degree/diploma (showing subjects and examination results) <br/>
 (vi) **2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_**<br/>
-(v) 1 copy of NRIC/Passport
+(vii) 1 copy of NRIC/Passport
 
 **(B) Documents to be submitted via _GOOGLE FORMS_:**
 
