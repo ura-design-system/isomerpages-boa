@@ -30,9 +30,6 @@ contacts:
             
     - title: 'Send us your feedback'
       content:
-
             - other: 'If you have a query, feedback or wish to report a problem related to this website, please fill in the <a href="https://www.form.gov.sg/63fd7c6b82b7540013cc10a4">Online Form</a>.
-            
-
 ---
 
