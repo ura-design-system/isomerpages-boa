@@ -27,6 +27,12 @@ contacts:
       content:
             - other: 'A complaint may be lodged against a registered architect if he has contravened the provisions of the Architects Act.'
             - other: '<a href="/complaints/">View details</a>'
+            
+    - title: 'Send us your feedback'
+      content:
+
+            - other: 'If you have a query, feedback or wish to report a problem related to this website, please fill in the <a href="https://www.form.gov.sg/63fd7c6b82b7540013cc10a4">Online Form</a>.
+            
 
 ---
 
